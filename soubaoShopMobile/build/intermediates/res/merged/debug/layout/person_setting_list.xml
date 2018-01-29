@@ -1,0 +1,29 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ListView
+        android:id="@+id/setting_listv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="55dip"
+        android:divider="@color/separator_line"
+        android:dividerHeight="1px"
+        android:fadingEdge="none"
+        android:fastScrollEnabled="false"
+        android:footerDividersEnabled="false"
+        android:headerDividersEnabled="false"
+        android:scrollbars="none"
+        android:smoothScrollbar="true" />
+
+    <Button
+        android:id="@+id/exit_btn"
+        style="@style/button_style"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_button"
+        android:layout_gravity="bottom"
+        android:layout_marginBottom="@dimen/margin_space"
+        android:layout_marginLeft="@dimen/margin_space"
+        android:layout_marginRight="@dimen/margin_space"
+        android:text="@string/exit" />
+</FrameLayout>

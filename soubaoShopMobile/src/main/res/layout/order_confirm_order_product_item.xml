@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/bg_activity"
+        android:paddingBottom="@dimen/margin_space_half"
+        android:paddingTop="@dimen/margin_space_half">
+
+        <com.tpshop.mall.widget.SPBorderImageView
+            android:id="@+id/product_pic_imgv"
+            android:layout_width="80.0dip"
+            android:layout_height="80.0dip"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:background="@color/white"
+            android:scaleType="fitCenter"
+            android:src="@drawable/icon_product_null" />
+
+        <TextView
+            android:id="@+id/product_name_txtv"
+            style="@style/textStyle.Normal.black"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin_space_half"
+            android:layout_marginRight="@dimen/margin_space"
+            android:layout_toRightOf="@id/product_pic_imgv"
+            android:ellipsize="end"
+            android:maxLines="1" />
+
+        <TextView
+            android:id="@+id/product_spec_txtv"
+            style="@style/textStyle.Normal.subTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/product_name_txtv"
+            android:layout_marginLeft="@dimen/margin_space_half"
+            android:layout_marginRight="@dimen/margin_space"
+            android:layout_marginTop="@dimen/margin_space_half"
+            android:layout_toRightOf="@id/product_pic_imgv"
+            android:ellipsize="end"
+            android:maxEms="6"
+            android:maxLines="1" />
+
+        <TextView
+            android:id="@+id/product_price_txtv"
+            style="@style/textStyle.Normal.lightRed"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/product_spec_txtv"
+            android:layout_marginLeft="@dimen/margin_space_half"
+            android:layout_marginTop="@dimen/margin_space_half"
+            android:layout_toRightOf="@id/product_pic_imgv"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:maxWidth="@dimen/dp_150" />
+
+        <TextView
+            android:id="@+id/exchange_txtv"
+            style="@style/textStyle.Normal.Gray"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/product_price_txtv"
+            android:layout_marginLeft="@dimen/margin_space_half"
+            android:layout_marginTop="@dimen/margin_space_half"
+            android:layout_toRightOf="@id/product_pic_imgv"
+            android:drawableLeft="@drawable/icon_seven_day"
+            android:drawablePadding="3dp"
+            android:ellipsize="end"
+            android:gravity="left|center_vertical"
+            android:maxLines="1"
+            android:maxWidth="@dimen/dp_232"
+            android:text="7天无理由退换货" />
+
+        <TextView
+            android:id="@+id/product_cutfee_txtv"
+            style="@style/textStyle.Normal.lightRed"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/exchange_txtv"
+            android:layout_marginLeft="@dimen/margin_space_half"
+            android:layout_marginTop="@dimen/margin_space_half"
+            android:layout_toRightOf="@id/product_pic_imgv"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/product_count_txtv"
+            style="@style/textStyle.Normal.subTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignTop="@id/exchange_txtv"
+            android:layout_marginRight="@dimen/margin_space"
+            android:ellipsize="end"
+            android:maxEms="6"
+            android:maxLines="1" />
+    </RelativeLayout>
+</RelativeLayout>

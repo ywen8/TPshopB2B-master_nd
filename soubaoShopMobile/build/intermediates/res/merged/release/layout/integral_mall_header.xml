@@ -1,0 +1,11 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="40dp"
+    android:background="@color/bg_activity"
+    android:orientation="vertical">
+
+    <com.tpshop.mall.widget.SPListThreeFilterView
+        android:id="@+id/filter_tabv"
+        android:layout_width="fill_parent"
+        android:layout_height="40dip" />
+</LinearLayout>

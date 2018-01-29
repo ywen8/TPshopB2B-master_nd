@@ -1,0 +1,54 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="50dip"
+    android:background="@color/bg_view">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/titlebar_back_imgv"
+            android:layout_width="12dp"
+            android:layout_height="22dp"
+            android:layout_gravity="left|center_vertical"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:background="@drawable/title_back_selector"
+            android:gravity="center" />
+
+        <Button
+            android:id="@+id/titlebar_back_btn"
+            android:layout_width="50dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="left|center_vertical"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:background="#00000000" />
+
+        <TextView
+            android:id="@+id/titlebar_title_txtv"
+            style="@style/textStyle.Big.black"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="商品详情" />
+
+        <ImageButton
+            android:id="@+id/titlebar_more_btn"
+            style="@style/textStyle.Small.white"
+            android:layout_width="40dip"
+            android:layout_height="30dip"
+            android:layout_gravity="right|center_vertical"
+            android:layout_marginRight="@dimen/margin_space"
+            android:background="@android:color/transparent"
+            android:src="@drawable/icon_more" />
+    </FrameLayout>
+
+    <View
+        android:id="@+id/titlebar_line"
+        style="@style/separator_line"
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:layout_gravity="bottom"
+        android:focusable="true"
+        android:focusableInTouchMode="true" />
+</FrameLayout>

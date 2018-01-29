@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fresco="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/scrollView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scrollbars="none">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/bg_view"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin">
+
+        <TextView
+            android:id="@+id/textView2"
+            style="@style/textStyle.Medium.User"
+            android:layout_width="wrap_content"
+            android:layout_height="80dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:text="@string/user_head" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            style="@style/textStyle.Medium.User"
+            android:layout_width="wrap_content"
+            android:layout_height="80dp"
+            android:layout_alignBottom="@+id/textView2"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/margin_space_half"
+            android:src="@drawable/arrow_right" />
+
+        <com.facebook.drawee.view.SimpleDraweeView
+            android:id="@+id/head_mimgv"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_alignParentTop="true"
+            android:layout_toLeftOf="@+id/imageView"
+            android:layout_toStartOf="@+id/imageView"
+            fresco:actualImageScaleType="centerInside"
+            fresco:placeholderImage="@drawable/person_default_head"
+            fresco:roundAsCircle="true"
+            fresco:roundingBorderColor="@color/white"
+            fresco:roundingBorderWidth="2dp" />
+
+        <View
+            android:id="@+id/line1"
+            style="@style/separator_line"
+            android:layout_below="@+id/textView2"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="5dp" />
+
+        <TextView
+            android:id="@+id/textView3"
+            style="@style/textStyle.Medium.User"
+            android:layout_width="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/line1"
+            android:text="@string/user_phone" />
+
+        <ImageView
+            android:id="@+id/phone_arrow"
+            style="@style/textStyle.Medium.User"
+            android:layout_width="wrap_content"
+            android:layout_alignBottom="@+id/textView3"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginLeft="5dp"
+            android:src="@drawable/arrow_right" />
+
+        <TextView
+            android:id="@+id/phone_num_txt"
+            style="@style/textStyle.Medium.User"
+            android:layout_width="match_parent"
+            android:layout_alignBottom="@+id/textView3"
+            android:layout_toLeftOf="@+id/phone_arrow"
+            android:gravity="center_vertical|right"
+            android:minWidth="100dp" />
+
+        <View
+            android:id="@+id/line2"
+            style="@style/separator_line"
+            android:layout_below="@+id/textView3"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="5dp" />
+
+        <TextView
+            android:id="@+id/textView5"
+            style="@style/textStyle.Medium.User"
+            android:layout_width="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/line2"
+            android:text="@string/user_nick" />
+
+        <ImageView
+            android:id="@+id/nick_arrow"
+            style="@style/textStyle.Medium.User"
+            android:layout_width="wrap_content"
+            android:layout_alignBottom="@+id/textView5"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginLeft="5dp"
+            android:src="@drawable/arrow_right" />
+
+        <TextView
+            android:id="@+id/nickname_txtv"
+            style="@style/textStyle.Medium.User"
+            android:layout_width="match_parent"
+            android:layout_alignBottom="@+id/textView5"
+            android:layout_toLeftOf="@+id/nick_arrow"
+            android:gravity="center_vertical|right"
+            android:minWidth="100dp" />
+
+        <View
+            android:id="@+id/line3"
+            style="@style/separator_line"
+            android:layout_below="@+id/textView5"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="5dp" />
+
+        <TextView
+            android:id="@+id/txt_sex"
+            style="@style/textStyle.Medium.User"
+            android:layout_width="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/line3"
+            android:text="@string/user_sex"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <ImageView
+            android:id="@+id/nick_arrow_sex"
+            style="@style/textStyle.Medium.User"
+            android:layout_width="wrap_content"
+            android:layout_alignBottom="@+id/txt_sex"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginLeft="5dp"
+            android:src="@drawable/arrow_right" />
+
+        <TextView
+            android:id="@+id/sex_txtv"
+            style="@style/textStyle.Medium.User"
+            android:layout_width="match_parent"
+            android:layout_alignBottom="@+id/txt_sex"
+            android:layout_toLeftOf="@+id/nick_arrow_sex"
+            android:gravity="center_vertical|right"
+            android:minWidth="100dp"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <View
+            android:id="@+id/line4"
+            style="@style/separator_line"
+            android:layout_below="@+id/txt_sex"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="5dp" />
+
+        <TextView
+            android:id="@+id/age_txt"
+            style="@style/textStyle.Medium.User"
+            android:layout_width="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/line4"
+            android:text="@string/user_age"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <ImageView
+            android:id="@+id/nick_arrow_age"
+            style="@style/textStyle.Medium.User"
+            android:layout_width="wrap_content"
+            android:layout_alignBottom="@+id/age_txt"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginLeft="5dp"
+            android:src="@drawable/arrow_right" />
+
+        <TextView
+            android:id="@+id/age_txtv"
+            style="@style/textStyle.Medium.User"
+            android:layout_width="match_parent"
+            android:layout_alignBottom="@+id/age_txt"
+            android:layout_toLeftOf="@+id/nick_arrow_age"
+            android:gravity="center_vertical|right"
+            android:minWidth="100dp" />
+
+        <View
+            android:id="@+id/line_mail"
+            style="@style/separator_line"
+            android:layout_below="@+id/age_txt"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="5dp" />
+
+        <TextView
+            android:id="@+id/mail_title_txt"
+            style="@style/textStyle.Medium.User"
+            android:layout_width="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/line_mail"
+            android:text="@string/user_mail"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <ImageView
+            android:id="@+id/mail_imgv"
+            style="@style/textStyle.Medium.User"
+            android:layout_width="wrap_content"
+            android:layout_alignBottom="@+id/mail_title_txt"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginLeft="5dp"
+            android:src="@drawable/arrow_right" />
+
+        <TextView
+            android:id="@+id/mail_detail_txt"
+            style="@style/textStyle.Medium.User"
+            android:layout_width="match_parent"
+            android:layout_alignBottom="@+id/mail_title_txt"
+            android:layout_toLeftOf="@+id/modify_pwd_imgv"
+            android:gravity="center_vertical|right"
+            android:minWidth="100dp" />
+
+        <View
+            android:id="@+id/line5"
+            style="@style/separator_line"
+            android:layout_below="@+id/mail_title_txt"
+            android:layout_marginTop="5dp" />
+
+        <View
+            android:id="@+id/separator_bg"
+            android:layout_width="match_parent"
+            android:layout_height="10dp"
+            android:layout_below="@+id/line5"
+            android:background="@color/bg_activity" />
+
+        <View
+            android:id="@+id/line5_2"
+            style="@style/separator_line"
+            android:layout_below="@+id/separator_bg"
+            android:layout_marginBottom="5dp" />
+
+        <TextView
+            android:id="@+id/modify_pwd_title_txt"
+            style="@style/textStyle.Medium.User"
+            android:layout_width="match_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/line5_2"
+            android:gravity="left|center_vertical"
+            android:text="@string/modify_pwd"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <ImageView
+            android:id="@+id/modify_pwd_imgv"
+            style="@style/textStyle.Medium.User"
+            android:layout_width="wrap_content"
+            android:layout_alignBottom="@+id/modify_pwd_title_txt"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginLeft="5dp"
+            android:src="@drawable/arrow_right" />
+
+        <View
+            android:id="@+id/line_address"
+            style="@style/separator_line"
+            android:layout_below="@+id/modify_pwd_title_txt"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="5dp" />
+
+        <TextView
+            android:id="@+id/pay_pwd_title_txt"
+            style="@style/textStyle.Medium.User"
+            android:layout_width="match_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/line_address"
+            android:gravity="left|center_vertical"
+            android:text="@string/pay_pwd"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <ImageView
+            android:id="@+id/pay_pwd_imgv"
+            style="@style/textStyle.Medium.User"
+            android:layout_width="wrap_content"
+            android:layout_alignBottom="@+id/pay_pwd_title_txt"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginLeft="5dp"
+            android:src="@drawable/arrow_right" />
+
+        <View
+            android:id="@+id/line_pwd"
+            style="@style/separator_line"
+            android:layout_below="@+id/pay_pwd_title_txt"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="5dp" />
+
+        <TextView
+            android:id="@+id/address_title_txt"
+            style="@style/textStyle.Medium.User"
+            android:layout_width="match_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/line_pwd"
+            android:gravity="left|center_vertical"
+            android:text="@string/user_address"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <ImageView
+            android:id="@+id/address_imgv"
+            style="@style/textStyle.Medium.User"
+            android:layout_width="wrap_content"
+            android:layout_alignBottom="@+id/address_title_txt"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginLeft="5dp"
+            android:src="@drawable/arrow_right" />
+
+        <View
+            android:id="@+id/line_real_name"
+            style="@style/separator_line"
+            android:layout_below="@+id/address_title_txt"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="5dp" />
+
+        <Button
+            android:id="@+id/btn_save"
+            style="@style/button_style"
+            android:layout_width="match_parent"
+            android:layout_below="@+id/line_real_name"
+            android:layout_marginTop="20dip"
+            android:gravity="center"
+            android:text="@string/user_save" />
+    </RelativeLayout>
+</ScrollView>

@@ -1,0 +1,77 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/bg_view"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/address_rl"
+        android:layout_width="fill_parent"
+        android:layout_height="75dip"
+        android:background="@color/bg_view"
+        android:orientation="horizontal"
+        android:visibility="gone">
+
+        <RelativeLayout
+            android:id="@+id/address_consignee_rl"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="10dip"
+            android:layout_toLeftOf="@+id/order_address_arrow_imgv">
+
+            <TextView
+                android:id="@+id/order_consignee_txtv"
+                style="@style/textStyle.Medium.LightGray"
+                android:layout_width="match_parent"
+                android:layout_height="25dip"
+                android:layout_marginTop="@dimen/margin_space"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/order_address_txtv"
+                style="@style/textStyle.Normal.Gray"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_below="@id/order_consignee_txtv"
+                android:layout_marginBottom="@dimen/margin_space"
+                android:drawableLeft="@drawable/icon_location"
+                android:ellipsize="end"
+                android:gravity="center_vertical"
+                android:maxLines="2"
+                android:visibility="gone" />
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/address_consignee_tv"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="10dip"
+            android:layout_toLeftOf="@+id/order_address_arrow_imgv"
+            android:gravity="center_vertical"
+            android:text="请选择收货地址"
+            android:textSize="@dimen/textSizeBig"
+            android:visibility="gone" />
+
+        <ImageView
+            android:id="@+id/order_address_arrow_imgv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_gravity="right|center_vertical"
+            android:paddingRight="@dimen/margin_space"
+            android:src="@drawable/personal_arrow_right" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="3dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/icon_address_divison"
+            android:paddingRight="@dimen/margin_space" />
+    </RelativeLayout>
+</LinearLayout>

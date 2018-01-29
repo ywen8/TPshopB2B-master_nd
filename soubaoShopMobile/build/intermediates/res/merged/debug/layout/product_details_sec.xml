@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/ll_title_root"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ec0f38"
+        android:orientation="vertical">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="44dp"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center">
+
+                <com.gxz.PagerSlidingTabStrip
+                    android:id="@+id/psts_tabs"
+                    android:layout_width="wrap_content"
+                    android:layout_height="32dp"
+                    android:layout_gravity="center"
+                    android:textColor="#ffffff"
+                    android:textSize="@dimen/textSizeMedium"
+                    app:pstsDividerColor="@android:color/transparent"
+                    app:pstsDividerPaddingTopBottom="0dp"
+                    app:pstsIndicatorColor="#ffffff"
+                    app:pstsIndicatorHeight="2dp"
+                    app:pstsScaleZoomMax="0.0"
+                    app:pstsShouldExpand="false"
+                    app:pstsSmoothScrollWhenClickTab="false"
+                    app:pstsTabPaddingLeftRight="12dp"
+                    app:pstsTextAllCaps="false"
+                    app:pstsTextSelectedColor="#ffffff"
+                    app:pstsUnderlineHeight="0dp" />
+
+                <TextView
+                    android:id="@+id/tv_title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="图文详情"
+                    android:textColor="#ffffff"
+                    android:textSize="@dimen/textSizeMedium"
+                    android:visibility="gone" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/ll_back"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp">
+
+                <ImageView
+                    android:id="@+id/iv_back"
+                    android:layout_width="22dp"
+                    android:layout_height="22dp"
+                    android:layout_gravity="center_vertical"
+                    android:src="@drawable/title_back_white_normal" />
+            </LinearLayout>
+
+            <ImageView
+                android:id="@+id/share_img"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right|center_vertical"
+                android:layout_marginRight="10dp"
+                android:src="@drawable/share"
+                android:visibility="gone" />
+        </FrameLayout>
+    </LinearLayout>
+
+    <com.tpshop.mall.widget.NoScrollViewPager
+        android:id="@+id/vp_content"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+</LinearLayout>

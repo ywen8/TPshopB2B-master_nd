@@ -1,0 +1,33 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/shopping_title_ll"
+    android:layout_width="match_parent"
+    android:layout_height="40dip"
+    android:background="@color/bg_view"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:id="@+id/store_iv"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="@dimen/margin_space"
+        android:drawablePadding="@dimen/margin_space"
+        android:src="@drawable/order_center_shopping_title" />
+
+    <TextView
+        android:id="@+id/store_name_txtv"
+        style="@style/textStyle.Normal.LightGray"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@+id/store_logo_imgv"
+        android:clickable="true"
+        android:drawablePadding="@dimen/margin_space"
+        android:drawableRight="@drawable/icon_store_section_right"
+        android:ellipsize="end"
+        android:focusable="true"
+        android:gravity="center"
+        android:maxLines="1"
+        android:paddingLeft="@dimen/margin_space"
+        android:paddingRight="@dimen/margin_space_half" />
+</LinearLayout>

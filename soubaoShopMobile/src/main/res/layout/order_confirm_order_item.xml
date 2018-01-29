@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/confirm_order_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dp_40"
+            android:background="@color/bg_view">
+
+            <TextView
+                android:id="@+id/store_name_txtv"
+                style="@style/textStyle.Normal.LightGray"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/margin_space"
+                android:layout_marginTop="@dimen/init_float_margin"
+                android:drawableLeft="@drawable/icon_enter_store"
+                android:drawablePadding="@dimen/margin_space_half"
+                android:ellipsize="end"
+                android:gravity="left|center_vertical"
+                android:paddingLeft="@dimen/margin_space_half"
+                android:paddingRight="@dimen/margin_space_half" />
+        </RelativeLayout>
+
+        <com.tpshop.mall.widget.NoScrollListView
+            android:id="@+id/order_product_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/bg_activity"
+            android:cacheColorHint="#00000000"
+            android:divider="@color/bg_view"
+            android:dividerHeight="2dp"
+            android:listSelector="@color/bg_header" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/height_row"
+            android:background="@color/bg_view">
+
+            <TextView
+                style="@style/textStyle.Normal.Gray"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="@dimen/margin_space"
+                android:text="活动" />
+
+            <TextView
+                android:id="@+id/store_prom_title_tv"
+                style="@style/textStyle.Normal.lightRed"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="@dimen/margin_space" />
+        </RelativeLayout>
+
+        <View style="@style/separator_line" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/height_row"
+            android:background="@color/bg_view">
+
+            <TextView
+                style="@style/textStyle.Normal.Gray"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="@dimen/margin_space"
+                android:text="运费信息" />
+
+            <TextView
+                android:id="@+id/store_fee_tv"
+                style="@style/textStyle.Normal.lightRed"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="@dimen/margin_space" />
+        </RelativeLayout>
+
+        <View style="@style/separator_line" />
+
+        <com.tpshop.mall.widget.SPArrowRowView
+            android:id="@+id/order_coupon_aview"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/height_row"
+            android:clickable="true"
+            android:focusable="true"
+            custom:titleText="@string/order_coupon" />
+
+        <View style="@style/separator_line" />
+
+        <com.tpshop.mall.widget.SPArrowRowView
+            android:id="@+id/order_seler_message_aview"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/height_row"
+            android:clickable="true"
+            android:focusable="true"
+            custom:titleText="@string/seler_message" />
+
+        <View style="@style/separator_line" />
+    </LinearLayout>
+</RelativeLayout>

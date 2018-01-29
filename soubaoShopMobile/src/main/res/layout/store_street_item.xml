@@ -1,0 +1,109 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/bg_view"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp">
+
+        <com.tpshop.mall.widget.SPBorderImageView
+            android:id="@+id/store_logo_imgv"
+            android:layout_width="55dp"
+            android:layout_height="55dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:background="@color/white"
+            android:scaleType="fitCenter"
+            android:src="@drawable/category_default" />
+
+        <TextView
+            android:id="@+id/own_shop_txtv"
+            style="@style/textStyle.Small.white"
+            android:layout_width="25dip"
+            android:layout_height="18.0dip"
+            android:layout_marginLeft="@dimen/margin_space_half"
+            android:layout_marginRight="@dimen/margin_space"
+            android:background="@color/light_red"
+            android:ellipsize="end"
+            android:gravity="center"
+            android:maxEms="6"
+            android:maxLines="1"
+            android:text="自营"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/store_name_txtv"
+            style="@style/textStyle.Normal.LightGray"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/store_logo_imgv"
+            android:layout_marginLeft="@dimen/margin_space_half"
+            android:layout_marginRight="@dimen/margin_space"
+            android:layout_toLeftOf="@+id/into_store_btn"
+            android:layout_toRightOf="@id/store_logo_imgv"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:textSize="@dimen/textSizeMedium" />
+
+        <TextView
+            android:id="@+id/attention_txtv"
+            style="@style/textStyle.Normal.subTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/store_name_txtv"
+            android:layout_marginLeft="@dimen/margin_space_half"
+            android:layout_marginTop="@dimen/margin_space"
+            android:layout_toRightOf="@id/store_logo_imgv"
+            android:ellipsize="end"
+            android:maxLines="1" />
+
+        <TextView
+            android:id="@+id/score_txtv"
+            style="@style/textStyle.Normal.subTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/store_name_txtv"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:layout_marginTop="@dimen/margin_space"
+            android:layout_toRightOf="@id/attention_txtv"
+            android:ellipsize="end"
+            android:maxLines="1" />
+
+        <Button
+            android:id="@+id/into_store_btn"
+            android:layout_width="60dip"
+            android:layout_height="25dip"
+            android:layout_alignParentRight="true"
+            android:layout_alignTop="@+id/store_logo_imgv"
+            android:layout_marginRight="@dimen/margin_space"
+            android:background="@drawable/button_border_r_selector"
+            android:text="进店"
+            android:textColor="@color/light_red"
+            android:textSize="@dimen/textSizeSmall" />
+
+        <TextView
+            android:id="@+id/distance_txtv"
+            style="@style/textStyle.Normal.subTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/into_store_btn"
+            android:layout_marginBottom="@dimen/margin_space_half"
+            android:layout_marginRight="@dimen/margin_space"
+            android:layout_marginTop="@dimen/margin_space"
+            android:drawableLeft="@drawable/icon_address"
+            android:drawablePadding="2dp"
+            android:ellipsize="end"
+            android:maxLines="1" />
+    </RelativeLayout>
+
+    <View style="@style/separator_line" />
+
+    <com.bigkoo.convenientbanner.ConvenientBanner
+        android:id="@+id/street_recommand_cbanner"
+        android:layout_width="match_parent"
+        android:layout_height="190dp"
+        android:background="@color/white" />
+</LinearLayout>

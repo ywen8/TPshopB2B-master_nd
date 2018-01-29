@@ -1,0 +1,84 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_activity"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:id="@+id/pay_layout"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/height_row"
+                android:background="@color/bg_view"
+                android:orientation="horizontal">
+
+                <TextView
+                    style="@style/textStyle.Normal.black"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="@dimen/margin_space"
+                    android:gravity="center_vertical|left"
+                    android:singleLine="true"
+                    android:text="@string/pay_money" />
+
+                <TextView
+                    android:id="@+id/pay_money_txtv"
+                    style="@style/textStyle.Normal.lightRed"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="@dimen/margin_space"
+                    android:gravity="center_vertical|right"
+                    android:singleLine="true" />
+            </RelativeLayout>
+
+            <include layout="@layout/separator_line_margin_slice" />
+
+            <com.tpshop.mall.widget.SPArrowRowView
+                android:id="@+id/pay_alipay_aview"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/height_row"
+                android:clickable="true"
+                android:focusable="true"
+                custom:arrowSrc="@drawable/pay_alipay"
+                custom:titleText="@string/pay_alipay" />
+
+            <View style="@style/separator_line" />
+
+            <com.tpshop.mall.widget.SPArrowRowView
+                android:id="@+id/pay_wechat_aview"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/height_row"
+                android:clickable="true"
+                android:focusable="true"
+                custom:arrowSrc="@drawable/pay_wechat"
+                custom:titleText="@string/pay_wechat" />
+
+            <View style="@style/separator_line" />
+
+            <com.tpshop.mall.widget.SPArrowRowView
+                android:id="@+id/pay_cod_aview"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/height_row"
+                android:clickable="true"
+                android:focusable="true"
+                android:visibility="gone"
+                custom:arrowSrc="@drawable/pay_cod"
+                custom:titleText="@string/pay_cod" />
+
+            <View
+                style="@style/separator_line"
+                android:visibility="gone" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

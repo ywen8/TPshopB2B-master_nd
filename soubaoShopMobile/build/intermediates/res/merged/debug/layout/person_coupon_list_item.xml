@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/coupon_rlayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="2dp"
+    android:clickable="true"
+    android:focusable="true">
+
+    <RelativeLayout
+        android:id="@+id/coupon_top_rlayout"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:layout_alignParentLeft="true"
+        android:background="@color/green_blue">
+
+        <TextView
+            android:id="@+id/coupon_money_txtv"
+            android:layout_width="match_parent"
+            android:layout_height="70dip"
+            android:gravity="center_horizontal|bottom"
+            android:lines="1"
+            android:textColor="@color/white"
+            android:textSize="45sp" />
+
+        <TextView
+            android:id="@+id/name_txtv"
+            android:layout_width="match_parent"
+            android:layout_height="20dip"
+            android:layout_below="@+id/coupon_money_txtv"
+            android:gravity="center_horizontal"
+            android:lines="1"
+            android:textColor="@color/white"
+            android:textSize="@dimen/textSizeNormal" />
+
+        <TextView
+            android:id="@+id/use_end_time_txtv"
+            android:layout_width="match_parent"
+            android:layout_height="30dip"
+            android:layout_below="@+id/name_txtv"
+            android:gravity="center_horizontal"
+            android:lines="1"
+            android:textColor="@color/white"
+            android:textSize="@dimen/textSizeNormal" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="124dp"
+        android:layout_below="@+id/coupon_top_rlayout"
+        android:background="@color/bg_activity"
+        android:gravity="right">
+
+        <TextView
+            android:id="@+id/limit_category_title_txtv"
+            style="@style/textStyle.Normal.LightGray"
+            android:layout_width="60dp"
+            android:layout_height="20dip"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:layout_marginTop="@dimen/margin_space_half"
+            android:gravity="left|center_vertical"
+            android:text="名称:" />
+
+        <TextView
+            android:id="@+id/limit_category_val_txtv"
+            style="@style/textStyle.Normal.Gray"
+            android:layout_width="match_parent"
+            android:layout_height="20dip"
+            android:layout_marginTop="@dimen/margin_space_half"
+            android:layout_toRightOf="@+id/limit_category_title_txtv"
+            android:ellipsize="end"
+            android:gravity="left|center_vertical"
+            android:lines="1" />
+
+        <TextView
+            android:id="@+id/limit_platform_title_txtv"
+            style="@style/textStyle.Normal.LightGray"
+            android:layout_width="60dp"
+            android:layout_height="20dip"
+            android:layout_below="@+id/limit_category_title_txtv"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:gravity="left|center_vertical"
+            android:lines="1"
+            android:text="限店铺:" />
+
+        <TextView
+            android:id="@+id/limit_platform_val_txtv"
+            style="@style/textStyle.Normal.Gray"
+            android:layout_width="match_parent"
+            android:layout_height="20dip"
+            android:layout_below="@+id/limit_category_title_txtv"
+            android:layout_toRightOf="@+id/limit_platform_title_txtv"
+            android:gravity="left|center_vertical"
+            android:lines="1" />
+
+        <TextView
+            android:id="@+id/limit_code_title_txtv"
+            style="@style/textStyle.Normal.LightGray"
+            android:layout_width="60dp"
+            android:layout_height="20dip"
+            android:layout_below="@+id/limit_platform_title_txtv"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:gravity="left|center_vertical"
+            android:lines="1"
+            android:text="券编号:" />
+
+        <TextView
+            android:id="@+id/code_val_txtv"
+            style="@style/textStyle.Normal.Gray"
+            android:layout_width="match_parent"
+            android:layout_height="20dip"
+            android:layout_below="@+id/limit_platform_title_txtv"
+            android:layout_toRightOf="@+id/limit_code_title_txtv"
+            android:gravity="left|center_vertical"
+            android:lines="1" />
+
+        <Button
+            android:id="@+id/use_btn"
+            android:layout_width="120dp"
+            android:layout_height="25dp"
+            android:layout_below="@+id/code_val_txtv"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/margin_space_half"
+            android:background="@drawable/btn_coupon_blue"
+            android:text="立即使用"
+            android:textColor="#56d4d0"
+            android:textSize="@dimen/textSizeNormal" />
+    </RelativeLayout>
+</RelativeLayout>

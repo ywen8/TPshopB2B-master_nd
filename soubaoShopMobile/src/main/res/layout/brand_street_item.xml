@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="45dip"
+    android:background="@color/bg_view"
+    android:orientation="horizontal">
+
+    <com.tpshop.mall.widget.SPBorderImageView
+        android:id="@+id/brand_imgv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="fitCenter"
+        android:src="@drawable/icon_brand_null" />
+</LinearLayout>

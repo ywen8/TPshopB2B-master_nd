@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_view"
+    android:padding="20dp">
+
+    <TextView
+        android:id="@+id/textView6"
+        style="@style/textStyle.Normal.LightGray"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/height_row"
+        android:background="@android:color/white"
+        android:gravity="center_vertical"
+        android:text="@string/change_mobile_title" />
+
+    <EditText
+        android:id="@+id/txt_phone_number"
+        style="@style/edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_row"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/textView6"
+        android:ems="10"
+        android:hint="@string/change_mobile_title_hint"
+        android:inputType="phone"
+        android:paddingLeft="20dp" />
+
+    <View
+        android:id="@+id/line"
+        style="@style/separator_line"
+        android:layout_below="@+id/txt_phone_number" />
+
+    <EditText
+        android:id="@+id/edit_pic_code"
+        style="@style/edit_text"
+        android:layout_width="200dip"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/line"
+        android:hint="请输入验证码"
+        android:inputType="textVisiblePassword"
+        android:maxLength="@integer/sms_check_code_length" />
+
+    <ImageView
+        android:id="@+id/txt_rand_code"
+        android:layout_width="80dip"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/edit_pic_code"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/edit_pic_code"
+        android:layout_toRightOf="@+id/edit_pic_code"
+        android:onClick="onRandomCodeClick" />
+
+    <View
+        android:id="@+id/line2"
+        style="@style/separator_line"
+        android:layout_below="@+id/edit_pic_code"
+        android:layout_marginTop="@dimen/dp_4" />
+
+    <EditText
+        android:id="@+id/edit_verification_code"
+        style="@style/edit_text"
+        android:layout_width="200dip"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/line2"
+        android:hint="@string/hint_input_check_code"
+        android:inputType="number"
+        android:maxLength="@integer/sms_check_code_length" />
+
+    <Button
+        android:id="@+id/btn_verification_code"
+        style="@style/button_style"
+        android:layout_width="140dp"
+        android:layout_alignBottom="@+id/edit_verification_code"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/edit_verification_code"
+        android:layout_margin="@dimen/dp_4"
+        android:onClick="onBtnVerificationClick"
+        android:text="@string/register_btn_re_code_done" />
+
+    <Button
+        android:id="@+id/btn_submit"
+        style="@style/button_style"
+        android:layout_width="match_parent"
+        android:layout_below="@+id/edit_verification_code"
+        android:layout_marginTop="20dp"
+        android:enabled="false"
+        android:onClick="onResultOkClick"
+        android:text="@string/change_mobile_submit" />
+</RelativeLayout>

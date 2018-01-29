@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/white">
+
+        <TextView
+            android:id="@+id/all_order_txt"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="全部"
+            android:textColor="@color/light_red"
+            android:textSize="@dimen/textSizeMedium" />
+
+        <TextView
+            android:id="@+id/wait_pay_txt"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="待付款"
+            android:textColor="@color/person_info_text"
+            android:textSize="@dimen/textSizeMedium" />
+
+        <TextView
+            android:id="@+id/has_paid_txt"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="已付款"
+            android:textColor="@color/person_info_text"
+            android:textSize="@dimen/textSizeMedium" />
+
+        <TextView
+            android:id="@+id/has_done_txt"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="已完成"
+            android:textColor="@color/person_info_text"
+            android:textSize="@dimen/textSizeMedium" />
+    </LinearLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="1dp"
+        android:background="@color/bg_view">
+
+        <com.tpshop.mall.widget.swipetoloadlayout.SuperRefreshRecyclerView
+            android:id="@+id/super_recyclerview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scrollbars="none" />
+
+        <RelativeLayout
+            android:id="@+id/empty_lstv"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="10.0dip"
+            android:visibility="gone">
+
+            <TextView
+                style="@style/textStyle.Medium.LightGray"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="80dip"
+                android:drawablePadding="@dimen/margin_space"
+                android:drawableTop="@drawable/icon_order_empty"
+                android:gravity="center_horizontal"
+                android:text="您还没有订单" />
+        </RelativeLayout>
+    </FrameLayout>
+</LinearLayout>

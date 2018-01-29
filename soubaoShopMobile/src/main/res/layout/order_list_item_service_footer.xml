@@ -1,0 +1,56 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="42dp"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dip"
+        android:background="@color/bg_view"
+        android:gravity="right|center_vertical"
+        android:orientation="horizontal"
+        android:weightSum="1">
+
+        <TextView
+            android:id="@+id/btn_describe"
+            style="@style/textStyle.Normal.Gray"
+            android:layout_width="150dp"
+            android:layout_height="match_parent"
+            android:ellipsize="end"
+            android:gravity="center"
+            android:text="完成最多可以获得10金币" />
+
+        <RelativeLayout
+            android:id="@+id/btn_img_rl"
+            android:layout_width="80dp"
+            android:layout_height="25dp"
+            android:background="@drawable/button_border_r_selector">
+
+            <ImageView
+                android:id="@+id/btn_img"
+                android:layout_width="11dp"
+                android:layout_height="11dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="6dp"
+                android:scaleType="centerInside"
+                android:src="@drawable/order_center_message" />
+
+            <TextView
+                android:id="@+id/order_show_btn"
+                style="@style/textStyle.Small.lightRed"
+                android:layout_width="55dp"
+                android:layout_height="25dp"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="true"
+                android:gravity="center_vertical"
+                android:text="服务评价"
+                android:textSize="@dimen/textSizeSmall" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:background="@color/bg_header" />
+</LinearLayout>

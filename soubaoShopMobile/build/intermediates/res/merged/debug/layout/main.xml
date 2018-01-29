@@ -1,0 +1,79 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/fragmentView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/bg_view"
+        android:paddingBottom="@dimen/height_tab_bottom_item" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/height_tab_bottom_item"
+        android:layout_gravity="bottom">
+
+        <ImageView
+            android:id="@+id/tab_separate_imgv"
+            android:layout_width="fill_parent"
+            android:layout_height="1px"
+            android:src="@color/separator_line" />
+
+        <RadioGroup
+            android:id="@+id/radioGroup"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/tab_separate_imgv"
+            android:layout_gravity="bottom"
+            android:background="@color/bg_view"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/rbtn_home"
+                style="@style/tab_bottom"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:checked="true"
+                android:drawablePadding="@dimen/padding_tab_bottom_drawable"
+                android:drawableTop="@drawable/tab_item_home_selector"
+                android:text="@string/tab_item_home"
+                android:textSize="@dimen/font_size_tab_item" />
+
+            <RadioButton
+                android:id="@+id/rbtn_category"
+                style="@style/tab_bottom"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:drawablePadding="@dimen/padding_tab_bottom_drawable"
+                android:drawableTop="@drawable/tab_item_category_selector"
+                android:text="@string/tab_item_category"
+                android:textSize="@dimen/font_size_tab_item" />
+
+            <RadioButton
+                android:id="@+id/rbtn_shopcart"
+                style="@style/tab_bottom"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:drawablePadding="@dimen/padding_tab_bottom_drawable"
+                android:drawableTop="@drawable/tab_item_shopcart_selector"
+                android:text="@string/tab_item_shopcart"
+                android:textSize="@dimen/font_size_tab_item" />
+
+            <RadioButton
+                android:id="@+id/rbtn_mine"
+                style="@style/tab_bottom"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:drawablePadding="@dimen/padding_tab_bottom_drawable"
+                android:drawableTop="@drawable/tab_item_mine_selector"
+                android:text="@string/tab_item_mine"
+                android:textSize="@dimen/font_size_tab_item" />
+        </RadioGroup>
+    </RelativeLayout>
+</FrameLayout>

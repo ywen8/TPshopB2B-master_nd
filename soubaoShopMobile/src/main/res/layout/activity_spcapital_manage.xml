@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_activity">
+
+    <RelativeLayout
+        android:id="@+id/title_layout"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/bg_capital_manage">
+
+        <RelativeLayout
+            android:layout_width="45dp"
+            android:layout_height="@dimen/height_row"
+            android:onClick="onBackBtnClick">
+
+            <ImageButton
+                android:id="@+id/btn_back"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_gravity="left|center_vertical"
+                android:layout_marginLeft="@dimen/margin_space"
+                android:background="@android:color/transparent"
+                android:src="@drawable/title_back_white_normal" />
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/balance"
+            style="@style/textStyle.Big"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="28dp"
+            android:text="@string/capital_balance"
+            android:textColor="@color/white" />
+
+        <TextView
+            android:id="@+id/txt_balance_value"
+            style="@style/textStyle.Big"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/balance"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="18dp"
+            android:text="0.00"
+            android:textColor="@color/white" />
+
+        <TextView
+            android:id="@+id/txt_frozen_balance"
+            style="@style/textStyle.Big"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txt_balance_value"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="24dp"
+            android:text="@string/capital_frozen_balance"
+            android:textColor="@color/white" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_alignParentBottom="true"
+            android:orientation="horizontal">
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1" />
+
+            <TextView
+                android:id="@+id/txt_top_up"
+                style="@style/textStyle.Big"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_vertical"
+                android:drawableLeft="@drawable/capital_topup"
+                android:drawablePadding="10dp"
+                android:gravity="center"
+                android:onClick="onTopUpClick"
+                android:text="@string/capital_top_up"
+                android:textColor="@color/white" />
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_weight="2" />
+
+            <TextView
+                android:id="@+id/textView16"
+                style="@style/textStyle.Big"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:drawableLeft="@drawable/capital_withdraw"
+                android:drawablePadding="10dp"
+                android:gravity="center"
+                android:onClick="onWithdrawClick"
+                android:text="@string/capital_withdraw"
+                android:textColor="@color/white" />
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/sub_layout"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_below="@+id/title_layout"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/textView18"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="@string/capital_redpackage" />
+
+        <TextView
+            android:id="@+id/textView19"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="@string/capital_card" />
+
+        <TextView
+            android:id="@+id/txt_current_jifen"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="@string/capital_curren_jifen" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_below="@+id/title_layout"
+        android:layout_marginTop="25dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/txt_repack_value"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="0"
+            android:textColor="@color/light_red" />
+
+        <TextView
+            android:id="@+id/txt_card_value"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="0"
+            android:textColor="@color/light_red" />
+
+        <TextView
+            android:id="@+id/txt_current_jifen_value"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="0"
+            android:textColor="@color/light_red" />
+    </LinearLayout>
+
+    <com.tpshop.mall.widget.SPArrowRowView
+        android:id="@+id/capital_balance_detail"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_row"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/linearLayout"
+        android:layout_marginTop="10dp"
+        android:clickable="true"
+        android:focusable="true"
+        custom:titleText="@string/capital_balance_detail" />
+
+    <View
+        android:id="@+id/line1"
+        style="@style/separator_line"
+        android:layout_below="@+id/capital_balance_detail" />
+
+    <com.tpshop.mall.widget.SPArrowRowView
+        android:id="@+id/capital_point_detail"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_row"
+        android:layout_below="@+id/line1"
+        android:clickable="true"
+        android:focusable="true"
+        custom:titleText="@string/capital_point_detail" />
+
+    <View
+        android:id="@+id/line2"
+        style="@style/separator_line"
+        android:layout_below="@+id/capital_point_detail" />
+
+    <com.tpshop.mall.widget.SPArrowRowView
+        android:id="@+id/capital_recharge_history"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_row"
+        android:layout_below="@+id/line2"
+        android:clickable="true"
+        android:focusable="true"
+        custom:titleText="@string/capital_recharge_history" />
+
+    <View
+        android:id="@+id/line3"
+        style="@style/separator_line"
+        android:layout_below="@+id/capital_recharge_history" />
+
+    <com.tpshop.mall.widget.SPArrowRowView
+        android:id="@+id/capital_withdraw_history"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_row"
+        android:layout_below="@+id/line3"
+        android:clickable="true"
+        android:focusable="true"
+        custom:titleText="@string/capital_withdraw_history" />
+</RelativeLayout>

@@ -1,0 +1,103 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_activity">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/store_rlv"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@+id/store_line"
+        android:cacheColorHint="#00000000"
+        android:dividerHeight="0px" />
+
+    <View
+        android:id="@+id/store_line"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_above="@+id/store_bottom"
+        android:background="@color/bg_activity" />
+
+    <LinearLayout
+        android:id="@+id/store_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="44dip"
+        android:layout_alignParentBottom="true"
+        android:background="@color/bg_view"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1.0">
+
+            <TextView
+                android:id="@+id/store_about_txtv"
+                style="@style/textStyle.Normal.subTitle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/view_bg_clickable_selector"
+                android:clickable="true"
+                android:ellipsize="end"
+                android:focusable="true"
+                android:gravity="center_horizontal|center_vertical"
+                android:maxEms="6"
+                android:maxLines="1"
+                android:minWidth="80dip"
+                android:text="店铺详情" />
+        </LinearLayout>
+
+        <View style="@style/separator_line_vertical" />
+
+        <LinearLayout
+            android:id="@+id/store_category_txtv"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1.0"
+            android:background="@drawable/view_bg_clickable_selector"
+            android:clickable="true"
+            android:focusable="true"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:src="@drawable/icon_store_class" />
+
+            <TextView
+                style="@style/textStyle.Normal.Gray"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="5dp"
+                android:ellipsize="end"
+                android:gravity="center_vertical"
+                android:maxLines="1"
+                android:text="热销分类" />
+        </LinearLayout>
+
+        <View style="@style/separator_line_vertical" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1.0">
+
+            <TextView
+                android:id="@+id/connect_txtv"
+                style="@style/textStyle.Normal.subTitle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/view_bg_clickable_selector"
+                android:clickable="true"
+                android:ellipsize="end"
+                android:focusable="true"
+                android:gravity="center_horizontal|center_vertical"
+                android:maxEms="6"
+                android:maxLines="1"
+                android:minWidth="80dip"
+                android:text="联系卖家" />
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

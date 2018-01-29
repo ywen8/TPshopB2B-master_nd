@@ -1,0 +1,175 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_row"
+        android:layout_marginTop="@dimen/margin_space"
+        android:background="@color/bg_view"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/consignee_name_txtv"
+            style="@style/textStyle.Normal.black"
+            android:layout_width="100dip"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:gravity="center_vertical|left"
+            android:padding="@dimen/margin_space"
+            android:text="收货人：" />
+
+        <EditText
+            android:id="@+id/consignee_name_edtv"
+            style="@style/edit_text"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/height_text"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/margin_space"
+            android:layout_toRightOf="@id/consignee_name_txtv"
+            android:gravity="center_vertical|left"
+            android:inputType="text" />
+    </RelativeLayout>
+
+    <View style="@style/separator_line" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_row"
+        android:background="@color/bg_view"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/consignee_mobile_txtv"
+            style="@style/textStyle.Normal.black"
+            android:layout_width="100dip"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:gravity="center_vertical|left"
+            android:padding="@dimen/margin_space"
+            android:text="手机号码：" />
+
+        <EditText
+            android:id="@+id/consignee_mobile_edtv"
+            style="@style/edit_text"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/height_text"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/margin_space"
+            android:layout_toRightOf="@id/consignee_mobile_txtv"
+            android:gravity="center_vertical|left"
+            android:inputType="phone" />
+    </RelativeLayout>
+
+    <View style="@style/separator_line" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_row"
+        android:background="@color/bg_view"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/consignee_region_title_txtv"
+            style="@style/textStyle.Normal.black"
+            android:layout_width="100dip"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:gravity="center_vertical|left"
+            android:padding="@dimen/margin_space"
+            android:text="所在地区：" />
+
+        <ImageView
+            android:id="@+id/consignee_arrow_imgv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/margin_space"
+            android:src="@drawable/personal_arrow_right" />
+
+        <TextView
+            android:id="@+id/consignee_region_txtv"
+            style="@style/textStyle.Normal.black"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_toLeftOf="@id/consignee_arrow_imgv"
+            android:layout_toRightOf="@id/consignee_region_title_txtv"
+            android:clickable="true"
+            android:focusable="true"
+            android:gravity="center_vertical|left" />
+    </RelativeLayout>
+
+    <View style="@style/separator_line" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_row"
+        android:background="@color/bg_view"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/consignee_address_txtv"
+            style="@style/textStyle.Normal.black"
+            android:layout_width="100dip"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:gravity="center_vertical|left"
+            android:padding="@dimen/margin_space"
+            android:text="详细地址：" />
+
+        <EditText
+            android:id="@+id/consignee_address_edtv"
+            style="@style/edit_text"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/height_text"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/margin_space"
+            android:layout_toRightOf="@id/consignee_address_txtv"
+            android:gravity="center_vertical|left"
+            android:inputType="text" />
+    </RelativeLayout>
+
+    <View style="@style/separator_line" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_row"
+        android:background="@color/bg_view"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/consignee_setdefault_txtv"
+            style="@style/textStyle.Normal.black"
+            android:layout_width="120dip"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:gravity="center_vertical|left"
+            android:padding="@dimen/margin_space"
+            android:text="设为默认地址：" />
+
+        <com.tpshop.mall.widget.SwitchButton
+            android:id="@+id/set_default_switch"
+            style="@style/SwitchButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/dp_22"
+            app:kswTintColor="@color/light_red" />
+    </RelativeLayout>
+
+    <View style="@style/separator_line" />
+
+    <Button
+        android:id="@+id/submit_btn"
+        style="@style/button_style"
+        android:layout_width="match_parent"
+        android:layout_gravity="bottom"
+        android:layout_marginLeft="@dimen/margin_space_big"
+        android:layout_marginRight="@dimen/margin_space_big"
+        android:layout_marginTop="@dimen/margin_space_big"
+        android:text="@string/address_save" />
+</LinearLayout>

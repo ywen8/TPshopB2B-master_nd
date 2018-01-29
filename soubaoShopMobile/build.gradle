@@ -1,0 +1,129 @@
+apply plugin: 'com.android.application'
+apply plugin: 'android-apt'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion '25.0.0'
+
+    defaultConfig {
+        applicationId "com.tpshop.mall"
+        minSdkVersion 16
+        targetSdkVersion 23
+        multiDexEnabled true
+
+        ndk {
+            abiFilters "armeabi", "armeabi-v7a", "x86", "mips"
+        }
+
+        manifestPlaceholders = [
+                JPUSH_PKGNAME: "com.tpshop.mall",
+                JPUSH_APPKEY : "b25a01844a1d4d1f1fae1c92",   //JPush上注册的包名对应的appkey
+                JPUSH_CHANNEL: "developer-default",   //用户渠道统计的渠道名称
+        ]
+    }
+
+    signingConfigs {
+        myconfig {
+            storeFile file("/Users/yw/AndroidStudioProjects/key/open_rain.jks")
+            storePassword "android"
+            keyAlias "rain"
+            keyPassword "123456"
+        }
+    }
+
+    buildTypes {
+        debug {
+            debuggable true
+            jniDebuggable true
+            signingConfig signingConfigs.myconfig
+        }
+
+        release {
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+            debuggable false
+            signingConfig signingConfigs.myconfig
+        }
+    }
+
+    sourceSets {
+        main {
+            jniLibs.srcDirs = ['libs']
+        }
+    }
+
+    lintOptions {
+        checkReleaseBuilds false
+        abortOnError false
+    }
+
+    task nativeLibsToJar(type: Zip, description: "create a jar archive of the native libs") {
+        destinationDir file("$projectDir/libs")
+        baseName "libplasma"
+        extension "jar"
+        from fileTree(dir: "libs", include: "**/*.so")
+        into "lib"
+    }
+
+    tasks.withType(JavaCompile) {
+        compileTask -> compileTask.dependsOn(nativeLibsToJar)
+    }
+}
+
+apt {
+    arguments {
+        androidManifestFile variant.outputs[0]?.processResources?.manifestFile
+        resourcePackageName "com.tpshop.mall"
+    }
+}
+
+dependencies {
+    compile project(':viewPagerIndicator_library')
+    compile project(':StickyGridHeaders_library')
+    compile project(':magicindicator_library')
+    compile project(path: ':ArcProgressBar_library')
+    apt "org.androidannotations:androidannotations:3.3.2"         //配置Android annotations
+    compile 'org.androidannotations:androidannotations-api:3.3.2'
+    compile 'com.android.support:design:23.3.0'
+    compile 'com.github.bumptech.glide:glide:3.5.2'
+    compile 'com.loopj.android:android-async-http:1.4.9'
+    compile 'com.android.support:recyclerview-v7:23.3.0'
+    compile 'com.bm.photoview:library:1.4.1'
+    compile 'com.songhang:smart-headerfooter-recyclerview:1.0.1'         //支持head和foot的recycleview
+    compile 'com.facebook.fresco:fresco:0.9.0'
+    compile 'com.android.support:multidex:1.0.1'
+    compile 'com.gxz.pagerslidingtabstrip:library:1.3'
+    compile 'com.bigkoo:convenientbanner:2.0.5'
+    compile 'com.android.support:cardview-v7:23.3.0'         //卡片样式
+    compile 'com.truizlop.sectionedrecyclerview:library:1.2.0'           //可分组的Recyclerview
+    compile 'cn.jiguang.sdk:jpush:3.0.5'           //此处以JPush 3.0.5版本为例
+    compile 'cn.jiguang.sdk:jcore:1.1.2'           //此处以JCore 1.1.2版本为例
+    compile files('libs/alipaySdk-20160516.jar')
+    compile files('libs/SPMobile.jar')
+    compile files('libs/BaiduLBS_Android.jar')
+    compile files('libs/BaiduNaviSDK_3.3.1.jar')
+    compile files('libs/core.jar')
+    compile files('libs/uzMam.jar')
+    /**  友盟第三方登录(分享)  **/
+    compile files('libs/umeng_social_api.jar')
+    compile files('libs/umeng_social_net.jar')
+    compile files('libs/umeng_social_tool.jar')
+    compile files('libs/libapshare.jar')
+    compile files('libs/SocialSDK_alipay.jar')
+    compile files('libs/SocialSDK_QQ_Simplify.jar')
+    compile files('libs/SocialSDK_WeChat_Simplify.jar')
+    compile files('libs/SocialSDK_Sina_Simplify.jar')
+    compile files('libs/umeng_social_shareview.jar')
+    compile files('libs/umeng_social_shareboard.jar')
+    compile files('libs/umeng_shareboard_widget.jar')
+    /**  微信支付 jar **/
+    compile files('libs/libammsdk.jar')
+}
+
+
+
+
+
+
+
+
+

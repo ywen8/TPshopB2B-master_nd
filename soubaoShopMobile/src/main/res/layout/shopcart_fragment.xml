@@ -1,0 +1,101 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_activity"
+    android:orientation="vertical">
+
+    <include layout="@layout/titlebar" />
+
+    <com.tpshop.mall.widget.swipetoloadlayout.SuperRefreshRecyclerView
+        android:id="@+id/super_recyclerview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="45dp"
+        android:layout_marginTop="50dp"
+        android:background="@color/bg_view"
+        android:scrollbars="none" />
+
+    <RelativeLayout
+        android:id="@+id/empty_lstv"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="45dip"
+        android:layout_marginTop="50dip"
+        android:background="@color/bg_view"
+        android:visibility="gone">
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/cart_empty_listv"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:cacheColorHint="@null"
+            android:scrollbars="none" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dip"
+        android:layout_gravity="bottom"
+        android:background="@color/white">
+
+        <View
+            style="@style/separator_line"
+            android:layout_alignParentTop="true" />
+
+        <Button
+            android:id="@+id/checkall_btn"
+            android:layout_width="20dip"
+            android:layout_height="20dip"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:background="@drawable/icon_checkno" />
+
+        <TextView
+            android:id="@+id/checkall_txtv"
+            style="@style/textStyle.Normal.subTitle"
+            android:layout_width="30dip"
+            android:layout_height="match_parent"
+            android:layout_toRightOf="@id/checkall_btn"
+            android:gravity="right|center_vertical"
+            android:text="@string/check_all" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:layout_marginRight="125dip"
+            android:layout_toRightOf="@id/checkall_btn"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/totalfee_txtv"
+                style="@style/textStyle.Normal.subTitle"
+                android:layout_width="match_parent"
+                android:layout_height="0.0dip"
+                android:layout_weight="2.5"
+                android:gravity="right|center_vertical"
+                android:text="合计: ¥0.00" />
+
+            <TextView
+                android:id="@+id/cutfee_txtv"
+                style="@style/textStyle.Small.subTitle"
+                android:layout_width="match_parent"
+                android:layout_height="0.0dip"
+                android:layout_weight="1.5"
+                android:gravity="right|top"
+                android:text="节省: ¥0.00"
+                android:textSize="@dimen/textSizeSmall" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/buy_btn"
+            android:layout_width="120dip"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/button_selector"
+            android:enabled="false"
+            android:text="@string/product_buy_now"
+            android:textColor="@color/white" />
+    </RelativeLayout>
+</FrameLayout>

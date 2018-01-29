@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RadioGroup
+        android:id="@+id/gender_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/rad_male"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:button="@null"
+            android:checked="true"
+            android:drawableBottom="@drawable/gender_male" />
+
+        <RadioButton
+            android:id="@+id/rad_female"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:button="@null"
+            android:drawableBottom="@drawable/gender_female" />
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/ok_btn"
+        style="@style/button_style"
+        android:layout_width="match_parent"
+        android:layout_below="@+id/gender_layout"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="80dp"
+        android:onClick="onResultOkClick"
+        android:text="@android:string/ok" />
+</RelativeLayout>

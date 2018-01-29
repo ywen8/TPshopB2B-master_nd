@@ -1,0 +1,173 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:id="@+id/person_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/bg_header"
+            android:orientation="vertical">
+
+            <include
+                layout="@layout/person_head_slice"
+                android:layout_width="match_parent"
+                android:layout_height="150dip" />
+
+            <com.tpshop.mall.widget.SPArrowRowView
+                android:id="@+id/person_order_aview"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/height_row"
+                android:layout_marginTop="@dimen/dp_5"
+                android:clickable="true"
+                android:focusable="true"
+                custom:arrowSrc="@drawable/personal_order_mine_icon"
+                custom:titleText="@string/person_mine_order"
+                custom:titleTextColor="@color/person_info_text" />
+
+            <include
+                layout="@layout/person_order_category_slice"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:layout_marginTop="1dp" />
+
+            <com.tpshop.mall.widget.SPArrowRowView
+                android:id="@+id/person_collect_aview"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/height_row"
+                android:layout_marginTop="@dimen/dp_5"
+                android:clickable="true"
+                android:focusable="true"
+                custom:arrowSrc="@drawable/my_balance"
+                custom:subTitleText="@string/person_capital_manage"
+                custom:titleText="@string/person_my_balance"
+                custom:titleTextColor="@color/person_info_text" />
+
+            <include
+                android:id="@+id/person_integrate_rlayout"
+                layout="@layout/person_integrate_row_slice"
+                android:layout_width="match_parent"
+                android:layout_height="70dip"
+                android:layout_marginTop="1dp" />
+
+            <com.tpshop.mall.widget.SPArrowRowView
+                android:id="@+id/virtual_order_aview"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/height_row"
+                android:layout_marginTop="@dimen/dp_5"
+                android:clickable="true"
+                android:focusable="true"
+                custom:arrowSrc="@drawable/virtual_order"
+                custom:titleText="@string/person_virtual_order"
+                custom:titleTextColor="@color/person_info_text" />
+
+            <com.tpshop.mall.widget.SPArrowRowView
+                android:id="@+id/person_coupon_aview"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/height_row"
+                android:layout_marginTop="1dp"
+                android:clickable="true"
+                android:focusable="true"
+                custom:arrowSrc="@drawable/my_coupon"
+                custom:titleText="@string/person_coupon"
+                custom:titleTextColor="@color/person_info_text" />
+
+            <com.tpshop.mall.widget.SPArrowRowView
+                android:id="@+id/person_system_setting"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/height_row"
+                android:layout_marginTop="1dp"
+                android:clickable="true"
+                android:focusable="true"
+                custom:arrowSrc="@drawable/my_system_setting"
+                custom:titleText="@string/person_system_setting"
+                custom:titleTextColor="@color/person_info_text" />
+
+            <com.tpshop.mall.widget.SPArrowRowView
+                android:id="@+id/person_receive_address_aview"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/height_row"
+                android:layout_marginTop="1dp"
+                android:clickable="true"
+                android:focusable="true"
+                custom:arrowSrc="@drawable/my_address"
+                custom:titleText="@string/person_receive_address"
+                custom:titleTextColor="@color/person_info_text" />
+
+            <com.tpshop.mall.widget.SPArrowRowView
+                android:id="@+id/person_about_us"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/height_row"
+                android:layout_marginTop="1dp"
+                android:clickable="true"
+                android:focusable="true"
+                custom:arrowSrc="@drawable/my_about_us"
+                custom:titleText="@string/person_about_us"
+                custom:titleTextColor="@color/person_info_text" />
+
+            <com.tpshop.mall.widget.SPArrowRowView
+                android:id="@+id/person_feedback"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/height_row"
+                android:layout_marginTop="1dp"
+                android:clickable="true"
+                android:focusable="true"
+                android:visibility="gone"
+                custom:arrowSrc="@drawable/my_feedback"
+                custom:titleText="@string/person_feedback"
+                custom:titleTextColor="@color/person_info_text" />
+
+            <com.tpshop.mall.widget.SPArrowRowView
+                android:id="@+id/person_coupon_center"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/height_row"
+                android:layout_marginTop="1dp"
+                android:clickable="true"
+                android:focusable="true"
+                custom:arrowSrc="@drawable/icon_coupon_center"
+                custom:titleText="@string/title_coupon_center"
+                custom:titleTextColor="@color/person_info_text" />
+
+            <com.tpshop.mall.widget.SPArrowRowView
+                android:id="@+id/person_distribution_center"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/height_row"
+                android:layout_marginTop="1dp"
+                android:clickable="true"
+                android:focusable="true"
+                custom:arrowSrc="@drawable/icon_distribution"
+                custom:titleText="分销中心"
+                custom:titleTextColor="@color/person_info_text" />
+
+            <com.tpshop.mall.widget.SPArrowRowView
+                android:id="@+id/person_xxtm_center"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/height_row"
+                android:layout_marginTop="1dp"
+                android:clickable="true"
+                android:focusable="true"
+                android:visibility="gone"
+                custom:arrowSrc="@drawable/icon_distribution"
+                custom:titleText="线下同盟"
+                custom:titleTextColor="@color/person_info_text" />
+
+            <com.tpshop.mall.widget.SPArrowRowView
+                android:id="@+id/person_create_store"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/height_row"
+                android:layout_marginTop="1dp"
+                android:clickable="true"
+                android:focusable="true"
+                custom:arrowSrc="@drawable/icon_order_store_section"
+                custom:titleText="我要开店"
+                custom:titleTextColor="@color/person_info_text" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

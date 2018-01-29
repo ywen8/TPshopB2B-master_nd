@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/product_spec_cart_layout"
+    android:layout_width="match_parent"
+    android:layout_height="97dip"
+    android:layout_gravity="bottom"
+    android:layout_marginTop="@dimen/margin_space"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="47dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/product_spec_store_count_txtv"
+            style="@style/textStyle.Normal.Gray"
+            android:layout_width="120dip"
+            android:layout_height="47dp"
+            android:layout_gravity="left"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:gravity="center_vertical"
+            android:paddingLeft="@dimen/margin_space"
+            android:text="@string/count" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="47dp"
+            android:layout_marginRight="@dimen/margin_space"
+            android:gravity="right"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/cart_minus_btn"
+                android:layout_width="26dip"
+                android:layout_height="26dip"
+                android:layout_centerVertical="true"
+                android:background="@drawable/cart_minus_selector" />
+
+            <EditText
+                android:id="@+id/cart_count_dtxtv"
+                style="@style/textStyle.Normal.black"
+                android:layout_width="40dip"
+                android:layout_height="26dip"
+                android:layout_centerVertical="true"
+                android:layout_toRightOf="@id/cart_minus_btn"
+                android:background="@drawable/icon_cart_count"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:gravity="center"
+                android:inputType="number"
+                android:text="1" />
+
+            <Button
+                android:id="@+id/cart_plus_btn"
+                android:layout_width="26dip"
+                android:layout_height="26dip"
+                android:layout_centerVertical="true"
+                android:layout_toRightOf="@id/cart_count_dtxtv"
+                android:background="@drawable/cart_plus_selector" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/bg_view"
+        android:orientation="horizontal"/>
+</LinearLayout>
+

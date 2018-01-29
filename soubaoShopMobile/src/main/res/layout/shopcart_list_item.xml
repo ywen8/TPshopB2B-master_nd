@@ -1,0 +1,153 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="120dip"
+    android:descendantFocusability="blocksDescendants">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/bg_activity">
+
+        <TextView
+            android:id="@+id/position"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/check_btn"
+            android:layout_width="20dip"
+            android:layout_height="20dip"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:background="@drawable/icon_checkno"
+            android:clickable="false"
+            android:focusableInTouchMode="false" />
+
+        <com.tpshop.mall.widget.SPBorderImageView
+            android:id="@+id/pic_imgv"
+            android:layout_width="80.0dip"
+            android:layout_height="90.0dip"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:layout_marginTop="@dimen/margin_space_half"
+            android:layout_toRightOf="@id/check_btn"
+            android:background="@color/white"
+            android:scaleType="fitCenter"
+            android:src="@drawable/icon_product_null" />
+
+        <ImageView
+            android:id="@+id/nogoodImg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@id/pic_imgv"
+            android:layout_alignRight="@+id/pic_imgv"
+            android:layout_marginTop="15dp"
+            android:src="@drawable/wuhuo"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/name_txtv"
+            style="@style/textStyle.Normal.black"
+            android:layout_width="fill_parent"
+            android:layout_height="44.0dip"
+            android:layout_toRightOf="@id/pic_imgv"
+            android:ellipsize="end"
+            android:gravity="left|center_vertical"
+            android:maxLines="2"
+            android:paddingLeft="@dimen/margin_space"
+            android:paddingRight="@dimen/margin_space"
+            android:paddingTop="@dimen/margin_space_half" />
+
+        <TextView
+            android:id="@+id/product_spec_txtv"
+            style="@style/textStyle.Normal.subTitle"
+            android:layout_width="match_parent"
+            android:layout_height="20.0dip"
+            android:layout_below="@id/name_txtv"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:layout_marginRight="60dip"
+            android:layout_toRightOf="@id/pic_imgv"
+            android:ellipsize="end"
+            android:gravity="left"
+            android:maxEms="6"
+            android:maxLines="1" />
+
+        <TextView
+            android:id="@+id/shop_price_txtv"
+            style="@style/textStyle.Normal.lightRed"
+            android:layout_width="match_parent"
+            android:layout_height="20.0dip"
+            android:layout_below="@id/product_spec_txtv"
+            android:layout_toRightOf="@id/pic_imgv"
+            android:ellipsize="end"
+            android:gravity="left"
+            android:maxLines="2"
+            android:paddingLeft="@dimen/margin_space"
+            android:paddingRight="@dimen/margin_space" />
+
+
+        <TextView
+            android:id="@+id/market_price_txtv"
+            style="@style/textStyle.Normal.Gray"
+            android:layout_width="match_parent"
+            android:layout_height="20.0dip"
+            android:layout_below="@id/product_spec_txtv"
+            android:ellipsize="end"
+            android:gravity="right"
+            android:maxLines="2"
+            android:paddingLeft="@dimen/margin_space"
+            android:paddingRight="@dimen/margin_space" />
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="26dip"
+            android:layout_below="@+id/shop_price_txtv"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:layout_toRightOf="@+id/pic_imgv"
+            android:gravity="left"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/cart_minus_btn"
+                android:layout_width="26dip"
+                android:layout_height="26dip"
+                android:background="@drawable/cart_minus_selector"
+                android:clickable="false"
+                android:focusableInTouchMode="false" />
+
+            <EditText
+                android:id="@+id/cart_count_dtxtv"
+                style="@style/textStyle.Normal.black"
+                android:layout_width="40dip"
+                android:layout_height="26dip"
+                android:layout_toRightOf="@id/cart_minus_btn"
+                android:background="@drawable/icon_cart_count"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                android:gravity="center"
+                android:inputType="number"
+                android:text="1" />
+
+            <Button
+                android:id="@+id/cart_plus_btn"
+                android:layout_width="26dip"
+                android:layout_height="26dip"
+                android:layout_toRightOf="@id/cart_count_dtxtv"
+                android:background="@drawable/cart_plus_selector"
+                android:focusable="false"
+                android:focusableInTouchMode="false" />
+        </RelativeLayout>
+
+        <ImageButton
+            android:id="@+id/del_btn"
+            android:layout_width="60dip"
+            android:layout_height="26dip"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/shop_price_txtv"
+            android:layout_centerVertical="true"
+            android:layout_gravity="right|center_vertical"
+            android:background="@color/transparent"
+            android:clickable="false"
+            android:focusableInTouchMode="false"
+            android:src="@drawable/icon_del_normal" />
+    </RelativeLayout>
+</FrameLayout>

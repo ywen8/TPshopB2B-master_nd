@@ -1,0 +1,66 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="50dip"
+    android:background="@color/bg_view">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/titlebar_title_txtv"
+            style="@style/textStyle.Medium.black"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="商品详情" />
+
+        <TextView
+            android:layout_width="12dp"
+            android:layout_height="22dp"
+            android:layout_gravity="left|center_vertical"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:background="@drawable/common_title_back_selector"
+            android:gravity="center" />
+
+        <Button
+            android:id="@+id/titlebar_back_btn"
+            android:layout_width="50dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="left|center_vertical"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:background="#00ffffff" />
+
+
+        <ImageView
+            android:id="@+id/close_imgv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="60dp"
+            android:layout_toRightOf="@+id/titlebar_back_btn"
+            android:clickable="true"
+            android:focusable="true"
+            android:src="@drawable/icon_title_close" />
+    </FrameLayout>
+
+    <View
+        android:id="@+id/titlebar_line"
+        style="@style/separator_line"
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:layout_gravity="bottom"
+        android:focusable="true"
+        android:focusableInTouchMode="true" />
+
+    <ProgressBar
+        android:id="@+id/progress_bar"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="3dip"
+        android:layout_gravity="bottom"
+        android:progressDrawable="@drawable/webview_probar_bg"
+        android:visibility="gone" />
+</FrameLayout>
+
+

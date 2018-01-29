@@ -1,0 +1,917 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:2:1-302:12
+	package
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:3:5-30
+		INJECTED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml
+		INJECTED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:5:5-32
+		INJECTED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml
+		INJECTED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml
+		INJECTED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:multidex:1.0.1] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/AndroidManifest.xml:18:5-42
+MERGED from [TPshopB2B-master_nd:viewPagerIndicator_library:unspecified] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/TPshopB2B-master_nd/viewPagerIndicator_library/unspecified/AndroidManifest.xml:7:5-9:40
+MERGED from [com.android.support:support-v4:23.3.0] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
+MERGED from [TPshopB2B-master_nd:StickyGridHeaders_library:unspecified] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/TPshopB2B-master_nd/StickyGridHeaders_library/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [TPshopB2B-master_nd:magicindicator_library:unspecified] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/TPshopB2B-master_nd/magicindicator_library/unspecified/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:23.3.0] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-vector-drawable:23.3.0] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/AndroidManifest.xml:5:5-44
+MERGED from [TPshopB2B-master_nd:ArcProgressBar_library:unspecified] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/TPshopB2B-master_nd/ArcProgressBar_library/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:23.3.0] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/design/23.3.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.3.0] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/AndroidManifest.xml:20:5-43
+MERGED from [com.bm.photoview:library:1.4.1] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.bm.photoview/library/1.4.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.songhang:smart-headerfooter-recyclerview:1.0.1] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.songhang/smart-headerfooter-recyclerview/1.0.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fresco:0.9.0] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:0.9.0] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:0.9.0] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.9.0] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:0.9.0] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.gxz.pagerslidingtabstrip:library:1.3] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.gxz.pagerslidingtabstrip/library/1.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.bigkoo:convenientbanner:2.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.bigkoo/convenientbanner/2.0.5/AndroidManifest.xml:7:5-44
+MERGED from [com.android.support:cardview-v7:23.3.0] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/AndroidManifest.xml:20:5-43
+MERGED from [com.truizlop.sectionedrecyclerview:library:1.2.0] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.truizlop.sectionedrecyclerview/library/1.2.0/AndroidManifest.xml:7:5-9:41
+MERGED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:7:5-9:41
+MERGED from [cn.jiguang.sdk:jcore:1.1.2] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jcore/1.1.2/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.3.0] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml
+		INJECTED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml
+		INJECTED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:12:5-67
+MERGED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:18:5-67
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:12:22-64
+uses-feature#android.hardware.camera
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:13:5-60
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:13:19-57
+uses-permission#android.permission.CAMERA
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:14:5-65
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:14:22-62
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:15:5-70
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:15:19-67
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:17:5-79
+MERGED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:17:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:18:5-68
+MERGED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:19:5-68
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:18:22-65
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:19:5-75
+MERGED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:20:5-75
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:19:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:20:5-81
+MERGED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:21:5-81
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:20:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:21:5-80
+MERGED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:21:22-77
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:22:5-66
+MERGED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:24:5-66
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:22:22-63
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:23:5-84
+MERGED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:25:5-84
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:23:22-81
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:24:5-79
+MERGED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:24:22-76
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:25:5-73
+MERGED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:23:5-73
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:25:22-70
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:27:5-81
+MERGED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:31:5-81
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:27:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:28:5-76
+MERGED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:27:5-76
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:28:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:29:5-76
+MERGED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:32:5-76
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:29:22-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:30:5-79
+MERGED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:33:5-79
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:30:22-76
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:31:5-89
+MERGED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:34:5-89
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:31:22-86
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:32:5-79
+MERGED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:35:5-79
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:32:22-76
+uses-permission#android.permission.READ_LOGS
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:33:5-68
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:33:22-65
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:34:5-69
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:34:22-66
+uses-permission#android.permission.GET_TASKS
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:35:5-68
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:35:22-65
+uses-permission#android.permission.SET_DEBUG_APP
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:36:5-72
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:36:22-69
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:37:5-78
+MERGED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:30:5-78
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:37:22-75
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:38:5-71
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:38:22-68
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:39:5-74
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:39:22-71
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:40:5-74
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:40:22-71
+uses-permission#android.permission.BODY_SENSORS
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:42:5-71
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:42:22-68
+uses-permission#android.permission.BAIDU_LOCATION_SERVICE
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:43:5-81
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:43:22-78
+uses-permission#android.permission.ACCES_MOCK_LOCATION
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:44:5-78
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:44:22-75
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:45:5-85
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:45:22-82
+uses-permission#android.permission.ACCESS_GPS
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:46:5-69
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:46:22-66
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:48:5-75
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:48:22-72
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:50:5-81
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:50:22-78
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:51:5-80
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:51:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:52:5-71
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:52:22-68
+application
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:54:5-301:19
+MERGED from [com.android.support:support-v4:23.3.0] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.3.0] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/AndroidManifest.xml:7:5-20
+MERGED from [TPshopB2B-master_nd:ArcProgressBar_library:unspecified] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/TPshopB2B-master_nd/ArcProgressBar_library/unspecified/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:design:23.3.0] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/design/23.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.bm.photoview:library:1.4.1] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.bm.photoview/library/1.4.1/AndroidManifest.xml:11:5-12:19
+MERGED from [com.songhang:smart-headerfooter-recyclerview:1.0.1] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.songhang/smart-headerfooter-recyclerview/1.0.1/AndroidManifest.xml:11:5-15:19
+MERGED from [com.gxz.pagerslidingtabstrip:library:1.3] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.gxz.pagerslidingtabstrip/library/1.3/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:cardview-v7:23.3.0] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.truizlop.sectionedrecyclerview:library:1.2.0] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.truizlop.sectionedrecyclerview/library/1.2.0/AndroidManifest.xml:11:5-12:19
+MERGED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:37:5-122:19
+MERGED from [cn.jiguang.sdk:jcore:1.1.2] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jcore/1.1.2/AndroidManifest.xml:11:5-12:19
+	android:label
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:59:9-41
+	android:supportsRtl
+		ADDED from [TPshopB2B-master_nd:ArcProgressBar_library:unspecified] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/TPshopB2B-master_nd/ArcProgressBar_library/unspecified/AndroidManifest.xml:14:9-35
+	android:hardwareAccelerated
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:57:9-43
+	android:allowBackup
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:56:9-35
+	android:icon
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:58:9-41
+	android:theme
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:60:9-40
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:55:9-66
+activity#com.tpshop.mall.SPMainActivity
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:61:9-65:72
+	android:label
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:63:13-45
+	android:launchMode
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:64:13-44
+	android:theme
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:65:13-69
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:62:13-43
+activity#com.tpshop.mall.WelcomeActivity
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:66:9-68:74
+	android:theme
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:68:13-71
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:67:13-44
+activity#com.tpshop.mall.SplashActivity
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:69:9-76:20
+	android:theme
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:71:13-69
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:70:13-43
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:72:13-75:29
+action#android.intent.action.MAIN
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:73:17-69
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:73:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:74:17-77
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:74:27-74
+provider#android.support.v4.content.FileProvider
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:78:9-86:20
+	android:authorities
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:80:13-63
+	android:grantUriPermissions
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:82:13-47
+	android:exported
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:81:13-37
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:79:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:83:13-85:54
+	android:resource
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:85:17-51
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:84:17-67
+activity#com.tpshop.mall.activity.person.address.SPConsigneeAddressEditActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:88:9-90:48
+	android:label
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:90:13-45
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:89:13-84
+activity#com.tpshop.mall.activity.person.address.SPCitySelectActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:91:9-93:48
+	android:label
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:93:13-45
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:92:13-74
+activity#com.tpshop.mall.activity.shop.SPProductListActivity
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:94:9-96:48
+	android:label
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:96:13-45
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:95:13-64
+activity#com.tpshop.mall.activity.shop.SPProductListSearchResultActivity
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:97:9-85
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:97:19-82
+activity#com.tpshop.mall.activity.shop.SPProductDetailActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:98:9-101:72
+	android:label
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:100:13-57
+	android:theme
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:101:13-69
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:99:13-67
+activity#com.tpshop.mall.activity.shop.SPConfirmOrderActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:102:9-105:73
+	android:label
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:104:13-67
+	android:windowSoftInputMode
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:105:13-70
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:103:13-66
+activity#com.tpshop.mall.activity.shop.SPConfirmVirtualOrderActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:106:9-108:67
+	android:windowSoftInputMode
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:108:13-64
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:107:13-73
+activity#com.tpshop.mall.activity.person.address.SPConsigneeAddressListActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:109:9-111:60
+	android:label
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:111:13-57
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:110:13-84
+activity#com.tpshop.mall.activity.common.SPTextAreaViewActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:112:9-77
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:112:19-74
+activity#com.tpshop.mall.activity.common.SPPayListActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:113:9-72
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:113:19-69
+activity#com.tpshop.mall.activity.person.order.SPOrderListActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:114:9-80
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:114:19-77
+activity#com.tpshop.mall.activity.person.order.SPOrderDetailActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:115:9-82
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:115:19-79
+activity#com.tpshop.mall.activity.shop.SPProductShowListActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:116:9-78
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:116:19-75
+activity#com.tpshop.mall.activity.person.SPCollectListActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:117:9-76
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:117:19-73
+activity#com.tpshop.mall.activity.person.SPSettingListActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:118:9-76
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:118:19-73
+activity#com.tpshop.mall.activity.person.SPTypeSelectActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:119:9-75
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:119:19-72
+activity#com.tpshop.mall.activity.person.order.SPCommentCenterActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:120:9-84
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:120:19-81
+activity#com.tpshop.mall.activity.common.SPSearchCommonActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:121:9-123:40
+	android:noHistory
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:123:13-37
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:122:13-68
+activity#com.soubao.spmobile.SPMobileActivity
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:124:9-73
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:124:19-70
+activity#com.tpshop.mall.activity.common.SPCommonWebActivity
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:125:9-127:67
+	android:windowSoftInputMode
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:127:13-64
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:126:13-64
+activity#com.tpshop.mall.activity.shop.SPCommodityEvaluationActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:128:9-82
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:128:19-79
+activity#com.tpshop.mall.activity.person.SPCouponListActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:129:9-75
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:129:19-72
+activity#com.tpshop.mall.activity.person.SPCouponCenterActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:130:9-77
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:130:19-74
+activity#com.tpshop.mall.activity.shop.SPStoreAboutActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:131:9-73
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:131:19-70
+activity#com.tpshop.mall.activity.shop.SPStoreHomeActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:132:9-72
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:132:19-69
+activity#com.tpshop.mall.activity.shop.SPStoreGoodsClassActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:133:9-78
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:133:19-75
+activity#com.tpshop.mall.activity.shop.SPStoreProductListActivity
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:134:9-78
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:134:19-75
+activity#com.tpshop.mall.activity.shop.SPBrandStreetActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:135:9-74
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:135:19-71
+activity#com.tpshop.mall.activity.shop.SPStoreStreetActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:136:9-74
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:136:19-71
+activity#com.tpshop.mall.activity.shop.SPStoreMapActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:137:9-71
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:137:19-68
+activity#com.tpshop.mall.activity.shop.SPStoreGuideActivity
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:138:9-72
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:138:19-69
+activity#com.tpshop.mall.activity.shop.SPGroupListActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:139:9-72
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:139:19-69
+activity#com.tpshop.mall.activity.shop.SPFlashSaleActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:140:9-72
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:140:19-69
+activity#com.tpshop.mall.activity.shop.SPGoodsPromoteActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:141:9-75
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:141:19-72
+activity#com.tpshop.mall.activity.shop.SPOrderInvoceActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:142:9-144:67
+	android:windowSoftInputMode
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:144:13-64
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:143:13-65
+activity#com.tpshop.mall.activity.common.SPImagePreviewActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:145:9-147:75
+	android:theme
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:147:13-72
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:146:13-68
+service#com.baidu.location.f
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:149:9-152:41
+	android:enabled
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:151:13-35
+	android:process
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:152:13-38
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:150:13-48
+meta-data#BaiduMobAd_STAT_ID
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:154:9-156:42
+	android:value
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:156:13-39
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:155:13-46
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:157:9-159:64
+	android:value
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:159:13-61
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:158:13-52
+activity#com.tpshop.mall.wxapi.WXEntryActivity
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:162:9-167:75
+	android:screenOrientation
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:166:13-49
+	android:exported
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:165:13-36
+	android:configChanges
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:164:13-74
+	android:theme
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:167:13-72
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:163:13-50
+activity#com.umeng.qq.tencent.AuthActivity
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:169:9-179:20
+	android:launchMode
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:171:13-44
+	android:noHistory
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:172:13-37
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:170:13-61
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:173:13-178:29
+action#android.intent.action.VIEW
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:174:17-69
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:174:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:176:17-76
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:176:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:177:17-78
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:177:27-75
+activity#com.umeng.qq.tencent.AssistActivity
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:180:9-184:75
+	android:screenOrientation
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:183:13-49
+	android:configChanges
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:182:13-74
+	android:theme
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:184:13-72
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:181:13-63
+activity#com.alipay.sdk.app.H5PayActivity
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:186:9-191:70
+	android:screenOrientation
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:190:13-47
+	android:exported
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:189:13-37
+	android:windowSoftInputMode
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:191:13-67
+	android:configChanges
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:188:13-85
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:187:13-60
+activity#com.tpshop.mall.activity.person.user.SPLoginActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:193:9-195:47
+	android:launchMode
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:195:13-44
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:194:13-66
+activity#com.tpshop.mall.activity.person.user.SPUserDetailsActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:196:9-81
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:196:19-78
+activity#com.tpshop.mall.activity.person.user.SPModifyPasswordActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:197:9-84
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:197:19-81
+activity#com.tpshop.mall.activity.common.SPPushMessageListActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:198:9-80
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:198:19-77
+activity#com.tpshop.mall.activity.person.user.SPRegisterActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:199:9-78
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:199:19-75
+activity#com.tpshop.mall.activity.person.user.SPMessageSettingsActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:200:9-85
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:200:19-82
+activity#com.tpshop.mall.activity.person.user.SPMessageCenterActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:201:9-83
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:201:19-80
+activity#com.tpshop.mall.activity.person.user.SPPayPwdActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:202:9-76
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:202:19-73
+activity#com.tpshop.mall.activity.person.user.SPBindAccountActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:203:9-81
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:203:19-78
+activity#com.tpshop.mall.activity.person.user.SPAssociatedAccountActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:204:9-87
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:204:19-84
+activity#com.tpshop.mall.activity.person.user.SPMessageNoticeFragmentActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:205:9-209:39
+	android:excludeFromRecents
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:207:13-46
+	android:launchMode
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:208:13-44
+	android:taskAffinity
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:209:13-36
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:206:13-82
+activity#com.tpshop.mall.activity.shop.SPIntegralMallActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:210:9-75
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:210:19-72
+activity#com.tpshop.mall.zxing.MipcaActivityCapture
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:211:9-216:63
+	android:screenOrientation
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:214:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:216:13-60
+	android:configChanges
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:213:13-63
+	android:theme
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:215:13-60
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:212:13-55
+receiver#com.tpshop.mall.AppRegister
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:218:9-222:20
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:218:19-46
+intent-filter#com.tencent.mm.plugin.openapi.Intent.ACTION_REFRESH_WXAPP
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:219:13-221:29
+action#com.tencent.mm.plugin.openapi.Intent.ACTION_REFRESH_WXAPP
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:220:17-100
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:220:25-97
+receiver#com.tpshop.mall.push.jPushReceiver
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:224:9-236:20
+	android:enabled
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:226:13-35
+	android:exported
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:227:13-37
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:225:13-47
+intent-filter#cn.jpush.android.intent.CONNECTION+cn.jpush.android.intent.MESSAGE_RECEIVED+cn.jpush.android.intent.NOTIFICATION_OPENED+cn.jpush.android.intent.NOTIFICATION_RECEIVED+cn.jpush.android.intent.REGISTRATION+com.tpshop.mall
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:228:13-235:29
+action#cn.jpush.android.intent.REGISTRATION
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:229:17-79
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:229:25-76
+action#cn.jpush.android.intent.MESSAGE_RECEIVED
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:230:17-83
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:230:25-80
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:231:17-88
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:231:25-85
+action#cn.jpush.android.intent.NOTIFICATION_OPENED
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:232:17-86
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:232:25-83
+action#cn.jpush.android.intent.CONNECTION
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:233:17-77
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:233:25-74
+category#com.tpshop.mall
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:234:17-60
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:234:27-57
+activity#com.tpshop.mall.wxapi.WXPayEntryActivity
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:237:9-241:64
+	android:launchMode
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:240:13-43
+	android:exported
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:239:13-36
+	android:theme
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:241:13-61
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:238:13-53
+meta-data#UMENG_APPKEY
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:243:9-245:56
+	android:value
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:245:13-53
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:244:13-40
+meta-data#UMENG_CHANNEL
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:246:9-248:36
+	android:value
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:248:13-33
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:247:13-41
+activity#com.tpshop.mall.activity.common.PinYinActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:250:9-252:62
+	android:label
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:252:13-59
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:251:13-60
+activity#com.tpshop.mall.activity.person.catipal.SPCapitalManageActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:254:9-86
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:254:19-83
+activity#com.tpshop.mall.activity.person.catipal.SPTopUpActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:256:9-78
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:256:19-75
+activity#com.tpshop.mall.activity.person.catipal.SPWithdrawActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:258:9-81
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:258:19-78
+activity#com.tpshop.mall.activity.person.user.SPFindPasswordActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:260:9-82
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:260:19-79
+activity#com.tpshop.mall.activity.person.user.SPUserGenderActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:262:9-80
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:262:19-77
+activity#com.tpshop.mall.activity.person.user.SPChangeMobileActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:264:9-82
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:264:19-79
+activity#com.tpshop.mall.activity.person.user.SPChangeEmailActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:266:9-81
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:266:19-78
+activity#com.tpshop.mall.activity.person.user.SPChangeNickNameActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:268:9-84
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:268:19-81
+activity#com.tpshop.mall.activity.person.SPBrowsingHistoryActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:270:9-80
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:270:19-77
+activity#com.tpshop.mall.activity.person.SPOfflineAllianceActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:271:9-80
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:271:19-77
+activity#com.tpshop.mall.activity.person.SPMerchantsSettledActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:272:9-81
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:272:19-78
+activity#com.tpshop.mall.activity.person.SPMerchantsShopActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:273:9-275:67
+	android:windowSoftInputMode
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:275:13-64
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:274:13-69
+activity#com.tpshop.mall.activity.person.order.SPOrderCouponListActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:276:9-86
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:276:19-83
+activity#com.tpshop.mall.activity.person.order.SPVirtualOrderActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:277:9-83
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:277:19-80
+activity#com.tpshop.mall.activity.common.SPPayCompletedSecActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:278:9-280:40
+	android:noHistory
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:280:13-37
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:279:13-71
+activity#com.tpshop.mall.activity.person.order.SPApplySeriverActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:281:9-283:67
+	android:windowSoftInputMode
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:283:13-64
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:282:13-74
+activity#com.tpshop.mall.activity.common.SPRechargeCompletedSecActivity_
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:284:9-85
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:284:19-82
+activity#com.tpshop.mall.WBShareActivity
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:286:9-294:20
+	android:screenOrientation
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:289:13-49
+	android:configChanges
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:288:13-63
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:287:13-44
+intent-filter#android.intent.category.DEFAULT+com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:290:13-293:29
+action#com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:291:17-92
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:291:25-89
+activity#com.tpshop.mall.apshare.ShareEntryActivity
+ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:295:9-300:75
+	android:screenOrientation
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:299:13-49
+	android:exported
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:298:13-36
+	android:configChanges
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:297:13-74
+	android:theme
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:300:13-72
+	android:name
+		ADDED from /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/AndroidManifest.xml:296:13-55
+permission#${JPUSH_PKGNAME}.permission.JPUSH_MESSAGE
+ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:11:5-13:47
+	android:protectionLevel
+		ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:13:9-44
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:12:9-65
+uses-permission#${JPUSH_PKGNAME}.permission.JPUSH_MESSAGE
+ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:16:22-78
+activity#cn.jpush.android.ui.PopWinActivity
+ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:40:9-43:52
+	android:exported
+		ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:42:13-37
+	android:theme
+		ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:43:13-49
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:41:13-62
+activity#cn.jpush.android.ui.PushActivity
+ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:46:9-57:20
+	android:exported
+		ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:49:13-37
+	android:configChanges
+		ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:48:13-63
+	android:theme
+		ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:50:13-60
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:47:13-60
+intent-filter#${JPUSH_PKGNAME}+android.intent.category.DEFAULT+cn.jpush.android.ui.PushActivity
+ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:51:13-56:29
+action#cn.jpush.android.ui.PushActivity
+ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:52:17-75
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:52:25-72
+category#${JPUSH_PKGNAME}
+ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:55:17-61
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:55:27-58
+service#cn.jpush.android.service.PushService
+ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:60:9-71:19
+	android:enabled
+		ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:62:13-35
+	android:process
+		ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:64:13-40
+	android:exported
+		ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:63:13-37
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:61:13-64
+intent-filter#cn.jpush.android.intent.PUSH_TIME+cn.jpush.android.intent.PushService+cn.jpush.android.intent.REGISTER+cn.jpush.android.intent.REPORT
+ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:65:13-70:29
+action#cn.jpush.android.intent.REGISTER
+ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:66:17-75
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:66:25-72
+action#cn.jpush.android.intent.REPORT
+ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:67:17-73
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:67:25-70
+action#cn.jpush.android.intent.PushService
+ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:68:17-78
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:68:25-75
+action#cn.jpush.android.intent.PUSH_TIME
+ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:69:17-76
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:69:25-73
+service#cn.jpush.android.service.DaemonService
+ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:75:9-84:19
+	android:enabled
+		ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:77:13-35
+	android:exported
+		ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:78:13-36
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:76:13-66
+intent-filter#${JPUSH_PKGNAME}+cn.jpush.android.intent.DaemonService
+ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:79:13-83:29
+action#cn.jpush.android.intent.DaemonService
+ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:80:17-80
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:80:25-77
+receiver#cn.jpush.android.service.PushReceiver
+ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:87:9-107:20
+	android:enabled
+		ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:89:13-35
+	android:process
+		ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:91:13-40
+	android:exported
+		ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:90:13-37
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:88:13-65
+intent-filter#${JPUSH_PKGNAME}+cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY
+ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:92:13-95:29
+	android:priority
+		ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:92:28-51
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY
+ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:93:17-94
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:93:25-91
+intent-filter#android.intent.action.USER_PRESENT+android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:96:13-99:29
+action#android.intent.action.USER_PRESENT
+ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:97:17-77
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:97:25-74
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:98:17-79
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:98:25-76
+intent-filter#android.intent.action.PACKAGE_ADDED+android.intent.action.PACKAGE_REMOVED
+ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:101:13-106:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:102:17-78
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:102:25-75
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:103:17-80
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:103:25-77
+data
+ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:105:17-50
+	android:scheme
+		ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:105:23-47
+receiver#cn.jpush.android.service.AlarmReceiver
+ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:110:9-112:40
+	android:exported
+		ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:112:13-37
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:111:13-66
+meta-data#JPUSH_CHANNEL
+ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:115:9-117:48
+	android:value
+		ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:117:13-45
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:116:13-41
+meta-data#JPUSH_APPKEY
+ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:118:9-120:47
+	android:value
+		ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:120:13-44
+	android:name
+		ADDED from [cn.jiguang.sdk:jpush:3.0.5] /Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/AndroidManifest.xml:119:13-40

@@ -1,0 +1,49 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/transparent"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/cardView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:minHeight="90dp">
+
+        <LinearLayout
+            android:id="@+id/card_ll"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/title_text"
+                style="@style/textStyle.Normal.black"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="15dp"
+                android:layout_marginTop="7dp"
+                android:text="订单未支付" />
+
+            <TextView
+                android:id="@+id/title_info"
+                style="@style/textStyle.Normal.Gray"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ellipsize="end"
+                android:maxLines="2"
+                android:text="您有未支付的订单将失效，再不搞定就成别人家的了，快去看看吧:)" />
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/lose_message_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:layout_margin="10dp"
+            android:src="@drawable/msg_serverice"
+            android:visibility="gone" />
+    </android.support.v7.widget.CardView>
+</LinearLayout>

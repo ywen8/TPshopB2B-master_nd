@@ -1,0 +1,47 @@
+[
+    {
+        "outputFile": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 26,
+                    "endColumn": 24,
+                    "endOffset": 1624
+                },
+                "from": {
+                    "file": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/values-w820dp/attrs.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endLine": 25,
+                        "endColumn": 24,
+                        "endOffset": 1606
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1629,
+                    "endColumn": 57,
+                    "endOffset": 1682
+                },
+                "from": {
+                    "file": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 295,
+                        "endColumn": 57,
+                        "endOffset": 348
+                    }
+                }
+            }
+        ]
+    }
+]

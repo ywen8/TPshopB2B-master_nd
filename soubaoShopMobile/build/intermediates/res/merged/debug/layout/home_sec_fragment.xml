@@ -1,0 +1,76 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.tpshop.mall.widget.swipetoloadlayout.SuperRefreshRecyclerView
+        android:id="@+id/super_recyclerview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/bg_view"
+        android:scrollbars="none" />
+
+    <ImageButton
+        android:id="@+id/top_ibtn"
+        android:layout_width="40dip"
+        android:layout_height="40dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/icon_top_btn"
+        android:visibility="gone" />
+
+    <RelativeLayout
+        android:id="@+id/toprela"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/light_red"
+        android:padding="5dp">
+
+        <TextView
+            android:id="@+id/city_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:drawableRight="@drawable/change_w"
+            android:maxLength="5"
+            android:text="@string/location"
+            android:textColor="@color/white"
+            android:textSize="12sp"
+            android:visibility="visible" />
+
+        <EditText
+            android:id="@+id/searchkey_edtv"
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_toLeftOf="@+id/image_right"
+            android:layout_toRightOf="@+id/city_tv"
+            android:alpha="0.8"
+            android:background="@drawable/icon_home_searbox_bg_w"
+            android:drawableLeft="@drawable/icon_home_search_w"
+            android:drawablePadding="5dp"
+            android:focusable="false"
+            android:hint="@string/hint_search_keyword"
+            android:padding="10dp"
+            android:textColorHint="@android:color/white"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/image_right"
+            android:layout_width="30dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="5dp"
+            android:drawableTop="@drawable/icon_home_msg_w"
+            android:gravity="center_horizontal"
+            android:text="@string/home_title_msg"
+            android:textColor="#fff"
+            android:textSize="12sp" />
+    </RelativeLayout>
+</RelativeLayout>

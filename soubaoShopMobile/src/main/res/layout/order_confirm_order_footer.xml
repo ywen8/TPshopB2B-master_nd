@@ -1,0 +1,309 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/bg_activity"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/order_point_rl"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_row"
+        android:layout_marginTop="@dimen/margin_space_half"
+        android:background="@color/bg_view">
+
+        <TextView
+            android:id="@+id/order_point_txtv"
+            style="@style/textStyle.Normal.Gray"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:text="当前积分" />
+
+        <EditText
+            android:id="@+id/order_point_et"
+            android:layout_width="@dimen/dp_60"
+            android:layout_height="30dp"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/margin_space_half"
+            android:layout_toLeftOf="@+id/order_point_sth"
+            android:background="@drawable/gary_button_shape"
+            android:focusable="true"
+            android:inputType="number"
+            android:paddingLeft="@dimen/margin_space_half"
+            android:textColor="@color/gray"
+            android:textSize="@dimen/textSizeNormal" />
+
+        <com.tpshop.mall.widget.SwitchButton
+            android:id="@+id/order_point_sth"
+            style="@style/SwitchButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/margin_space"
+            app:kswTintColor="@color/light_red" />
+    </RelativeLayout>
+
+    <View style="@style/separator_line" />
+
+    <RelativeLayout
+        android:id="@+id/order_balance_rl"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_row"
+        android:background="@color/bg_view">
+
+        <TextView
+            android:id="@+id/order_balance_txtv"
+            style="@style/textStyle.Normal.Gray"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:text="当前余额" />
+
+        <EditText
+            android:id="@+id/order_balance_et"
+            android:layout_width="@dimen/dp_60"
+            android:layout_height="30dp"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/margin_space_half"
+            android:layout_toLeftOf="@+id/order_balance_sth"
+            android:background="@drawable/gary_button_shape"
+            android:focusable="true"
+            android:inputType="numberDecimal"
+            android:paddingLeft="@dimen/margin_space_half"
+            android:textColor="@color/gray"
+            android:textSize="@dimen/textSizeNormal" />
+
+        <com.tpshop.mall.widget.SwitchButton
+            android:id="@+id/order_balance_sth"
+            style="@style/SwitchButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/margin_space"
+            app:kswTintColor="@color/light_red" />
+    </RelativeLayout>
+
+    <View style="@style/separator_line" />
+
+    <com.tpshop.mall.widget.SPArrowRowView
+        android:id="@+id/order_invoce_aview"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_row"
+        android:clickable="true"
+        android:focusable="true"
+        custom:titleText="发票信息" />
+
+    <View style="@style/separator_line" />
+
+    <RelativeLayout
+        android:id="@+id/has_point_rl"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_text"
+        android:background="@color/bg_view"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/has_point_txtv"
+            style="@style/textStyle.Normal.Gray"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:text="当前使用积分" />
+
+        <TextView
+            android:id="@+id/fee_has_point"
+            style="@style/textStyle.Normal.lightRed"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/margin_space"
+            android:text="0" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/cutfee_rl"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_text"
+        android:background="@color/bg_view">
+
+        <TextView
+            android:id="@+id/title_cutfee_txtv"
+            style="@style/textStyle.Normal.Gray"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:text="订单优惠" />
+
+        <TextView
+            android:id="@+id/fee_cutfee_txtv"
+            style="@style/textStyle.Normal.lightRed"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/margin_space"
+            android:text="¥0.0" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/goodsfee_rl"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_text"
+        android:background="@color/bg_view">
+
+        <TextView
+            android:id="@+id/title_goodsfee_txtv"
+            style="@style/textStyle.Normal.Gray"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:text="商品总额" />
+
+        <TextView
+            android:id="@+id/fee_goodsfee_txtv"
+            style="@style/textStyle.Normal.lightRed"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/margin_space"
+            android:text="¥0.0" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/shipping_rl"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_text"
+        android:background="@color/bg_view">
+
+        <TextView
+            android:id="@+id/title_shopping_txtv"
+            style="@style/textStyle.Normal.Gray"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:text="运费" />
+
+        <TextView
+            android:id="@+id/fee_shopping_txtv"
+            style="@style/textStyle.Normal.lightRed"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/margin_space"
+            android:text="¥0.0" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/coupon_rl"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_text"
+        android:background="@color/bg_view">
+
+        <TextView
+            android:id="@+id/title_coupon_txtv"
+            style="@style/textStyle.Normal.Gray"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:text="优惠券抵扣" />
+
+        <TextView
+            android:id="@+id/fee_coupon_txtv"
+            style="@style/textStyle.Normal.lightRed"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/margin_space"
+            android:text="¥0.0" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/point_rl"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_text"
+        android:background="@color/bg_view">
+
+        <TextView
+            android:id="@+id/title_point_txtv"
+            style="@style/textStyle.Normal.Gray"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:text="积分抵扣" />
+
+        <TextView
+            android:id="@+id/fee_point_txtv"
+            style="@style/textStyle.Normal.lightRed"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/margin_space"
+            android:text="¥0.0" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/balance_rl"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_text"
+        android:background="@color/bg_view">
+
+        <TextView
+            android:id="@+id/title_balance_txtv"
+            style="@style/textStyle.Normal.Gray"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:text="余额支付" />
+
+        <TextView
+            android:id="@+id/fee_balance_txtv"
+            style="@style/textStyle.Normal.lightRed"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/margin_space"
+            android:text="¥0.0" />
+    </RelativeLayout>
+
+    <View style="@style/separator_line" />
+
+    <TextView
+        android:id="@+id/fee_amount_txtv"
+        style="@style/textStyle.Big.black"
+        android:layout_width="match_parent"
+        android:layout_height="50dip"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/fee_balance_txtv"
+        android:layout_marginRight="@dimen/margin_space"
+        android:gravity="right|center_vertical"
+        android:text="实付款: ¥0.0" />
+
+    <TextView
+        android:id="@+id/buy_time_txtv"
+        style="@style/textStyle.Normal.Gray"
+        android:layout_width="match_parent"
+        android:layout_height="20dip"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/fee_balance_txtv"
+        android:layout_marginRight="@dimen/margin_space"
+        android:gravity="right|center_vertical" />
+</LinearLayout>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:background="@color/light_red"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv_tittle"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:maxLines="1"
+        android:text="选择地区"
+        android:textColor="@color/white"
+        android:textSize="16sp" />
+
+    <RelativeLayout
+        android:id="@+id/btn_back"
+        android:layout_width="35dp"
+        android:layout_height="@dimen/height_row">
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:layout_gravity="left|center_vertical"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:background="@android:color/transparent"
+            android:src="@drawable/title_back_white_normal" />
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/btn_right"
+        style="@style/textStyle.Normal.white"
+        android:layout_width="60dip"
+        android:layout_height="@dimen/height_row"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="@dimen/margin_space"
+        android:background="@drawable/bg_edit_transparent"
+        android:gravity="right|center_vertical"
+        android:text="确定" />
+
+    <View
+        style="@style/separator_line"
+        android:layout_alignParentBottom="true" />
+</RelativeLayout>

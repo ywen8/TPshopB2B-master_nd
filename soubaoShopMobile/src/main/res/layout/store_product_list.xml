@@ -1,0 +1,42 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_view"
+    android:orientation="vertical">
+
+    <com.tpshop.mall.widget.SPProductFilterTabView
+        android:id="@+id/filter_tabv"
+        android:layout_width="fill_parent"
+        android:layout_height="40dip" />
+
+    <View style="@style/separator_line" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.tpshop.mall.widget.swipetoloadlayout.SuperRefreshRecyclerView
+            android:id="@+id/super_recyclerview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scrollbars="none" />
+
+        <RelativeLayout
+            android:id="@+id/empty_lstv"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="@color/bg_view"
+            android:padding="10.0dip"
+            android:visibility="gone">
+
+            <TextView
+                android:id="@+id/empty_txtv"
+                style="@style/textStyle.Normal.black"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_horizontal|center_vertical"
+                android:lines="1"
+                android:text="没有任何数据" />
+        </RelativeLayout>
+    </FrameLayout>
+</LinearLayout>

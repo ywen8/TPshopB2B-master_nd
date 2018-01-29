@@ -1,0 +1,84 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_50"
+        android:background="@color/bg_view"
+        android:focusable="true"
+        android:focusableInTouchMode="true">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:background="@drawable/title_back_normal" />
+
+        <TextView
+            android:id="@+id/back_txtv"
+            android:layout_width="@dimen/dp_40"
+            android:layout_height="match_parent" />
+
+        <EditText
+            android:id="@+id/searchkey_edtv"
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:layout_marginRight="@dimen/margin_space"
+            android:layout_toLeftOf="@+id/search_txtv"
+            android:layout_toRightOf="@+id/back_txtv"
+            android:background="@drawable/gary_button_shape"
+            android:drawableLeft="@drawable/icon_search"
+            android:drawablePadding="@dimen/margin_space_half"
+            android:hint="@string/hint_search_keyword"
+            android:padding="@dimen/margin_space"
+            android:textColorHint="@color/gray"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/search_txtv"
+            style="@style/textStyle.Big.lightRed"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/margin_space"
+            android:text="搜索" />
+    </RelativeLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="1dp">
+
+        <com.tpshop.mall.widget.swipetoloadlayout.SuperRefreshRecyclerView
+            android:id="@+id/super_recyclerview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/bg_view"
+            android:scrollbars="none" />
+
+        <RelativeLayout
+            android:id="@+id/empty_lstv"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:background="@color/bg_view"
+            android:padding="10.0dip"
+            android:visibility="gone">
+
+            <TextView
+                style="@style/textStyle.Medium.LightGray"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="80dip"
+                android:drawablePadding="@dimen/margin_space"
+                android:drawableTop="@drawable/icon_order_empty"
+                android:gravity="center_horizontal"
+                android:text="目前没有店铺" />
+        </RelativeLayout>
+    </FrameLayout>
+</LinearLayout>

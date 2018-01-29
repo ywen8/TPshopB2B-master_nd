@@ -1,0 +1,60 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50.0dip"
+    android:background="@color/bg_view"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/search_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:id="@+id/scan_rl"
+            android:layout_width="45dp"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/scan_imgv"
+                android:layout_width="20dp"
+                android:layout_height="19dp"
+                android:layout_centerInParent="true"
+                android:src="@drawable/icon_scan_press" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/msg_rl"
+            android:layout_width="45dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true">
+
+            <ImageView
+                android:id="@+id/msg_imgv"
+                android:layout_width="20dp"
+                android:layout_height="19dp"
+                android:layout_centerInParent="true"
+                android:src="@drawable/icon_msg" />
+        </RelativeLayout>
+
+        <com.tpshop.mall.widget.SPClearEditText
+            android:id="@+id/search_key_edtv"
+            style="@style/textStyle.Normal.black"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/height_text"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@id/msg_rl"
+            android:layout_toRightOf="@id/scan_rl"
+            android:background="@drawable/icon_search_bg"
+            android:cursorVisible="false"
+            android:drawableLeft="@drawable/icon_search"
+            android:drawablePadding="5dp"
+            android:focusable="false"
+            android:hint="@string/search_hint"
+            android:paddingLeft="5dp" />
+
+        <View
+            style="@style/separator_line"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="5dp" />
+    </RelativeLayout>
+</LinearLayout>

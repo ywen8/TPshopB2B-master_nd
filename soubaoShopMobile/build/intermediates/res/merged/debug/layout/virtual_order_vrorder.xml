@@ -1,0 +1,54 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/bg_view"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            style="@style/textStyle.Normal.Gray"
+            android:layout_width="wrap_content"
+            android:layout_height="24dip"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:gravity="center_vertical"
+            android:text="电子兑换码" />
+
+        <TextView
+            android:id="@+id/title_getcode_txtv"
+            style="@style/textStyle.Normal.LightGray"
+            android:layout_width="wrap_content"
+            android:layout_height="24dip"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/margin_space"
+            android:gravity="center_vertical"
+            android:textColor="@color/light_red"
+            android:textSize="@dimen/textSizeNormal" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            style="@style/textStyle.Normal.Gray"
+            android:layout_width="wrap_content"
+            android:layout_height="24dip"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:gravity="center_vertical"
+            android:text="兑换码状态" />
+
+        <TextView
+            android:id="@+id/title_getcode_status"
+            style="@style/textStyle.Normal.LightGray"
+            android:layout_width="wrap_content"
+            android:layout_height="24dip"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/margin_space"
+            android:gravity="center_vertical"
+            android:textColor="@color/light_red"
+            android:textSize="@dimen/textSizeNormal" />
+    </RelativeLayout>
+</LinearLayout>

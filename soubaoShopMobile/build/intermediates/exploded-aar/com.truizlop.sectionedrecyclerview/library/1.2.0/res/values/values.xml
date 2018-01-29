@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/tomas/AndroidStudioProjects/SectionedRecyclerView/library/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="gray">#9e9e9e</color>
+    <!-- From: file:/Users/tomas/AndroidStudioProjects/SectionedRecyclerView/library/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="header_height">48dp</dimen>
+    <dimen name="header_padding">16dp</dimen>
+    <!-- From: file:/Users/tomas/AndroidStudioProjects/SectionedRecyclerView/library/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">SectionedRecyclerView</string>
+</resources>

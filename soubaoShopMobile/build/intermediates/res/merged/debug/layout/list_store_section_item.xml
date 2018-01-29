@@ -1,0 +1,44 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dip"
+    android:descendantFocusability="blocksDescendants"
+    android:orientation="vertical">
+
+    <include layout="@layout/separator_line_margin_slice" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dip"
+        android:background="@color/bg_header"
+        android:gravity="center_vertical">
+
+        <Button
+            android:id="@+id/store_check_btn"
+            android:layout_width="20dip"
+            android:layout_height="20dip"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:background="@drawable/icon_checked"
+            android:clickable="false"
+            android:focusableInTouchMode="false"
+            android:visibility="visible" />
+
+        <TextView
+            android:id="@+id/store_name_txtv"
+            style="@style/textStyle.Normal.black"
+            android:layout_width="wrap_content"
+            android:layout_height="20.0dip"
+            android:clickable="true"
+            android:drawableLeft="@drawable/icon_enter_store"
+            android:drawablePadding="@dimen/margin_space_half"
+            android:drawableRight="@drawable/arrow_right"
+            android:ellipsize="end"
+            android:focusable="true"
+            android:gravity="left"
+            android:maxLines="1"
+            android:minWidth="120dp"
+            android:paddingLeft="@dimen/margin_space_half"
+            android:paddingRight="@dimen/margin_space_half" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,18 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_view">
+
+    <com.tonicartos.widget.stickygridheaders.StickyGridHeadersGridView
+        android:id="@+id/store_goods_class_gdv"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginLeft="@dimen/margin_space"
+        android:layout_marginRight="@dimen/margin_space"
+        android:layout_weight="1"
+        android:background="@color/bg_view"
+        android:dividerHeight="1px"
+        android:listSelector="@android:color/transparent"
+        android:numColumns="2"
+        android:scrollbars="none" />
+</LinearLayout>

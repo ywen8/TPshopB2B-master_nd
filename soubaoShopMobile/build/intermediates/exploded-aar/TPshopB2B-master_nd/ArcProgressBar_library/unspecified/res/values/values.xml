@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ColorArcProgressBar"><attr format="color" name="back_color"/><attr format="color" name="front_color1"/><attr format="color" name="front_color2"/><attr format="color" name="front_color3"/><attr format="dimension" name="back_width"/><attr format="dimension" name="front_width"/><attr format="boolean" name="is_need_title"/><attr format="boolean" name="is_need_content"/><attr format="boolean" name="is_need_unit"/><attr format="boolean" name="is_need_dial"/><attr format="string" name="string_title"/><attr format="string" name="string_unit"/><attr format="integer" name="total_engle"/><attr format="float" name="current_value"/><attr format="float" name="max_value"/></declare-styleable>
+    <string name="app_name">Library</string>
+</resources>

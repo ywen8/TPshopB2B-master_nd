@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bottom_tab_padding_drawable">0.5dip</dimen>
+    <dimen name="height_shop_tab_bottom_item">45dp</dimen>
+</resources>

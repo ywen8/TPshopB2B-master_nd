@@ -1,0 +1,11 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.tpshop.mall.widget.SPArrowRowView
+        android:id="@+id/person_setting_item"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_row"
+        android:clickable="false"
+        android:focusable="false" />
+</FrameLayout>

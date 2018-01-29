@@ -1,0 +1,33 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <com.tpshop.mall.widget.swipetoloadlayout.SuperRefreshRecyclerView
+        android:id="@+id/super_recyclerview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/bg_view"
+        android:scrollbars="none" />
+
+    <RelativeLayout
+        android:id="@+id/empty_lstv"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:background="@color/bg_view"
+        android:padding="10.0dip"
+        android:visibility="gone">
+
+        <TextView
+            style="@style/textStyle.Medium.LightGray"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="80dip"
+            android:drawablePadding="@dimen/margin_space"
+            android:drawableTop="@drawable/icon_order_empty"
+            android:gravity="center_horizontal"
+            android:text="还没有订单,去商城逛逛" />
+    </RelativeLayout>
+</FrameLayout>
+

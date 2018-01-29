@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="permissions">
+        <item>@string/permission_recode_audio_hint</item>
+        <item>@string/permission_get_accounts_hint</item>
+        <item>@string/permission_read_phone_hint</item>
+        <item>@string/permission_call_phone_hint</item>
+        <item>@string/permission_camera_hint</item>
+        <item>@string/permission_access_fine_location_hint</item>
+        <item>@string/permission_access_coarse_location_hint</item>
+        <item>@string/permission_read_external_hint</item>
+        <item>@string/permission_white_external_hint</item>
+    </string-array>
+    <string-array name="baidumap_errror_code">
+        <item>0</item>
+        <item>正常</item>
+        <item>1</item>
+        <item>服务器内部错误</item>
+        <item>2</item>
+        <item>请求参数非法</item>
+        <item>3</item>
+        <item>权限校验失败</item>
+        <item>4</item>
+        <item>配额校验失败</item>
+        <item>5</item>
+        <item>ak不存在或者非法</item>
+        <item>101</item>
+        <item>服务禁用</item>
+        <item>102</item>
+        <item>不通过白名单或者安全码不对</item>
+        <item>201</item>
+        <item>无权限</item>
+        <item>301</item>
+        <item>配额错误</item>
+    </string-array>
+</resources>

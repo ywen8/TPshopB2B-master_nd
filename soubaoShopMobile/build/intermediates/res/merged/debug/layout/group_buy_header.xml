@@ -1,0 +1,23 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/bg_activity"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/group_ad_imgv"
+        android:layout_width="match_parent"
+        android:layout_height="150dip"
+        android:layout_gravity="center_horizontal|center_vertical"
+        android:background="@color/white"
+        android:clickable="true"
+        android:focusable="true"
+        android:scaleType="fitCenter"
+        android:src="@drawable/icon_product_null"
+        android:visibility="gone" />
+
+    <com.tpshop.mall.widget.SPListThreeFilterView
+        android:id="@+id/filter_tabv"
+        android:layout_width="fill_parent"
+        android:layout_height="40dip" />
+</LinearLayout>

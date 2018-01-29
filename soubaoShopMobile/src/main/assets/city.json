@@ -1,0 +1,4762 @@
+[
+  {
+    "initial": "A",
+    "zip": "0837",
+    "name": "阿坝"
+  },
+  {
+    "initial": "A",
+    "zip": "0997",
+    "name": "阿克苏"
+  },
+  {
+    "initial": "A",
+    "zip": "0483",
+    "name": "阿拉善盟"
+  },
+  {
+    "initial": "A",
+    "zip": "0906",
+    "name": "阿勒泰"
+  },
+  {
+    "initial": "A",
+    "zip": "0897",
+    "name": "阿里"
+  },
+  {
+    "initial": "A",
+    "zip": "0915",
+    "name": "安康"
+  },
+  {
+    "initial": "A",
+    "zip": "0556",
+    "name": "安庆"
+  },
+  {
+    "initial": "A",
+    "zip": "0412",
+    "name": "鞍山"
+  },
+  {
+    "initial": "A",
+    "zip": "0853",
+    "name": "安顺"
+  },
+  {
+    "initial": "A",
+    "zip": "0372",
+    "name": "安阳"
+  },
+  {
+    "initial": "A",
+    "zip": "0451",
+    "name": "阿城"
+  },
+  {
+    "initial": "A",
+    "zip": "0796",
+    "name": "安福"
+  },
+  {
+    "initial": "A",
+    "zip": "0572",
+    "name": "安吉"
+  },
+  {
+    "initial": "A",
+    "zip": "0871",
+    "name": "安宁"
+  },
+  {
+    "initial": "A",
+    "zip": "0536",
+    "name": "安丘"
+  },
+  {
+    "initial": "A",
+    "zip": "0595",
+    "name": "安溪"
+  },
+  {
+    "initial": "A",
+    "zip": "0791",
+    "name": "安义"
+  },
+  {
+    "initial": "A",
+    "zip": "0797",
+    "name": "安远"
+  },
+  {
+    "initial": "B",
+    "zip": "010",
+    "name": "北京"
+  },
+  {
+    "initial": "B",
+    "zip": "0436",
+    "name": "白城"
+  },
+  {
+    "initial": "B",
+    "zip": "0776",
+    "name": "百色"
+  },
+  {
+    "initial": "B",
+    "zip": "0439",
+    "name": "白山"
+  },
+  {
+    "initial": "B",
+    "zip": "0943",
+    "name": "白银"
+  },
+  {
+    "initial": "B",
+    "zip": "0552",
+    "name": "蚌埠"
+  },
+  {
+    "initial": "B",
+    "zip": "0312",
+    "name": "保定"
+  },
+  {
+    "initial": "B",
+    "zip": "0917",
+    "name": "宝鸡"
+  },
+  {
+    "initial": "B",
+    "zip": "0875",
+    "name": "保山"
+  },
+  {
+    "initial": "B",
+    "zip": "0472",
+    "name": "包头"
+  },
+  {
+    "initial": "B",
+    "zip": "0478",
+    "name": "巴彦淖尔"
+  },
+  {
+    "initial": "B",
+    "zip": "0996",
+    "name": "巴音郭楞"
+  },
+  {
+    "initial": "B",
+    "zip": "0827",
+    "name": "巴中"
+  },
+  {
+    "initial": "B",
+    "zip": "0779",
+    "name": "北海"
+  },
+  {
+    "initial": "B",
+    "zip": "0414",
+    "name": "本溪"
+  },
+  {
+    "initial": "B",
+    "zip": "0857",
+    "name": "毕节"
+  },
+  {
+    "initial": "B",
+    "zip": "0543",
+    "name": "滨州"
+  },
+  {
+    "initial": "B",
+    "zip": "0909",
+    "name": "博尔塔拉"
+  },
+  {
+    "initial": "B",
+    "zip": "0558",
+    "name": "亳州"
+  },
+  {
+    "initial": "B",
+    "zip": "0514",
+    "name": "宝应"
+  },
+  {
+    "initial": "B",
+    "zip": "0451",
+    "name": "巴彦"
+  },
+  {
+    "initial": "B",
+    "zip": "0515",
+    "name": "滨海"
+  },
+  {
+    "initial": "B",
+    "zip": "0451",
+    "name": "宾县"
+  },
+  {
+    "initial": "B",
+    "zip": "0771",
+    "name": "宾阳"
+  },
+  {
+    "initial": "B",
+    "zip": "023",
+    "name": "璧山"
+  },
+  {
+    "initial": "B",
+    "zip": "0391",
+    "name": "博爱"
+  },
+  {
+    "initial": "B",
+    "zip": "0752",
+    "name": "博罗"
+  },
+  {
+    "initial": "B",
+    "zip": "0543",
+    "name": "博兴"
+  },
+  {
+    "initial": "C",
+    "zip": "023",
+    "name": "重庆"
+  },
+  {
+    "initial": "C",
+    "zip": "0431",
+    "name": "长春"
+  },
+  {
+    "initial": "C",
+    "zip": "0731",
+    "name": "长沙"
+  },
+  {
+    "initial": "C",
+    "zip": "0519",
+    "name": "常州"
+  },
+  {
+    "initial": "C",
+    "zip": "028",
+    "name": "成都"
+  },
+  {
+    "initial": "C",
+    "zip": "0317",
+    "name": "沧州"
+  },
+  {
+    "initial": "C",
+    "zip": "0736",
+    "name": "常德"
+  },
+  {
+    "initial": "C",
+    "zip": "0895",
+    "name": "昌都"
+  },
+  {
+    "initial": "C",
+    "zip": "0997",
+    "name": "昌吉"
+  },
+  {
+    "initial": "C",
+    "zip": "0355",
+    "name": "长治"
+  },
+  {
+    "initial": "C",
+    "zip": "0565",
+    "name": "巢湖"
+  },
+  {
+    "initial": "C",
+    "zip": "0421",
+    "name": "朝阳"
+  },
+  {
+    "initial": "C",
+    "zip": "0768",
+    "name": "潮州"
+  },
+  {
+    "initial": "C",
+    "zip": "0314",
+    "name": "承德"
+  },
+  {
+    "initial": "C",
+    "zip": "0735",
+    "name": "郴州"
+  },
+  {
+    "initial": "C",
+    "zip": "0476",
+    "name": "赤峰"
+  },
+  {
+    "initial": "C",
+    "zip": "0566",
+    "name": "池州"
+  },
+  {
+    "initial": "C",
+    "zip": "0771",
+    "name": "崇左"
+  },
+  {
+    "initial": "C",
+    "zip": "0875",
+    "name": "楚雄"
+  },
+  {
+    "initial": "C",
+    "zip": "0550",
+    "name": "滁州"
+  },
+  {
+    "initial": "C",
+    "zip": "0577",
+    "name": "苍南"
+  },
+  {
+    "initial": "C",
+    "zip": "0539",
+    "name": "苍山"
+  },
+  {
+    "initial": "C",
+    "zip": "0530",
+    "name": "曹县"
+  },
+  {
+    "initial": "C",
+    "zip": "0535",
+    "name": "长岛"
+  },
+  {
+    "initial": "C",
+    "zip": "0551",
+    "name": "长丰"
+  },
+  {
+    "initial": "C",
+    "zip": "0411",
+    "name": "长海"
+  },
+  {
+    "initial": "C",
+    "zip": "0591",
+    "name": "长乐"
+  },
+  {
+    "initial": "C",
+    "zip": "0536",
+    "name": "昌乐"
+  },
+  {
+    "initial": "C",
+    "zip": "0570",
+    "name": "常山"
+  },
+  {
+    "initial": "C",
+    "zip": "0512",
+    "name": "常熟"
+  },
+  {
+    "initial": "C",
+    "zip": "0596",
+    "name": "长泰"
+  },
+  {
+    "initial": "C",
+    "zip": "0597",
+    "name": "长汀"
+  },
+  {
+    "initial": "C",
+    "zip": "0572",
+    "name": "长兴"
+  },
+  {
+    "initial": "C",
+    "zip": "0536",
+    "name": "昌邑"
+  },
+  {
+    "initial": "C",
+    "zip": "0768",
+    "name": "潮安"
+  },
+  {
+    "initial": "C",
+    "zip": "0871",
+    "name": "呈贡"
+  },
+  {
+    "initial": "C",
+    "zip": "023",
+    "name": "城口"
+  },
+  {
+    "initial": "C",
+    "zip": "0530",
+    "name": "成武"
+  },
+  {
+    "initial": "C",
+    "zip": "0635",
+    "name": "茌平"
+  },
+  {
+    "initial": "C",
+    "zip": "0794",
+    "name": "崇仁"
+  },
+  {
+    "initial": "C",
+    "zip": "0797",
+    "name": "崇义"
+  },
+  {
+    "initial": "C",
+    "zip": "028",
+    "name": "崇州"
+  },
+  {
+    "initial": "C",
+    "zip": "0571",
+    "name": "淳安"
+  },
+  {
+    "initial": "C",
+    "zip": "0574",
+    "name": "慈溪"
+  },
+  {
+    "initial": "C",
+    "zip": "020",
+    "name": "从化"
+  },
+  {
+    "initial": "C",
+    "zip": "0556",
+    "name": "枞阳"
+  },
+  {
+    "initial": "D",
+    "zip": "0411",
+    "name": "大连"
+  },
+  {
+    "initial": "D",
+    "zip": "0769",
+    "name": "东莞"
+  },
+  {
+    "initial": "D",
+    "zip": "0872",
+    "name": "大理"
+  },
+  {
+    "initial": "D",
+    "zip": "0415",
+    "name": "丹东"
+  },
+  {
+    "initial": "D",
+    "zip": "0459",
+    "name": "大庆"
+  },
+  {
+    "initial": "D",
+    "zip": "0352",
+    "name": "大同"
+  },
+  {
+    "initial": "D",
+    "zip": "0457",
+    "name": "大兴安岭"
+  },
+  {
+    "initial": "D",
+    "zip": "0818",
+    "name": "达州"
+  },
+  {
+    "initial": "D",
+    "zip": "0692",
+    "name": "德宏"
+  },
+  {
+    "initial": "D",
+    "zip": "0838",
+    "name": "德阳"
+  },
+  {
+    "initial": "D",
+    "zip": "0534",
+    "name": "德州"
+  },
+  {
+    "initial": "D",
+    "zip": "0932",
+    "name": "定西"
+  },
+  {
+    "initial": "D",
+    "zip": "0887",
+    "name": "迪庆"
+  },
+  {
+    "initial": "D",
+    "zip": "0546",
+    "name": "东营"
+  },
+  {
+    "initial": "D",
+    "zip": "0515",
+    "name": "大丰"
+  },
+  {
+    "initial": "D",
+    "zip": "0580",
+    "name": "岱山"
+  },
+  {
+    "initial": "D",
+    "zip": "0557",
+    "name": "砀山"
+  },
+  {
+    "initial": "D",
+    "zip": "0555",
+    "name": "当涂"
+  },
+  {
+    "initial": "D",
+    "zip": "0530",
+    "name": "单县"
+  },
+  {
+    "initial": "D",
+    "zip": "0511",
+    "name": "丹阳"
+  },
+  {
+    "initial": "D",
+    "zip": "0753",
+    "name": "大埔"
+  },
+  {
+    "initial": "D",
+    "zip": "0598",
+    "name": "大田"
+  },
+  {
+    "initial": "D",
+    "zip": "028",
+    "name": "大邑"
+  },
+  {
+    "initial": "D",
+    "zip": "0797",
+    "name": "大余"
+  },
+  {
+    "initial": "D",
+    "zip": "023",
+    "name": "大足"
+  },
+  {
+    "initial": "D",
+    "zip": "0792",
+    "name": "德安"
+  },
+  {
+    "initial": "D",
+    "zip": "0595",
+    "name": "德化"
+  },
+  {
+    "initial": "D",
+    "zip": "0431",
+    "name": "德惠"
+  },
+  {
+    "initial": "D",
+    "zip": "0371",
+    "name": "登封"
+  },
+  {
+    "initial": "D",
+    "zip": "0572",
+    "name": "德清"
+  },
+  {
+    "initial": "D",
+    "zip": "0758",
+    "name": "德庆"
+  },
+  {
+    "initial": "D",
+    "zip": "0793",
+    "name": "德兴"
+  },
+  {
+    "initial": "D",
+    "zip": "0668",
+    "name": "电白"
+  },
+  {
+    "initial": "D",
+    "zip": "023",
+    "name": "垫江"
+  },
+  {
+    "initial": "D",
+    "zip": "0797",
+    "name": "定南"
+  },
+  {
+    "initial": "D",
+    "zip": "0530",
+    "name": "定陶"
+  },
+  {
+    "initial": "D",
+    "zip": "0550",
+    "name": "定远"
+  },
+  {
+    "initial": "D",
+    "zip": "0635",
+    "name": "东阿"
+  },
+  {
+    "initial": "D",
+    "zip": "0518",
+    "name": "东海"
+  },
+  {
+    "initial": "D",
+    "zip": "0530",
+    "name": "东明"
+  },
+  {
+    "initial": "D",
+    "zip": "0538",
+    "name": "东平"
+  },
+  {
+    "initial": "D",
+    "zip": "0596",
+    "name": "东山"
+  },
+  {
+    "initial": "D",
+    "zip": "0515",
+    "name": "东台"
+  },
+  {
+    "initial": "D",
+    "zip": "0577",
+    "name": "洞头"
+  },
+  {
+    "initial": "D",
+    "zip": "0794",
+    "name": "东乡"
+  },
+  {
+    "initial": "D",
+    "zip": "0579",
+    "name": "东阳"
+  },
+  {
+    "initial": "D",
+    "zip": "0762",
+    "name": "东源"
+  },
+  {
+    "initial": "D",
+    "zip": "0566",
+    "name": "东至"
+  },
+  {
+    "initial": "D",
+    "zip": "0792",
+    "name": "都昌"
+  },
+  {
+    "initial": "D",
+    "zip": "028",
+    "name": "都江堰"
+  },
+  {
+    "initial": "E",
+    "zip": "0477",
+    "name": "鄂尔多斯"
+  },
+  {
+    "initial": "E",
+    "zip": "0718",
+    "name": "恩施"
+  },
+  {
+    "initial": "E",
+    "zip": "0711",
+    "name": "鄂州"
+  },
+  {
+    "initial": "E",
+    "zip": "0750",
+    "name": "恩平"
+  },
+  {
+    "initial": "F",
+    "zip": "0757",
+    "name": "佛山"
+  },
+  {
+    "initial": "F",
+    "zip": "0591",
+    "name": "福州"
+  },
+  {
+    "initial": "F",
+    "zip": "0770",
+    "name": "防城港"
+  },
+  {
+    "initial": "F",
+    "zip": "0413",
+    "name": "抚顺"
+  },
+  {
+    "initial": "F",
+    "zip": "0418",
+    "name": "阜新"
+  },
+  {
+    "initial": "F",
+    "zip": "0558",
+    "name": "阜阳"
+  },
+  {
+    "initial": "F",
+    "zip": "0794",
+    "name": "抚州"
+  },
+  {
+    "initial": "F",
+    "zip": "024",
+    "name": "法库"
+  },
+  {
+    "initial": "F",
+    "zip": "0553",
+    "name": "繁昌"
+  },
+  {
+    "initial": "F",
+    "zip": "0451",
+    "name": "方正"
+  },
+  {
+    "initial": "F",
+    "zip": "0538",
+    "name": "肥城"
+  },
+  {
+    "initial": "F",
+    "zip": "0551",
+    "name": "肥东"
+  },
+  {
+    "initial": "F",
+    "zip": "0551",
+    "name": "肥西"
+  },
+  {
+    "initial": "F",
+    "zip": "0539",
+    "name": "费县"
+  },
+  {
+    "initial": "F",
+    "zip": "0795",
+    "name": "丰城"
+  },
+  {
+    "initial": "F",
+    "zip": "023",
+    "name": "丰都"
+  },
+  {
+    "initial": "F",
+    "zip": "0574",
+    "name": "奉化"
+  },
+  {
+    "initial": "F",
+    "zip": "023",
+    "name": "奉节"
+  },
+  {
+    "initial": "F",
+    "zip": "0758",
+    "name": "封开"
+  },
+  {
+    "initial": "F",
+    "zip": "0753",
+    "name": "丰顺"
+  },
+  {
+    "initial": "F",
+    "zip": "0554",
+    "name": "凤台"
+  },
+  {
+    "initial": "F",
+    "zip": "0516",
+    "name": "丰县"
+  },
+  {
+    "initial": "F",
+    "zip": "0795",
+    "name": "奉新"
+  },
+  {
+    "initial": "F",
+    "zip": "0550",
+    "name": "凤阳"
+  },
+  {
+    "initial": "F",
+    "zip": "0790",
+    "name": "分宜"
+  },
+  {
+    "initial": "F",
+    "zip": "0763",
+    "name": "佛冈"
+  },
+  {
+    "initial": "F",
+    "zip": "0593",
+    "name": "福安"
+  },
+  {
+    "initial": "F",
+    "zip": "0593",
+    "name": "福鼎"
+  },
+  {
+    "initial": "F",
+    "zip": "0798",
+    "name": "浮梁"
+  },
+  {
+    "initial": "F",
+    "zip": "0871",
+    "name": "富民"
+  },
+  {
+    "initial": "F",
+    "zip": "0558",
+    "name": "阜南"
+  },
+  {
+    "initial": "F",
+    "zip": "0515",
+    "name": "阜宁"
+  },
+  {
+    "initial": "F",
+    "zip": "0591",
+    "name": "福清"
+  },
+  {
+    "initial": "F",
+    "zip": "0571",
+    "name": "富阳"
+  },
+  {
+    "initial": "G",
+    "zip": "020",
+    "name": "广州"
+  },
+  {
+    "initial": "G",
+    "zip": "0851",
+    "name": "贵阳"
+  },
+  {
+    "initial": "G",
+    "zip": "0941",
+    "name": "甘南"
+  },
+  {
+    "initial": "G",
+    "zip": "0797",
+    "name": "赣州"
+  },
+  {
+    "initial": "G",
+    "zip": "0836",
+    "name": "甘孜"
+  },
+  {
+    "initial": "G",
+    "zip": "0826",
+    "name": "广安"
+  },
+  {
+    "initial": "G",
+    "zip": "0839",
+    "name": "广元"
+  },
+  {
+    "initial": "G",
+    "zip": "0775",
+    "name": "贵港"
+  },
+  {
+    "initial": "G",
+    "zip": "0773",
+    "name": "桂林"
+  },
+  {
+    "initial": "G",
+    "zip": "0975",
+    "name": "果洛"
+  },
+  {
+    "initial": "G",
+    "zip": "0954",
+    "name": "固原"
+  },
+  {
+    "initial": "G",
+    "zip": "0797",
+    "name": "赣县"
+  },
+  {
+    "initial": "G",
+    "zip": "0518",
+    "name": "赣榆"
+  },
+  {
+    "initial": "G",
+    "zip": "0795",
+    "name": "高安"
+  },
+  {
+    "initial": "G",
+    "zip": "0311",
+    "name": "藁城"
+  },
+  {
+    "initial": "G",
+    "zip": "025",
+    "name": "高淳"
+  },
+  {
+    "initial": "G",
+    "zip": "0931",
+    "name": "皋兰"
+  },
+  {
+    "initial": "G",
+    "zip": "029",
+    "name": "高陵"
+  },
+  {
+    "initial": "G",
+    "zip": "0536",
+    "name": "高密"
+  },
+  {
+    "initial": "G",
+    "zip": "0533",
+    "name": "高青"
+  },
+  {
+    "initial": "G",
+    "zip": "0635",
+    "name": "高唐"
+  },
+  {
+    "initial": "G",
+    "zip": "0758",
+    "name": "高要"
+  },
+  {
+    "initial": "G",
+    "zip": "0311",
+    "name": "高邑"
+  },
+  {
+    "initial": "G",
+    "zip": "0514",
+    "name": "高邮"
+  },
+  {
+    "initial": "G",
+    "zip": "0668",
+    "name": "高州"
+  },
+  {
+    "initial": "G",
+    "zip": "0371",
+    "name": "巩义"
+  },
+  {
+    "initial": "G",
+    "zip": "0794",
+    "name": "广昌"
+  },
+  {
+    "initial": "G",
+    "zip": "0563",
+    "name": "广德"
+  },
+  {
+    "initial": "G",
+    "zip": "0793",
+    "name": "广丰"
+  },
+  {
+    "initial": "G",
+    "zip": "0758",
+    "name": "广宁"
+  },
+  {
+    "initial": "G",
+    "zip": "0546",
+    "name": "广饶"
+  },
+  {
+    "initial": "G",
+    "zip": "0599",
+    "name": "光泽"
+  },
+  {
+    "initial": "G",
+    "zip": "0518",
+    "name": "灌南"
+  },
+  {
+    "initial": "G",
+    "zip": "0635",
+    "name": "冠县"
+  },
+  {
+    "initial": "G",
+    "zip": "0518",
+    "name": "灌云"
+  },
+  {
+    "initial": "G",
+    "zip": "0701",
+    "name": "贵溪"
+  },
+  {
+    "initial": "G",
+    "zip": "0593",
+    "name": "古田"
+  },
+  {
+    "initial": "G",
+    "zip": "0552",
+    "name": "固镇"
+  },
+  {
+    "initial": "H",
+    "zip": "0451",
+    "name": "哈尔滨"
+  },
+  {
+    "initial": "H",
+    "zip": "0898",
+    "name": "海口"
+  },
+  {
+    "initial": "H",
+    "zip": "0310",
+    "name": "邯郸"
+  },
+  {
+    "initial": "H",
+    "zip": "0571",
+    "name": "杭州"
+  },
+  {
+    "initial": "H",
+    "zip": "0551",
+    "name": "合肥"
+  },
+  {
+    "initial": "H",
+    "zip": "0752",
+    "name": "惠州"
+  },
+  {
+    "initial": "H",
+    "zip": "0970",
+    "name": "海北"
+  },
+  {
+    "initial": "H",
+    "zip": "0972",
+    "name": "海东"
+  },
+  {
+    "initial": "H",
+    "zip": "0974",
+    "name": "海南"
+  },
+  {
+    "initial": "H",
+    "zip": "0977",
+    "name": "海西"
+  },
+  {
+    "initial": "H",
+    "zip": "0902",
+    "name": "哈密"
+  },
+  {
+    "initial": "H",
+    "zip": "0916",
+    "name": "汉中"
+  },
+  {
+    "initial": "H",
+    "zip": "0392",
+    "name": "鹤壁"
+  },
+  {
+    "initial": "H",
+    "zip": "0778",
+    "name": "河池"
+  },
+  {
+    "initial": "H",
+    "zip": "0468",
+    "name": "鹤岗"
+  },
+  {
+    "initial": "H",
+    "zip": "0456",
+    "name": "黑河"
+  },
+  {
+    "initial": "H",
+    "zip": "0318",
+    "name": "衡水"
+  },
+  {
+    "initial": "H",
+    "zip": "0734",
+    "name": "衡阳"
+  },
+  {
+    "initial": "H",
+    "zip": "0903",
+    "name": "和田地"
+  },
+  {
+    "initial": "H",
+    "zip": "0762",
+    "name": "河源"
+  },
+  {
+    "initial": "H",
+    "zip": "0530",
+    "name": "菏泽"
+  },
+  {
+    "initial": "H",
+    "zip": "0774",
+    "name": "贺州"
+  },
+  {
+    "initial": "H",
+    "zip": "0873",
+    "name": "红河"
+  },
+  {
+    "initial": "H",
+    "zip": "0517",
+    "name": "淮安"
+  },
+  {
+    "initial": "H",
+    "zip": "0561",
+    "name": "淮北"
+  },
+  {
+    "initial": "H",
+    "zip": "0745",
+    "name": "怀化"
+  },
+  {
+    "initial": "H",
+    "zip": "0554",
+    "name": "淮南"
+  },
+  {
+    "initial": "H",
+    "zip": "0713",
+    "name": "黄冈"
+  },
+  {
+    "initial": "H",
+    "zip": "0973",
+    "name": "黄南"
+  },
+  {
+    "initial": "H",
+    "zip": "0559",
+    "name": "黄山"
+  },
+  {
+    "initial": "H",
+    "zip": "0714",
+    "name": "黄石"
+  },
+  {
+    "initial": "H",
+    "zip": "0471",
+    "name": "呼和浩特"
+  },
+  {
+    "initial": "H",
+    "zip": "0429",
+    "name": "葫芦岛"
+  },
+  {
+    "initial": "H",
+    "zip": "0470",
+    "name": "呼伦贝尔"
+  },
+  {
+    "initial": "H",
+    "zip": "0572",
+    "name": "湖州"
+  },
+  {
+    "initial": "H",
+    "zip": "0513",
+    "name": "海安"
+  },
+  {
+    "initial": "H",
+    "zip": "0660",
+    "name": "海丰"
+  },
+  {
+    "initial": "H",
+    "zip": "0513",
+    "name": "海门"
+  },
+  {
+    "initial": "H",
+    "zip": "0573",
+    "name": "海宁"
+  },
+  {
+    "initial": "H",
+    "zip": "0573",
+    "name": "海盐"
+  },
+  {
+    "initial": "H",
+    "zip": "0535",
+    "name": "海阳"
+  },
+  {
+    "initial": "H",
+    "zip": "0565",
+    "name": "含山"
+  },
+  {
+    "initial": "H",
+    "zip": "023",
+    "name": "合川"
+  },
+  {
+    "initial": "H",
+    "zip": "0793",
+    "name": "横峰"
+  },
+  {
+    "initial": "H",
+    "zip": "0771",
+    "name": "横县"
+  },
+  {
+    "initial": "H",
+    "zip": "0762",
+    "name": "和平"
+  },
+  {
+    "initial": "H",
+    "zip": "0750",
+    "name": "鹤山"
+  },
+  {
+    "initial": "H",
+    "zip": "0565",
+    "name": "和县"
+  },
+  {
+    "initial": "H",
+    "zip": "0517",
+    "name": "洪泽"
+  },
+  {
+    "initial": "H",
+    "zip": "0596",
+    "name": "华安"
+  },
+  {
+    "initial": "H",
+    "zip": "0423",
+    "name": "桦甸"
+  },
+  {
+    "initial": "H",
+    "zip": "0758",
+    "name": "怀集"
+  },
+  {
+    "initial": "H",
+    "zip": "0556",
+    "name": "怀宁"
+  },
+  {
+    "initial": "H",
+    "zip": "0552",
+    "name": "怀远"
+  },
+  {
+    "initial": "H",
+    "zip": "0533",
+    "name": "桓台"
+  },
+  {
+    "initial": "H",
+    "zip": "0668",
+    "name": "化州"
+  },
+  {
+    "initial": "H",
+    "zip": "0595",
+    "name": "惠安"
+  },
+  {
+    "initial": "H",
+    "zip": "0797",
+    "name": "会昌"
+  },
+  {
+    "initial": "H",
+    "zip": "0752",
+    "name": "惠东"
+  },
+  {
+    "initial": "H",
+    "zip": "0663",
+    "name": "惠来"
+  },
+  {
+    "initial": "H",
+    "zip": "0543",
+    "name": "惠民"
+  },
+  {
+    "initial": "H",
+    "zip": "0792",
+    "name": "湖口"
+  },
+  {
+    "initial": "H",
+    "zip": "0451",
+    "name": "呼兰"
+  },
+  {
+    "initial": "H",
+    "zip": "0564",
+    "name": "霍邱"
+  },
+  {
+    "initial": "H",
+    "zip": "0564",
+    "name": "霍山"
+  },
+  {
+    "initial": "H",
+    "zip": "029",
+    "name": "户县"
+  },
+  {
+    "initial": "J",
+    "zip": "0391",
+    "name": "焦作"
+  },
+  {
+    "initial": "J",
+    "zip": "0573",
+    "name": "嘉兴"
+  },
+  {
+    "initial": "J",
+    "zip": "0423",
+    "name": "吉林"
+  },
+  {
+    "initial": "J",
+    "zip": "0531",
+    "name": "济南"
+  },
+  {
+    "initial": "J",
+    "zip": "0454",
+    "name": "佳木斯"
+  },
+  {
+    "initial": "J",
+    "zip": "0750",
+    "name": "江门"
+  },
+  {
+    "initial": "J",
+    "zip": "0796",
+    "name": "吉安"
+  },
+  {
+    "initial": "J",
+    "zip": "0937",
+    "name": "嘉峪关"
+  },
+  {
+    "initial": "J",
+    "zip": "0663",
+    "name": "揭阳"
+  },
+  {
+    "initial": "J",
+    "zip": "0935",
+    "name": "金昌"
+  },
+  {
+    "initial": "J",
+    "zip": "0356",
+    "name": "晋城"
+  },
+  {
+    "initial": "J",
+    "zip": "0798",
+    "name": "景德镇"
+  },
+  {
+    "initial": "J",
+    "zip": "0724",
+    "name": "荆门"
+  },
+  {
+    "initial": "J",
+    "zip": "0716",
+    "name": "荆州"
+  },
+  {
+    "initial": "J",
+    "zip": "0579",
+    "name": "金华"
+  },
+  {
+    "initial": "J",
+    "zip": "0537",
+    "name": "济宁"
+  },
+  {
+    "initial": "J",
+    "zip": "0354",
+    "name": "晋中"
+  },
+  {
+    "initial": "J",
+    "zip": "0416",
+    "name": "锦州"
+  },
+  {
+    "initial": "J",
+    "zip": "0792",
+    "name": "九江"
+  },
+  {
+    "initial": "J",
+    "zip": "0937",
+    "name": "酒泉"
+  },
+  {
+    "initial": "J",
+    "zip": "0467",
+    "name": "鸡西"
+  },
+  {
+    "initial": "J",
+    "zip": "0571",
+    "name": "建德"
+  },
+  {
+    "initial": "J",
+    "zip": "0514",
+    "name": "江都"
+  },
+  {
+    "initial": "J",
+    "zip": "023",
+    "name": "江津"
+  },
+  {
+    "initial": "J",
+    "zip": "0598",
+    "name": "将乐"
+  },
+  {
+    "initial": "J",
+    "zip": "0570",
+    "name": "江山"
+  },
+  {
+    "initial": "J",
+    "zip": "0523",
+    "name": "姜堰"
+  },
+  {
+    "initial": "J",
+    "zip": "0510",
+    "name": "江阴"
+  },
+  {
+    "initial": "J",
+    "zip": "0515",
+    "name": "建湖"
+  },
+  {
+    "initial": "J",
+    "zip": "0598",
+    "name": "建宁"
+  },
+  {
+    "initial": "J",
+    "zip": "0599",
+    "name": "建瓯"
+  },
+  {
+    "initial": "J",
+    "zip": "0599",
+    "name": "建阳"
+  },
+  {
+    "initial": "J",
+    "zip": "0796",
+    "name": "吉安"
+  },
+  {
+    "initial": "J",
+    "zip": "0423",
+    "name": "蛟河"
+  },
+  {
+    "initial": "J",
+    "zip": "0753",
+    "name": "蕉岭"
+  },
+  {
+    "initial": "J",
+    "zip": "0532",
+    "name": "胶南"
+  },
+  {
+    "initial": "J",
+    "zip": "0532",
+    "name": "胶州"
+  },
+  {
+    "initial": "J",
+    "zip": "0573",
+    "name": "嘉善"
+  },
+  {
+    "initial": "J",
+    "zip": "0537",
+    "name": "嘉祥"
+  },
+  {
+    "initial": "J",
+    "zip": "0663",
+    "name": "揭东"
+  },
+  {
+    "initial": "J",
+    "zip": "0558",
+    "name": "界首"
+  },
+  {
+    "initial": "J",
+    "zip": "0663",
+    "name": "揭西"
+  },
+  {
+    "initial": "J",
+    "zip": "0532",
+    "name": "即墨"
+  },
+  {
+    "initial": "J",
+    "zip": "0795",
+    "name": "靖安"
+  },
+  {
+    "initial": "J",
+    "zip": "0563",
+    "name": "旌德"
+  },
+  {
+    "initial": "J",
+    "zip": "0796",
+    "name": "井冈山"
+  },
+  {
+    "initial": "J",
+    "zip": "0523",
+    "name": "靖江"
+  },
+  {
+    "initial": "J",
+    "zip": "0578",
+    "name": "景宁"
+  },
+  {
+    "initial": "J",
+    "zip": "0563",
+    "name": "泾县"
+  },
+  {
+    "initial": "J",
+    "zip": "0311",
+    "name": "井陉"
+  },
+  {
+    "initial": "J",
+    "zip": "0517",
+    "name": "金湖"
+  },
+  {
+    "initial": "J",
+    "zip": "0595",
+    "name": "晋江"
+  },
+  {
+    "initial": "J",
+    "zip": "0595",
+    "name": "金门"
+  },
+  {
+    "initial": "J",
+    "zip": "0871",
+    "name": "晋宁"
+  },
+  {
+    "initial": "J",
+    "zip": "0519",
+    "name": "金坛"
+  },
+  {
+    "initial": "J",
+    "zip": "028",
+    "name": "金堂"
+  },
+  {
+    "initial": "J",
+    "zip": "0791",
+    "name": "进贤"
+  },
+  {
+    "initial": "J",
+    "zip": "0794",
+    "name": "金溪"
+  },
+  {
+    "initial": "J",
+    "zip": "0537",
+    "name": "金乡"
+  },
+  {
+    "initial": "J",
+    "zip": "0578",
+    "name": "缙云"
+  },
+  {
+    "initial": "J",
+    "zip": "0564",
+    "name": "金寨"
+  },
+  {
+    "initial": "J",
+    "zip": "0311",
+    "name": "晋州"
+  },
+  {
+    "initial": "J",
+    "zip": "0796",
+    "name": "吉水"
+  },
+  {
+    "initial": "J",
+    "zip": "0792",
+    "name": "九江"
+  },
+  {
+    "initial": "J",
+    "zip": "0431",
+    "name": "九台"
+  },
+  {
+    "initial": "J",
+    "zip": "0563",
+    "name": "绩溪"
+  },
+  {
+    "initial": "J",
+    "zip": "0531",
+    "name": "济阳"
+  },
+  {
+    "initial": "J",
+    "zip": "0391",
+    "name": "济源"
+  },
+  {
+    "initial": "J",
+    "zip": "0530",
+    "name": "鄄城"
+  },
+  {
+    "initial": "J",
+    "zip": "0539",
+    "name": "莒南"
+  },
+  {
+    "initial": "J",
+    "zip": "0511",
+    "name": "句容"
+  },
+  {
+    "initial": "J",
+    "zip": "0633",
+    "name": "莒县"
+  },
+  {
+    "initial": "J",
+    "zip": "0530",
+    "name": "巨野"
+  },
+  {
+    "initial": "K",
+    "zip": "0871",
+    "name": "昆明"
+  },
+  {
+    "initial": "K",
+    "zip": "0378",
+    "name": "开封"
+  },
+  {
+    "initial": "K",
+    "zip": "0998",
+    "name": "喀什地"
+  },
+  {
+    "initial": "K",
+    "zip": "0990",
+    "name": "克拉玛依"
+  },
+  {
+    "initial": "K",
+    "zip": "0908",
+    "name": "克孜勒"
+  },
+  {
+    "initial": "K",
+    "zip": "0570",
+    "name": "开化"
+  },
+  {
+    "initial": "K",
+    "zip": "0750",
+    "name": "开平"
+  },
+  {
+    "initial": "K",
+    "zip": "023",
+    "name": "开县"
+  },
+  {
+    "initial": "K",
+    "zip": "0851",
+    "name": "开阳"
+  },
+  {
+    "initial": "K",
+    "zip": "024",
+    "name": "康平"
+  },
+  {
+    "initial": "K",
+    "zip": "0546",
+    "name": "垦利"
+  },
+  {
+    "initial": "K",
+    "zip": "0512",
+    "name": "昆山"
+  },
+  {
+    "initial": "L",
+    "zip": "0931",
+    "name": "兰州"
+  },
+  {
+    "initial": "L",
+    "zip": "0772",
+    "name": "柳州"
+  },
+  {
+    "initial": "L",
+    "zip": "0379",
+    "name": "洛阳"
+  },
+  {
+    "initial": "L",
+    "zip": "0772",
+    "name": "来宾"
+  },
+  {
+    "initial": "L",
+    "zip": "0634",
+    "name": "莱芜"
+  },
+  {
+    "initial": "L",
+    "zip": "0316",
+    "name": "廊坊"
+  },
+  {
+    "initial": "L",
+    "zip": "0891",
+    "name": "拉萨"
+  },
+  {
+    "initial": "L",
+    "zip": "0833",
+    "name": "乐山"
+  },
+  {
+    "initial": "L",
+    "zip": "0834",
+    "name": "凉山"
+  },
+  {
+    "initial": "L",
+    "zip": "0518",
+    "name": "连云港"
+  },
+  {
+    "initial": "L",
+    "zip": "0635",
+    "name": "聊城"
+  },
+  {
+    "initial": "L",
+    "zip": "0419",
+    "name": "辽阳"
+  },
+  {
+    "initial": "L",
+    "zip": "0437",
+    "name": "辽源"
+  },
+  {
+    "initial": "L",
+    "zip": "0888",
+    "name": "丽江"
+  },
+  {
+    "initial": "L",
+    "zip": "0883",
+    "name": "临沧"
+  },
+  {
+    "initial": "L",
+    "zip": "0357",
+    "name": "临汾"
+  },
+  {
+    "initial": "L",
+    "zip": "0930",
+    "name": "临夏"
+  },
+  {
+    "initial": "L",
+    "zip": "0539",
+    "name": "临沂"
+  },
+  {
+    "initial": "L",
+    "zip": "0894",
+    "name": "林芝"
+  },
+  {
+    "initial": "L",
+    "zip": "0578",
+    "name": "丽水"
+  },
+  {
+    "initial": "L",
+    "zip": "0564",
+    "name": "六安"
+  },
+  {
+    "initial": "L",
+    "zip": "0858",
+    "name": "六盘水"
+  },
+  {
+    "initial": "L",
+    "zip": "0939",
+    "name": "陇南"
+  },
+  {
+    "initial": "L",
+    "zip": "0597",
+    "name": "龙岩"
+  },
+  {
+    "initial": "L",
+    "zip": "0738",
+    "name": "娄底"
+  },
+  {
+    "initial": "L",
+    "zip": "0395",
+    "name": "漯河"
+  },
+  {
+    "initial": "L",
+    "zip": "0830",
+    "name": "泸州"
+  },
+  {
+    "initial": "L",
+    "zip": "0358",
+    "name": "吕梁"
+  },
+  {
+    "initial": "L",
+    "zip": "0550",
+    "name": "来安"
+  },
+  {
+    "initial": "L",
+    "zip": "0532",
+    "name": "莱西"
+  },
+  {
+    "initial": "L",
+    "zip": "0535",
+    "name": "莱阳"
+  },
+  {
+    "initial": "L",
+    "zip": "0535",
+    "name": "莱州"
+  },
+  {
+    "initial": "L",
+    "zip": "0563",
+    "name": "郎溪"
+  },
+  {
+    "initial": "L",
+    "zip": "029",
+    "name": "蓝田"
+  },
+  {
+    "initial": "L",
+    "zip": "0579",
+    "name": "兰溪"
+  },
+  {
+    "initial": "L",
+    "zip": "0794",
+    "name": "乐安"
+  },
+  {
+    "initial": "L",
+    "zip": "0751",
+    "name": "乐昌"
+  },
+  {
+    "initial": "L",
+    "zip": "0759",
+    "name": "雷州"
+  },
+  {
+    "initial": "L",
+    "zip": "0534",
+    "name": "乐陵"
+  },
+  {
+    "initial": "L",
+    "zip": "0798",
+    "name": "乐平"
+  },
+  {
+    "initial": "L",
+    "zip": "0577",
+    "name": "乐清"
+  },
+  {
+    "initial": "L",
+    "zip": "0315",
+    "name": "乐亭"
+  },
+  {
+    "initial": "L",
+    "zip": "0597",
+    "name": "连城"
+  },
+  {
+    "initial": "L",
+    "zip": "023",
+    "name": "梁平"
+  },
+  {
+    "initial": "L",
+    "zip": "0537",
+    "name": "梁山"
+  },
+  {
+    "initial": "L",
+    "zip": "0799",
+    "name": "莲花"
+  },
+  {
+    "initial": "L",
+    "zip": "0591",
+    "name": "连江"
+  },
+  {
+    "initial": "L",
+    "zip": "0759",
+    "name": "廉江"
+  },
+  {
+    "initial": "L",
+    "zip": "0763",
+    "name": "连南"
+  },
+  {
+    "initial": "L",
+    "zip": "0762",
+    "name": "连平"
+  },
+  {
+    "initial": "L",
+    "zip": "0763",
+    "name": "连山"
+  },
+  {
+    "initial": "L",
+    "zip": "0517",
+    "name": "涟水"
+  },
+  {
+    "initial": "L",
+    "zip": "0763",
+    "name": "连州"
+  },
+  {
+    "initial": "L",
+    "zip": "024",
+    "name": "辽中"
+  },
+  {
+    "initial": "L",
+    "zip": "0794",
+    "name": "黎川"
+  },
+  {
+    "initial": "L",
+    "zip": "0546",
+    "name": "利津"
+  },
+  {
+    "initial": "L",
+    "zip": "0571",
+    "name": "临安"
+  },
+  {
+    "initial": "L",
+    "zip": "0557",
+    "name": "灵璧"
+  },
+  {
+    "initial": "L",
+    "zip": "0311",
+    "name": "灵寿"
+  },
+  {
+    "initial": "L",
+    "zip": "0534",
+    "name": "陵县"
+  },
+  {
+    "initial": "L",
+    "zip": "0576",
+    "name": "临海"
+  },
+  {
+    "initial": "L",
+    "zip": "0635",
+    "name": "临清"
+  },
+  {
+    "initial": "L",
+    "zip": "0558",
+    "name": "临泉"
+  },
+  {
+    "initial": "L",
+    "zip": "0536",
+    "name": "临朐"
+  },
+  {
+    "initial": "L",
+    "zip": "0539",
+    "name": "临沭"
+  },
+  {
+    "initial": "L",
+    "zip": "0534",
+    "name": "临邑"
+  },
+  {
+    "initial": "L",
+    "zip": "025",
+    "name": "溧水"
+  },
+  {
+    "initial": "L",
+    "zip": "0772",
+    "name": "柳城"
+  },
+  {
+    "initial": "L",
+    "zip": "0772",
+    "name": "柳江"
+  },
+  {
+    "initial": "L",
+    "zip": "0731",
+    "name": "浏阳"
+  },
+  {
+    "initial": "L",
+    "zip": "0558",
+    "name": "利辛"
+  },
+  {
+    "initial": "L",
+    "zip": "0519",
+    "name": "溧阳"
+  },
+  {
+    "initial": "L",
+    "zip": "0771",
+    "name": "隆安"
+  },
+  {
+    "initial": "L",
+    "zip": "0762",
+    "name": "龙川"
+  },
+  {
+    "initial": "L",
+    "zip": "0596",
+    "name": "龙海"
+  },
+  {
+    "initial": "L",
+    "zip": "0535",
+    "name": "龙口"
+  },
+  {
+    "initial": "L",
+    "zip": "0752",
+    "name": "龙门"
+  },
+  {
+    "initial": "L",
+    "zip": "0797",
+    "name": "龙南"
+  },
+  {
+    "initial": "L",
+    "zip": "0578",
+    "name": "龙泉"
+  },
+  {
+    "initial": "L",
+    "zip": "0570",
+    "name": "龙游"
+  },
+  {
+    "initial": "L",
+    "zip": "0311",
+    "name": "栾城"
+  },
+  {
+    "initial": "L",
+    "zip": "0379",
+    "name": "栾川"
+  },
+  {
+    "initial": "L",
+    "zip": "0315",
+    "name": "滦南"
+  },
+  {
+    "initial": "L",
+    "zip": "0315",
+    "name": "滦县"
+  },
+  {
+    "initial": "L",
+    "zip": "0660",
+    "name": "陆丰"
+  },
+  {
+    "initial": "L",
+    "zip": "0660",
+    "name": "陆河"
+  },
+  {
+    "initial": "L",
+    "zip": "0565",
+    "name": "庐江"
+  },
+  {
+    "initial": "L",
+    "zip": "0766",
+    "name": "罗定"
+  },
+  {
+    "initial": "L",
+    "zip": "0379",
+    "name": "洛宁"
+  },
+  {
+    "initial": "L",
+    "zip": "0591",
+    "name": "罗源"
+  },
+  {
+    "initial": "L",
+    "zip": "0311",
+    "name": "鹿泉"
+  },
+  {
+    "initial": "L",
+    "zip": "0871",
+    "name": "禄劝"
+  },
+  {
+    "initial": "L",
+    "zip": "0799",
+    "name": "芦溪"
+  },
+  {
+    "initial": "L",
+    "zip": "0772",
+    "name": "鹿寨"
+  },
+  {
+    "initial": "M",
+    "zip": "0555",
+    "name": "马鞍山"
+  },
+  {
+    "initial": "M",
+    "zip": "0668",
+    "name": "茂名"
+  },
+  {
+    "initial": "M",
+    "zip": "028",
+    "name": "眉山"
+  },
+  {
+    "initial": "M",
+    "zip": "0753",
+    "name": "梅州"
+  },
+  {
+    "initial": "M",
+    "zip": "0816",
+    "name": "绵阳"
+  },
+  {
+    "initial": "M",
+    "zip": "0453",
+    "name": "牡丹江"
+  },
+  {
+    "initial": "M",
+    "zip": "0771",
+    "name": "马山"
+  },
+  {
+    "initial": "M",
+    "zip": "0753",
+    "name": "梅县"
+  },
+  {
+    "initial": "M",
+    "zip": "0558",
+    "name": "蒙城"
+  },
+  {
+    "initial": "M",
+    "zip": "0379",
+    "name": "孟津"
+  },
+  {
+    "initial": "M",
+    "zip": "0539",
+    "name": "蒙阴"
+  },
+  {
+    "initial": "M",
+    "zip": "0391",
+    "name": "孟州"
+  },
+  {
+    "initial": "M",
+    "zip": "0550",
+    "name": "明光"
+  },
+  {
+    "initial": "M",
+    "zip": "0598",
+    "name": "明溪"
+  },
+  {
+    "initial": "M",
+    "zip": "0591",
+    "name": "闽侯"
+  },
+  {
+    "initial": "M",
+    "zip": "0591",
+    "name": "闽清"
+  },
+  {
+    "initial": "M",
+    "zip": "0451",
+    "name": "木兰"
+  },
+  {
+    "initial": "N",
+    "zip": "0791",
+    "name": "南昌"
+  },
+  {
+    "initial": "N",
+    "zip": "025",
+    "name": "南京"
+  },
+  {
+    "initial": "N",
+    "zip": "0771",
+    "name": "南宁"
+  },
+  {
+    "initial": "N",
+    "zip": "0513",
+    "name": "南通"
+  },
+  {
+    "initial": "N",
+    "zip": "0574",
+    "name": "宁波"
+  },
+  {
+    "initial": "N",
+    "zip": "0817",
+    "name": "南充"
+  },
+  {
+    "initial": "N",
+    "zip": "0599",
+    "name": "南平"
+  },
+  {
+    "initial": "N",
+    "zip": "0377",
+    "name": "南阳"
+  },
+  {
+    "initial": "N",
+    "zip": "0896",
+    "name": "那曲"
+  },
+  {
+    "initial": "N",
+    "zip": "0832",
+    "name": "内江"
+  },
+  {
+    "initial": "N",
+    "zip": "0593",
+    "name": "宁德"
+  },
+  {
+    "initial": "N",
+    "zip": "0886",
+    "name": "怒江"
+  },
+  {
+    "initial": "N",
+    "zip": "0595",
+    "name": "南安"
+  },
+  {
+    "initial": "N",
+    "zip": "0754",
+    "name": "南澳"
+  },
+  {
+    "initial": "N",
+    "zip": "0794",
+    "name": "南城"
+  },
+  {
+    "initial": "N",
+    "zip": "023",
+    "name": "南川"
+  },
+  {
+    "initial": "N",
+    "zip": "0794",
+    "name": "南丰"
+  },
+  {
+    "initial": "N",
+    "zip": "0596",
+    "name": "南靖"
+  },
+  {
+    "initial": "N",
+    "zip": "0797",
+    "name": "南康"
+  },
+  {
+    "initial": "N",
+    "zip": "0553",
+    "name": "南陵"
+  },
+  {
+    "initial": "N",
+    "zip": "0751",
+    "name": "南雄"
+  },
+  {
+    "initial": "N",
+    "zip": "0797",
+    "name": "宁都"
+  },
+  {
+    "initial": "N",
+    "zip": "0563",
+    "name": "宁国"
+  },
+  {
+    "initial": "N",
+    "zip": "0574",
+    "name": "宁海"
+  },
+  {
+    "initial": "N",
+    "zip": "0598",
+    "name": "宁化"
+  },
+  {
+    "initial": "N",
+    "zip": "0534",
+    "name": "宁津"
+  },
+  {
+    "initial": "N",
+    "zip": "0731",
+    "name": "宁乡"
+  },
+  {
+    "initial": "N",
+    "zip": "0538",
+    "name": "宁阳"
+  },
+  {
+    "initial": "N",
+    "zip": "0431",
+    "name": "农安"
+  },
+  {
+    "initial": "P",
+    "zip": "0427",
+    "name": "盘锦"
+  },
+  {
+    "initial": "P",
+    "zip": "0812",
+    "name": "攀枝花"
+  },
+  {
+    "initial": "P",
+    "zip": "0375",
+    "name": "平顶山"
+  },
+  {
+    "initial": "P",
+    "zip": "0933",
+    "name": "平凉"
+  },
+  {
+    "initial": "P",
+    "zip": "0799",
+    "name": "萍乡"
+  },
+  {
+    "initial": "P",
+    "zip": "0879",
+    "name": "普洱"
+  },
+  {
+    "initial": "P",
+    "zip": "0594",
+    "name": "莆田"
+  },
+  {
+    "initial": "P",
+    "zip": "0393",
+    "name": "濮阳"
+  },
+  {
+    "initial": "P",
+    "zip": "0579",
+    "name": "磐安"
+  },
+  {
+    "initial": "P",
+    "zip": "0423",
+    "name": "磐石"
+  },
+  {
+    "initial": "P",
+    "zip": "0516",
+    "name": "沛县"
+  },
+  {
+    "initial": "P",
+    "zip": "0535",
+    "name": "蓬莱"
+  },
+  {
+    "initial": "P",
+    "zip": "023",
+    "name": "彭水"
+  },
+  {
+    "initial": "P",
+    "zip": "0792",
+    "name": "彭泽"
+  },
+  {
+    "initial": "P",
+    "zip": "028",
+    "name": "彭州"
+  },
+  {
+    "initial": "P",
+    "zip": "0532",
+    "name": "平度"
+  },
+  {
+    "initial": "P",
+    "zip": "0596",
+    "name": "平和"
+  },
+  {
+    "initial": "P",
+    "zip": "0573",
+    "name": "平湖"
+  },
+  {
+    "initial": "P",
+    "zip": "0593",
+    "name": "屏南"
+  },
+  {
+    "initial": "P",
+    "zip": "0311",
+    "name": "平山"
+  },
+  {
+    "initial": "P",
+    "zip": "0591",
+    "name": "平潭"
+  },
+  {
+    "initial": "P",
+    "zip": "0577",
+    "name": "平阳"
+  },
+  {
+    "initial": "P",
+    "zip": "0531",
+    "name": "平阴"
+  },
+  {
+    "initial": "P",
+    "zip": "0539",
+    "name": "平邑"
+  },
+  {
+    "initial": "P",
+    "zip": "0534",
+    "name": "平原"
+  },
+  {
+    "initial": "P",
+    "zip": "0753",
+    "name": "平远"
+  },
+  {
+    "initial": "P",
+    "zip": "028",
+    "name": "郫县"
+  },
+  {
+    "initial": "P",
+    "zip": "0516",
+    "name": "邳州"
+  },
+  {
+    "initial": "P",
+    "zip": "0793",
+    "name": "鄱阳"
+  },
+  {
+    "initial": "P",
+    "zip": "0599",
+    "name": "浦城"
+  },
+  {
+    "initial": "P",
+    "zip": "0579",
+    "name": "浦江"
+  },
+  {
+    "initial": "P",
+    "zip": "0411",
+    "name": "普兰店"
+  },
+  {
+    "initial": "P",
+    "zip": "0663",
+    "name": "普宁"
+  },
+  {
+    "initial": "Q",
+    "zip": "0532",
+    "name": "青岛"
+  },
+  {
+    "initial": "Q",
+    "zip": "0595",
+    "name": "泉州"
+  },
+  {
+    "initial": "Q",
+    "zip": "0855",
+    "name": "黔东"
+  },
+  {
+    "initial": "Q",
+    "zip": "0854",
+    "name": "黔南"
+  },
+  {
+    "initial": "Q",
+    "zip": "0859",
+    "name": "黔西南"
+  },
+  {
+    "initial": "Q",
+    "zip": "0934",
+    "name": "庆阳"
+  },
+  {
+    "initial": "Q",
+    "zip": "0763",
+    "name": "清远"
+  },
+  {
+    "initial": "Q",
+    "zip": "0335",
+    "name": "秦皇岛"
+  },
+  {
+    "initial": "Q",
+    "zip": "0777",
+    "name": "钦州"
+  },
+  {
+    "initial": "Q",
+    "zip": "0452",
+    "name": "齐齐哈尔"
+  },
+  {
+    "initial": "Q",
+    "zip": "0464",
+    "name": "七台河"
+  },
+  {
+    "initial": "Q",
+    "zip": "0874",
+    "name": "曲靖"
+  },
+  {
+    "initial": "Q",
+    "zip": "0570",
+    "name": "衢州"
+  },
+  {
+    "initial": "Q",
+    "zip": "0315",
+    "name": "迁安"
+  },
+  {
+    "initial": "Q",
+    "zip": "0556",
+    "name": "潜山"
+  },
+  {
+    "initial": "Q",
+    "zip": "0793",
+    "name": "铅山"
+  },
+  {
+    "initial": "Q",
+    "zip": "0315",
+    "name": "迁西"
+  },
+  {
+    "initial": "Q",
+    "zip": "0513",
+    "name": "启东"
+  },
+  {
+    "initial": "Q",
+    "zip": "0534",
+    "name": "齐河"
+  },
+  {
+    "initial": "Q",
+    "zip": "023",
+    "name": "綦江"
+  },
+  {
+    "initial": "Q",
+    "zip": "0559",
+    "name": "祁门"
+  },
+  {
+    "initial": "Q",
+    "zip": "0598",
+    "name": "清流"
+  },
+  {
+    "initial": "Q",
+    "zip": "0578",
+    "name": "青田"
+  },
+  {
+    "initial": "Q",
+    "zip": "0763",
+    "name": "清新"
+  },
+  {
+    "initial": "Q",
+    "zip": "0566",
+    "name": "青阳"
+  },
+  {
+    "initial": "Q",
+    "zip": "0578",
+    "name": "庆元"
+  },
+  {
+    "initial": "Q",
+    "zip": "0534",
+    "name": "庆云"
+  },
+  {
+    "initial": "Q",
+    "zip": "0851",
+    "name": "清镇"
+  },
+  {
+    "initial": "Q",
+    "zip": "0536",
+    "name": "青州"
+  },
+  {
+    "initial": "Q",
+    "zip": "0391",
+    "name": "沁阳"
+  },
+  {
+    "initial": "Q",
+    "zip": "028",
+    "name": "邛崃"
+  },
+  {
+    "initial": "Q",
+    "zip": "0535",
+    "name": "栖霞"
+  },
+  {
+    "initial": "Q",
+    "zip": "0550",
+    "name": "全椒"
+  },
+  {
+    "initial": "Q",
+    "zip": "0797",
+    "name": "全南"
+  },
+  {
+    "initial": "Q",
+    "zip": "0537",
+    "name": "曲阜"
+  },
+  {
+    "initial": "Q",
+    "zip": "0751",
+    "name": "曲江"
+  },
+  {
+    "initial": "R",
+    "zip": "0892",
+    "name": "日喀则"
+  },
+  {
+    "initial": "R",
+    "zip": "0633",
+    "name": "日照"
+  },
+  {
+    "initial": "R",
+    "zip": "0768",
+    "name": "饶平"
+  },
+  {
+    "initial": "R",
+    "zip": "0751",
+    "name": "仁化"
+  },
+  {
+    "initial": "R",
+    "zip": "0772",
+    "name": "融安"
+  },
+  {
+    "initial": "R",
+    "zip": "023",
+    "name": "荣昌"
+  },
+  {
+    "initial": "R",
+    "zip": "0631",
+    "name": "荣成"
+  },
+  {
+    "initial": "R",
+    "zip": "0772",
+    "name": "融水"
+  },
+  {
+    "initial": "R",
+    "zip": "0513",
+    "name": "如东"
+  },
+  {
+    "initial": "R",
+    "zip": "0513",
+    "name": "如皋"
+  },
+  {
+    "initial": "R",
+    "zip": "0577",
+    "name": "瑞安"
+  },
+  {
+    "initial": "R",
+    "zip": "0792",
+    "name": "瑞昌"
+  },
+  {
+    "initial": "R",
+    "zip": "0797",
+    "name": "瑞金"
+  },
+  {
+    "initial": "R",
+    "zip": "0631",
+    "name": "乳山"
+  },
+  {
+    "initial": "R",
+    "zip": "0379",
+    "name": "汝阳"
+  },
+  {
+    "initial": "R",
+    "zip": "0751",
+    "name": "乳源"
+  },
+  {
+    "initial": "S",
+    "zip": "021",
+    "name": "上海"
+  },
+  {
+    "initial": "S",
+    "zip": "024",
+    "name": "沈阳"
+  },
+  {
+    "initial": "S",
+    "zip": "0755",
+    "name": "深圳"
+  },
+  {
+    "initial": "S",
+    "zip": "0311",
+    "name": "石家庄"
+  },
+  {
+    "initial": "S",
+    "zip": "0512",
+    "name": "苏州"
+  },
+  {
+    "initial": "S",
+    "zip": "0398",
+    "name": "三门峡"
+  },
+  {
+    "initial": "S",
+    "zip": "0598",
+    "name": "三明"
+  },
+  {
+    "initial": "S",
+    "zip": "0899",
+    "name": "三亚"
+  },
+  {
+    "initial": "S",
+    "zip": "0914",
+    "name": "商洛"
+  },
+  {
+    "initial": "S",
+    "zip": "0370",
+    "name": "商丘"
+  },
+  {
+    "initial": "S",
+    "zip": "0793",
+    "name": "上饶"
+  },
+  {
+    "initial": "S",
+    "zip": "0893",
+    "name": "山南"
+  },
+  {
+    "initial": "S",
+    "zip": "0754",
+    "name": "汕头"
+  },
+  {
+    "initial": "S",
+    "zip": "0660",
+    "name": "汕尾"
+  },
+  {
+    "initial": "S",
+    "zip": "0751",
+    "name": "韶关"
+  },
+  {
+    "initial": "S",
+    "zip": "0575",
+    "name": "绍兴"
+  },
+  {
+    "initial": "S",
+    "zip": "0739",
+    "name": "邵阳"
+  },
+  {
+    "initial": "S",
+    "zip": "0719",
+    "name": "十堰"
+  },
+  {
+    "initial": "S",
+    "zip": "0952",
+    "name": "石嘴山"
+  },
+  {
+    "initial": "S",
+    "zip": "0469",
+    "name": "双鸭山"
+  },
+  {
+    "initial": "S",
+    "zip": "0349",
+    "name": "朔州"
+  },
+  {
+    "initial": "S",
+    "zip": "0434",
+    "name": "四平"
+  },
+  {
+    "initial": "S",
+    "zip": "0438",
+    "name": "松原"
+  },
+  {
+    "initial": "S",
+    "zip": "0455",
+    "name": "绥化"
+  },
+  {
+    "initial": "S",
+    "zip": "0825",
+    "name": "遂宁"
+  },
+  {
+    "initial": "S",
+    "zip": "0722",
+    "name": "随州"
+  },
+  {
+    "initial": "S",
+    "zip": "0527",
+    "name": "宿迁"
+  },
+  {
+    "initial": "S",
+    "zip": "0557",
+    "name": "宿州"
+  },
+  {
+    "initial": "S",
+    "zip": "0772",
+    "name": "三江"
+  },
+  {
+    "initial": "S",
+    "zip": "0576",
+    "name": "三门"
+  },
+  {
+    "initial": "S",
+    "zip": "0596",
+    "name": "诏安"
+  },
+  {
+    "initial": "S",
+    "zip": "0795",
+    "name": "上高"
+  },
+  {
+    "initial": "S",
+    "zip": "0597",
+    "name": "上杭"
+  },
+  {
+    "initial": "S",
+    "zip": "0531",
+    "name": "商河"
+  },
+  {
+    "initial": "S",
+    "zip": "0799",
+    "name": "上栗"
+  },
+  {
+    "initial": "S",
+    "zip": "0771",
+    "name": "上林"
+  },
+  {
+    "initial": "S",
+    "zip": "0793",
+    "name": "上饶"
+  },
+  {
+    "initial": "S",
+    "zip": "0797",
+    "name": "上犹"
+  },
+  {
+    "initial": "S",
+    "zip": "0575",
+    "name": "上虞"
+  },
+  {
+    "initial": "S",
+    "zip": "0451",
+    "name": "尚志"
+  },
+  {
+    "initial": "S",
+    "zip": "0599",
+    "name": "邵武"
+  },
+  {
+    "initial": "S",
+    "zip": "0575",
+    "name": "绍兴"
+  },
+  {
+    "initial": "S",
+    "zip": "0598",
+    "name": "沙县"
+  },
+  {
+    "initial": "S",
+    "zip": "0580",
+    "name": "嵊泗"
+  },
+  {
+    "initial": "S",
+    "zip": "0575",
+    "name": "嵊州"
+  },
+  {
+    "initial": "S",
+    "zip": "0635",
+    "name": "莘县"
+  },
+  {
+    "initial": "S",
+    "zip": "0311",
+    "name": "深泽"
+  },
+  {
+    "initial": "S",
+    "zip": "0559",
+    "name": "歙县"
+  },
+  {
+    "initial": "S",
+    "zip": "0515",
+    "name": "射阳"
+  },
+  {
+    "initial": "S",
+    "zip": "0797",
+    "name": "石城"
+  },
+  {
+    "initial": "S",
+    "zip": "0871",
+    "name": "石林"
+  },
+  {
+    "initial": "S",
+    "zip": "0595",
+    "name": "石狮"
+  },
+  {
+    "initial": "S",
+    "zip": "0566",
+    "name": "石台"
+  },
+  {
+    "initial": "S",
+    "zip": "0751",
+    "name": "始兴"
+  },
+  {
+    "initial": "S",
+    "zip": "023",
+    "name": "石柱"
+  },
+  {
+    "initial": "S",
+    "zip": "0536",
+    "name": "寿光"
+  },
+  {
+    "initial": "S",
+    "zip": "0593",
+    "name": "寿宁"
+  },
+  {
+    "initial": "S",
+    "zip": "0564",
+    "name": "寿县"
+  },
+  {
+    "initial": "S",
+    "zip": "0451",
+    "name": "双城"
+  },
+  {
+    "initial": "S",
+    "zip": "028",
+    "name": "双流"
+  },
+  {
+    "initial": "S",
+    "zip": "0564",
+    "name": "舒城"
+  },
+  {
+    "initial": "S",
+    "zip": "0423",
+    "name": "舒兰"
+  },
+  {
+    "initial": "S",
+    "zip": "0599",
+    "name": "顺昌"
+  },
+  {
+    "initial": "S",
+    "zip": "0527",
+    "name": "沭阳"
+  },
+  {
+    "initial": "S",
+    "zip": "0527",
+    "name": "泗洪"
+  },
+  {
+    "initial": "S",
+    "zip": "0758",
+    "name": "四会"
+  },
+  {
+    "initial": "S",
+    "zip": "0537",
+    "name": "泗水"
+  },
+  {
+    "initial": "S",
+    "zip": "0557",
+    "name": "泗县"
+  },
+  {
+    "initial": "S",
+    "zip": "0527",
+    "name": "泗阳"
+  },
+  {
+    "initial": "S",
+    "zip": "0871",
+    "name": "嵩明"
+  },
+  {
+    "initial": "S",
+    "zip": "0599",
+    "name": "松溪"
+  },
+  {
+    "initial": "S",
+    "zip": "0379",
+    "name": "嵩县"
+  },
+  {
+    "initial": "S",
+    "zip": "0578",
+    "name": "松阳"
+  },
+  {
+    "initial": "S",
+    "zip": "0578",
+    "name": "遂昌"
+  },
+  {
+    "initial": "S",
+    "zip": "0796",
+    "name": "遂川"
+  },
+  {
+    "initial": "S",
+    "zip": "0516",
+    "name": "睢宁"
+  },
+  {
+    "initial": "S",
+    "zip": "0561",
+    "name": "濉溪"
+  },
+  {
+    "initial": "S",
+    "zip": "0759",
+    "name": "遂溪"
+  },
+  {
+    "initial": "S",
+    "zip": "0556",
+    "name": "宿松"
+  },
+  {
+    "initial": "S",
+    "zip": "0527",
+    "name": "宿豫"
+  },
+  {
+    "initial": "T",
+    "zip": "022",
+    "name": "天津"
+  },
+  {
+    "initial": "T",
+    "zip": "0576",
+    "name": "台州"
+  },
+  {
+    "initial": "T",
+    "zip": "0315",
+    "name": "唐山"
+  },
+  {
+    "initial": "T",
+    "zip": "0901",
+    "name": "塔城地"
+  },
+  {
+    "initial": "T",
+    "zip": "0538",
+    "name": "泰安"
+  },
+  {
+    "initial": "T",
+    "zip": "0351",
+    "name": "太原"
+  },
+  {
+    "initial": "T",
+    "zip": "0523",
+    "name": "泰州"
+  },
+  {
+    "initial": "T",
+    "zip": "0938",
+    "name": "天水"
+  },
+  {
+    "initial": "T",
+    "zip": "0410",
+    "name": "铁岭"
+  },
+  {
+    "initial": "T",
+    "zip": "0919",
+    "name": "铜川"
+  },
+  {
+    "initial": "T",
+    "zip": "0435",
+    "name": "通化"
+  },
+  {
+    "initial": "T",
+    "zip": "0475",
+    "name": "通辽"
+  },
+  {
+    "initial": "T",
+    "zip": "0562",
+    "name": "铜陵"
+  },
+  {
+    "initial": "T",
+    "zip": "0856",
+    "name": "铜仁"
+  },
+  {
+    "initial": "T",
+    "zip": "0995",
+    "name": "吐鲁番"
+  },
+  {
+    "initial": "T",
+    "zip": "0512",
+    "name": "太仓"
+  },
+  {
+    "initial": "T",
+    "zip": "0558",
+    "name": "太和"
+  },
+  {
+    "initial": "T",
+    "zip": "0796",
+    "name": "泰和"
+  },
+  {
+    "initial": "T",
+    "zip": "0556",
+    "name": "太湖"
+  },
+  {
+    "initial": "T",
+    "zip": "0598",
+    "name": "泰宁"
+  },
+  {
+    "initial": "T",
+    "zip": "0750",
+    "name": "台山"
+  },
+  {
+    "initial": "T",
+    "zip": "0577",
+    "name": "泰顺"
+  },
+  {
+    "initial": "T",
+    "zip": "0523",
+    "name": "泰兴"
+  },
+  {
+    "initial": "T",
+    "zip": "0539",
+    "name": "郯城"
+  },
+  {
+    "initial": "T",
+    "zip": "0315",
+    "name": "唐海"
+  },
+  {
+    "initial": "T",
+    "zip": "0623",
+    "name": "滕州"
+  },
+  {
+    "initial": "T",
+    "zip": "0550",
+    "name": "天长"
+  },
+  {
+    "initial": "T",
+    "zip": "0576",
+    "name": "天台"
+  },
+  {
+    "initial": "T",
+    "zip": "0556",
+    "name": "桐城"
+  },
+  {
+    "initial": "T",
+    "zip": "0795",
+    "name": "铜鼓"
+  },
+  {
+    "initial": "T",
+    "zip": "0451",
+    "name": "通河"
+  },
+  {
+    "initial": "T",
+    "zip": "023",
+    "name": "铜梁"
+  },
+  {
+    "initial": "T",
+    "zip": "0562",
+    "name": "铜陵"
+  },
+  {
+    "initial": "T",
+    "zip": "0571",
+    "name": "桐庐"
+  },
+  {
+    "initial": "T",
+    "zip": "023",
+    "name": "潼南"
+  },
+  {
+    "initial": "T",
+    "zip": "0516",
+    "name": "铜山"
+  },
+  {
+    "initial": "T",
+    "zip": "0573",
+    "name": "桐乡"
+  },
+  {
+    "initial": "T",
+    "zip": "0513",
+    "name": "通州"
+  },
+  {
+    "initial": "W",
+    "zip": "0536",
+    "name": "潍坊"
+  },
+  {
+    "initial": "W",
+    "zip": "0631",
+    "name": "威海"
+  },
+  {
+    "initial": "W",
+    "zip": "027",
+    "name": "武汉"
+  },
+  {
+    "initial": "W",
+    "zip": "0510",
+    "name": "无锡"
+  },
+  {
+    "initial": "W",
+    "zip": "0913",
+    "name": "渭南"
+  },
+  {
+    "initial": "W",
+    "zip": "0876",
+    "name": "文山"
+  },
+  {
+    "initial": "W",
+    "zip": "0577",
+    "name": "温州"
+  },
+  {
+    "initial": "W",
+    "zip": "0473",
+    "name": "乌海"
+  },
+  {
+    "initial": "W",
+    "zip": "0553",
+    "name": "芜湖"
+  },
+  {
+    "initial": "W",
+    "zip": "0474",
+    "name": "乌兰察布"
+  },
+  {
+    "initial": "W",
+    "zip": "0991",
+    "name": "乌鲁木齐"
+  },
+  {
+    "initial": "W",
+    "zip": "0935",
+    "name": "武威"
+  },
+  {
+    "initial": "W",
+    "zip": "0953",
+    "name": "吴忠"
+  },
+  {
+    "initial": "W",
+    "zip": "0774",
+    "name": "梧州"
+  },
+  {
+    "initial": "W",
+    "zip": "0411",
+    "name": "瓦房店"
+  },
+  {
+    "initial": "W",
+    "zip": "0796",
+    "name": "万安"
+  },
+  {
+    "initial": "W",
+    "zip": "0731",
+    "name": "望城"
+  },
+  {
+    "initial": "W",
+    "zip": "0556",
+    "name": "望江"
+  },
+  {
+    "initial": "W",
+    "zip": "0793",
+    "name": "万年"
+  },
+  {
+    "initial": "W",
+    "zip": "0795",
+    "name": "万载"
+  },
+  {
+    "initial": "W",
+    "zip": "0537",
+    "name": "微山"
+  },
+  {
+    "initial": "W",
+    "zip": "0577",
+    "name": "文成"
+  },
+  {
+    "initial": "W",
+    "zip": "0631",
+    "name": "文登"
+  },
+  {
+    "initial": "W",
+    "zip": "0751",
+    "name": "翁源"
+  },
+  {
+    "initial": "W",
+    "zip": "0576",
+    "name": "温岭"
+  },
+  {
+    "initial": "W",
+    "zip": "0537",
+    "name": "汶上"
+  },
+  {
+    "initial": "W",
+    "zip": "0391",
+    "name": "温县"
+  },
+  {
+    "initial": "W",
+    "zip": "0558",
+    "name": "涡阳"
+  },
+  {
+    "initial": "W",
+    "zip": "0451",
+    "name": "五常"
+  },
+  {
+    "initial": "W",
+    "zip": "0534",
+    "name": "武城"
+  },
+  {
+    "initial": "W",
+    "zip": "0759",
+    "name": "吴川"
+  },
+  {
+    "initial": "W",
+    "zip": "0543",
+    "name": "无棣"
+  },
+  {
+    "initial": "W",
+    "zip": "0552",
+    "name": "五河"
+  },
+  {
+    "initial": "W",
+    "zip": "0553",
+    "name": "芜湖"
+  },
+  {
+    "initial": "W",
+    "zip": "0753",
+    "name": "五华"
+  },
+  {
+    "initial": "W",
+    "zip": "0311",
+    "name": "无极"
+  },
+  {
+    "initial": "W",
+    "zip": "0512",
+    "name": "吴江"
+  },
+  {
+    "initial": "W",
+    "zip": "0633",
+    "name": "五莲"
+  },
+  {
+    "initial": "W",
+    "zip": "023",
+    "name": "武隆"
+  },
+  {
+    "initial": "W",
+    "zip": "0771",
+    "name": "武鸣"
+  },
+  {
+    "initial": "W",
+    "zip": "0792",
+    "name": "武宁"
+  },
+  {
+    "initial": "W",
+    "zip": "0597",
+    "name": "武平"
+  },
+  {
+    "initial": "W",
+    "zip": "023",
+    "name": "巫山"
+  },
+  {
+    "initial": "W",
+    "zip": "0565",
+    "name": "无为"
+  },
+  {
+    "initial": "W",
+    "zip": "023",
+    "name": "巫溪"
+  },
+  {
+    "initial": "W",
+    "zip": "0579",
+    "name": "武义"
+  },
+  {
+    "initial": "W",
+    "zip": "0599",
+    "name": "武夷山"
+  },
+  {
+    "initial": "W",
+    "zip": "0793",
+    "name": "婺源"
+  },
+  {
+    "initial": "W",
+    "zip": "0391",
+    "name": "武陟"
+  },
+  {
+    "initial": "X",
+    "zip": "0592",
+    "name": "厦门"
+  },
+  {
+    "initial": "X",
+    "zip": "029",
+    "name": "西安"
+  },
+  {
+    "initial": "X",
+    "zip": "0374",
+    "name": "许昌"
+  },
+  {
+    "initial": "X",
+    "zip": "0516",
+    "name": "徐州"
+  },
+  {
+    "initial": "X",
+    "zip": "0710",
+    "name": "襄樊"
+  },
+  {
+    "initial": "X",
+    "zip": "0732",
+    "name": "湘潭"
+  },
+  {
+    "initial": "X",
+    "zip": "0743",
+    "name": "湘西"
+  },
+  {
+    "initial": "X",
+    "zip": "0715",
+    "name": "咸宁"
+  },
+  {
+    "initial": "X",
+    "zip": "029",
+    "name": "咸阳"
+  },
+  {
+    "initial": "X",
+    "zip": "0712",
+    "name": "孝感"
+  },
+  {
+    "initial": "X",
+    "zip": "0479",
+    "name": "锡林郭勒盟"
+  },
+  {
+    "initial": "X",
+    "zip": "0482",
+    "name": "兴安盟"
+  },
+  {
+    "initial": "X",
+    "zip": "0319",
+    "name": "邢台"
+  },
+  {
+    "initial": "X",
+    "zip": "0971",
+    "name": "西宁"
+  },
+  {
+    "initial": "X",
+    "zip": "0373",
+    "name": "新乡"
+  },
+  {
+    "initial": "X",
+    "zip": "0376",
+    "name": "信阳"
+  },
+  {
+    "initial": "X",
+    "zip": "0790",
+    "name": "新余"
+  },
+  {
+    "initial": "X",
+    "zip": "0350",
+    "name": "忻州"
+  },
+  {
+    "initial": "X",
+    "zip": "0691",
+    "name": "西双版纳"
+  },
+  {
+    "initial": "X",
+    "zip": "0563",
+    "name": "宣城"
+  },
+  {
+    "initial": "X",
+    "zip": "0796",
+    "name": "峡江"
+  },
+  {
+    "initial": "X",
+    "zip": "0534",
+    "name": "夏津"
+  },
+  {
+    "initial": "X",
+    "zip": "0574",
+    "name": "象山"
+  },
+  {
+    "initial": "X",
+    "zip": "0515",
+    "name": "响水"
+  },
+  {
+    "initial": "X",
+    "zip": "0576",
+    "name": "仙居"
+  },
+  {
+    "initial": "X",
+    "zip": "0594",
+    "name": "仙游"
+  },
+  {
+    "initial": "X",
+    "zip": "0557",
+    "name": "萧县"
+  },
+  {
+    "initial": "X",
+    "zip": "0593",
+    "name": "霞浦"
+  },
+  {
+    "initial": "X",
+    "zip": "0851",
+    "name": "息烽"
+  },
+  {
+    "initial": "X",
+    "zip": "0379",
+    "name": "新安"
+  },
+  {
+    "initial": "X",
+    "zip": "0575",
+    "name": "新昌"
+  },
+  {
+    "initial": "X",
+    "zip": "0797",
+    "name": "信丰"
+  },
+  {
+    "initial": "X",
+    "zip": "0751",
+    "name": "新丰"
+  },
+  {
+    "initial": "X",
+    "zip": "0796",
+    "name": "新干"
+  },
+  {
+    "initial": "X",
+    "zip": "0797",
+    "name": "兴国"
+  },
+  {
+    "initial": "X",
+    "zip": "0523",
+    "name": "兴化"
+  },
+  {
+    "initial": "X",
+    "zip": "0753",
+    "name": "兴宁"
+  },
+  {
+    "initial": "X",
+    "zip": "0311",
+    "name": "行唐"
+  },
+  {
+    "initial": "X",
+    "zip": "0371",
+    "name": "荥阳"
+  },
+  {
+    "initial": "X",
+    "zip": "0792",
+    "name": "星子"
+  },
+  {
+    "initial": "X",
+    "zip": "0311",
+    "name": "辛集"
+  },
+  {
+    "initial": "X",
+    "zip": "0791",
+    "name": "新建"
+  },
+  {
+    "initial": "X",
+    "zip": "028",
+    "name": "新津"
+  },
+  {
+    "initial": "X",
+    "zip": "0311",
+    "name": "新乐"
+  },
+  {
+    "initial": "X",
+    "zip": "024",
+    "name": "新民"
+  },
+  {
+    "initial": "X",
+    "zip": "0371",
+    "name": "新密"
+  },
+  {
+    "initial": "X",
+    "zip": "0538",
+    "name": "新泰"
+  },
+  {
+    "initial": "X",
+    "zip": "0766",
+    "name": "新兴"
+  },
+  {
+    "initial": "X",
+    "zip": "0516",
+    "name": "新沂"
+  },
+  {
+    "initial": "X",
+    "zip": "0668",
+    "name": "信宜"
+  },
+  {
+    "initial": "X",
+    "zip": "0371",
+    "name": "新郑"
+  },
+  {
+    "initial": "X",
+    "zip": "0559",
+    "name": "休宁"
+  },
+  {
+    "initial": "X",
+    "zip": "023",
+    "name": "秀山"
+  },
+  {
+    "initial": "X",
+    "zip": "0792",
+    "name": "修水"
+  },
+  {
+    "initial": "X",
+    "zip": "0851",
+    "name": "修文"
+  },
+  {
+    "initial": "X",
+    "zip": "0391",
+    "name": "修武"
+  },
+  {
+    "initial": "X",
+    "zip": "0871",
+    "name": "寻甸"
+  },
+  {
+    "initial": "X",
+    "zip": "0797",
+    "name": "寻乌"
+  },
+  {
+    "initial": "X",
+    "zip": "0759",
+    "name": "徐闻"
+  },
+  {
+    "initial": "X",
+    "zip": "0517",
+    "name": "盱眙"
+  },
+  {
+    "initial": "Y",
+    "zip": "0514",
+    "name": "扬州"
+  },
+  {
+    "initial": "Y",
+    "zip": "0535",
+    "name": "烟台"
+  },
+  {
+    "initial": "Y",
+    "zip": "0835",
+    "name": "雅安"
+  },
+  {
+    "initial": "Y",
+    "zip": "0911",
+    "name": "延安"
+  },
+  {
+    "initial": "Y",
+    "zip": "0433",
+    "name": "延边"
+  },
+  {
+    "initial": "Y",
+    "zip": "0515",
+    "name": "盐城"
+  },
+  {
+    "initial": "Y",
+    "zip": "0662",
+    "name": "阳江"
+  },
+  {
+    "initial": "Y",
+    "zip": "0353",
+    "name": "阳泉"
+  },
+  {
+    "initial": "Y",
+    "zip": "0831",
+    "name": "宜宾"
+  },
+  {
+    "initial": "Y",
+    "zip": "0717",
+    "name": "宜昌"
+  },
+  {
+    "initial": "Y",
+    "zip": "0458",
+    "name": "伊春"
+  },
+  {
+    "initial": "Y",
+    "zip": "0795",
+    "name": "宜春"
+  },
+  {
+    "initial": "Y",
+    "zip": "0999",
+    "name": "伊犁哈萨克"
+  },
+  {
+    "initial": "Y",
+    "zip": "0951",
+    "name": "银川"
+  },
+  {
+    "initial": "Y",
+    "zip": "0417",
+    "name": "营口"
+  },
+  {
+    "initial": "Y",
+    "zip": "0701",
+    "name": "鹰潭"
+  },
+  {
+    "initial": "Y",
+    "zip": "0737",
+    "name": "益阳"
+  },
+  {
+    "initial": "Y",
+    "zip": "0746",
+    "name": "永州"
+  },
+  {
+    "initial": "Y",
+    "zip": "0730",
+    "name": "岳阳"
+  },
+  {
+    "initial": "Y",
+    "zip": "0775",
+    "name": "玉林"
+  },
+  {
+    "initial": "Y",
+    "zip": "0912",
+    "name": "榆林"
+  },
+  {
+    "initial": "Y",
+    "zip": "0359",
+    "name": "运城"
+  },
+  {
+    "initial": "Y",
+    "zip": "0766",
+    "name": "云浮"
+  },
+  {
+    "initial": "Y",
+    "zip": "0976",
+    "name": "玉树"
+  },
+  {
+    "initial": "Y",
+    "zip": "0877",
+    "name": "玉溪"
+  },
+  {
+    "initial": "Y",
+    "zip": "0662",
+    "name": "阳春"
+  },
+  {
+    "initial": "Y",
+    "zip": "0662",
+    "name": "阳东"
+  },
+  {
+    "initial": "Y",
+    "zip": "0635",
+    "name": "阳谷"
+  },
+  {
+    "initial": "Y",
+    "zip": "0763",
+    "name": "阳山"
+  },
+  {
+    "initial": "Y",
+    "zip": "0543",
+    "name": "阳信"
+  },
+  {
+    "initial": "Y",
+    "zip": "0662",
+    "name": "阳西"
+  },
+  {
+    "initial": "Y",
+    "zip": "0511",
+    "name": "扬中"
+  },
+  {
+    "initial": "Y",
+    "zip": "0379",
+    "name": "偃师"
+  },
+  {
+    "initial": "Y",
+    "zip": "0451",
+    "name": "延寿"
+  },
+  {
+    "initial": "Y",
+    "zip": "0537",
+    "name": "兖州"
+  },
+  {
+    "initial": "Y",
+    "zip": "0379",
+    "name": "伊川"
+  },
+  {
+    "initial": "Y",
+    "zip": "0795",
+    "name": "宜丰"
+  },
+  {
+    "initial": "Y",
+    "zip": "0794",
+    "name": "宜黄"
+  },
+  {
+    "initial": "Y",
+    "zip": "0451",
+    "name": "依兰"
+  },
+  {
+    "initial": "Y",
+    "zip": "0871",
+    "name": "宜良"
+  },
+  {
+    "initial": "Y",
+    "zip": "0539",
+    "name": "沂南"
+  },
+  {
+    "initial": "Y",
+    "zip": "0763",
+    "name": "英德"
+  },
+  {
+    "initial": "Y",
+    "zip": "0558",
+    "name": "颍上"
+  },
+  {
+    "initial": "Y",
+    "zip": "0539",
+    "name": "沂水"
+  },
+  {
+    "initial": "Y",
+    "zip": "0579",
+    "name": "义乌"
+  },
+  {
+    "initial": "Y",
+    "zip": "0559",
+    "name": "黟县"
+  },
+  {
+    "initial": "Y",
+    "zip": "0510",
+    "name": "宜兴"
+  },
+  {
+    "initial": "Y",
+    "zip": "0793",
+    "name": "弋阳"
+  },
+  {
+    "initial": "Y",
+    "zip": "0379",
+    "name": "宜阳"
+  },
+  {
+    "initial": "Y",
+    "zip": "0533",
+    "name": "沂源"
+  },
+  {
+    "initial": "Y",
+    "zip": "0514",
+    "name": "仪征"
+  },
+  {
+    "initial": "Y",
+    "zip": "0598",
+    "name": "永安"
+  },
+  {
+    "initial": "Y",
+    "zip": "023",
+    "name": "永川"
+  },
+  {
+    "initial": "Y",
+    "zip": "0595",
+    "name": "永春"
+  },
+  {
+    "initial": "Y",
+    "zip": "0931",
+    "name": "永登"
+  },
+  {
+    "initial": "Y",
+    "zip": "0597",
+    "name": "永定"
+  },
+  {
+    "initial": "Y",
+    "zip": "0796",
+    "name": "永丰"
+  },
+  {
+    "initial": "Y",
+    "zip": "0423",
+    "name": "永吉"
+  },
+  {
+    "initial": "Y",
+    "zip": "0577",
+    "name": "永嘉"
+  },
+  {
+    "initial": "Y",
+    "zip": "0579",
+    "name": "永康"
+  },
+  {
+    "initial": "Y",
+    "zip": "0771",
+    "name": "邕宁"
+  },
+  {
+    "initial": "Y",
+    "zip": "0591",
+    "name": "永泰"
+  },
+  {
+    "initial": "Y",
+    "zip": "0796",
+    "name": "永新"
+  },
+  {
+    "initial": "Y",
+    "zip": "0792",
+    "name": "永修"
+  },
+  {
+    "initial": "Y",
+    "zip": "0598",
+    "name": "尤溪"
+  },
+  {
+    "initial": "Y",
+    "zip": "023",
+    "name": "酉阳"
+  },
+  {
+    "initial": "Y",
+    "zip": "0311",
+    "name": "元氏"
+  },
+  {
+    "initial": "Y",
+    "zip": "0534",
+    "name": "禹城"
+  },
+  {
+    "initial": "Y",
+    "zip": "0797",
+    "name": "于都"
+  },
+  {
+    "initial": "Y",
+    "zip": "0556",
+    "name": "岳西"
+  },
+  {
+    "initial": "Y",
+    "zip": "0793",
+    "name": "余干"
+  },
+  {
+    "initial": "Y",
+    "zip": "0576",
+    "name": "玉环"
+  },
+  {
+    "initial": "Y",
+    "zip": "0701",
+    "name": "余江"
+  },
+  {
+    "initial": "Y",
+    "zip": "0766",
+    "name": "郁南"
+  },
+  {
+    "initial": "Y",
+    "zip": "0766",
+    "name": "云安"
+  },
+  {
+    "initial": "Y",
+    "zip": "0530",
+    "name": "郓城"
+  },
+  {
+    "initial": "Y",
+    "zip": "0578",
+    "name": "云和"
+  },
+  {
+    "initial": "Y",
+    "zip": "0596",
+    "name": "云霄"
+  },
+  {
+    "initial": "Y",
+    "zip": "023",
+    "name": "云阳"
+  },
+  {
+    "initial": "Y",
+    "zip": "0793",
+    "name": "玉山"
+  },
+  {
+    "initial": "Y",
+    "zip": "0431",
+    "name": "榆树"
+  },
+  {
+    "initial": "Y",
+    "zip": "0537",
+    "name": "鱼台"
+  },
+  {
+    "initial": "Y",
+    "zip": "0315",
+    "name": "玉田"
+  },
+  {
+    "initial": "Y",
+    "zip": "0574",
+    "name": "余姚"
+  },
+  {
+    "initial": "Y",
+    "zip": "0931",
+    "name": "榆中"
+  },
+  {
+    "initial": "Z",
+    "zip": "0596",
+    "name": "漳州"
+  },
+  {
+    "initial": "Z",
+    "zip": "0371",
+    "name": "郑州"
+  },
+  {
+    "initial": "Z",
+    "zip": "0760",
+    "name": "中山"
+  },
+  {
+    "initial": "Z",
+    "zip": "0756",
+    "name": "珠海"
+  },
+  {
+    "initial": "Z",
+    "zip": "0623",
+    "name": "枣庄"
+  },
+  {
+    "initial": "Z",
+    "zip": "0744",
+    "name": "张家界"
+  },
+  {
+    "initial": "Z",
+    "zip": "0313",
+    "name": "张家口"
+  },
+  {
+    "initial": "Z",
+    "zip": "0936",
+    "name": "张掖"
+  },
+  {
+    "initial": "Z",
+    "zip": "0759",
+    "name": "湛江"
+  },
+  {
+    "initial": "Z",
+    "zip": "0758",
+    "name": "肇庆"
+  },
+  {
+    "initial": "Z",
+    "zip": "0870",
+    "name": "昭通"
+  },
+  {
+    "initial": "Z",
+    "zip": "0511",
+    "name": "镇江"
+  },
+  {
+    "initial": "Z",
+    "zip": "0955",
+    "name": "中卫"
+  },
+  {
+    "initial": "Z",
+    "zip": "0394",
+    "name": "周口"
+  },
+  {
+    "initial": "Z",
+    "zip": "0580",
+    "name": "舟山"
+  },
+  {
+    "initial": "Z",
+    "zip": "0396",
+    "name": "驻马店"
+  },
+  {
+    "initial": "Z",
+    "zip": "0731",
+    "name": "株洲"
+  },
+  {
+    "initial": "Z",
+    "zip": "0533",
+    "name": "淄博"
+  },
+  {
+    "initial": "Z",
+    "zip": "0813",
+    "name": "自贡"
+  },
+  {
+    "initial": "Z",
+    "zip": "028",
+    "name": "资阳"
+  },
+  {
+    "initial": "Z",
+    "zip": "0852",
+    "name": "遵义"
+  },
+  {
+    "initial": "Z",
+    "zip": "0311",
+    "name": "赞皇"
+  },
+  {
+    "initial": "Z",
+    "zip": "020",
+    "name": "增城"
+  },
+  {
+    "initial": "Z",
+    "zip": "0512",
+    "name": "张家港"
+  },
+  {
+    "initial": "Z",
+    "zip": "0597",
+    "name": "漳平"
+  },
+  {
+    "initial": "Z",
+    "zip": "0596",
+    "name": "漳浦"
+  },
+  {
+    "initial": "Z",
+    "zip": "0531",
+    "name": "章丘"
+  },
+  {
+    "initial": "Z",
+    "zip": "0795",
+    "name": "樟树"
+  },
+  {
+    "initial": "Z",
+    "zip": "0543",
+    "name": "沾化"
+  },
+  {
+    "initial": "Z",
+    "zip": "0311",
+    "name": "赵县"
+  },
+  {
+    "initial": "Z",
+    "zip": "0535",
+    "name": "招远"
+  },
+  {
+    "initial": "Z",
+    "zip": "0311",
+    "name": "正定"
+  },
+  {
+    "initial": "Z",
+    "zip": "0599",
+    "name": "政和"
+  },
+  {
+    "initial": "Z",
+    "zip": "0593",
+    "name": "柘荣"
+  },
+  {
+    "initial": "Z",
+    "zip": "0371",
+    "name": "中牟"
+  },
+  {
+    "initial": "Z",
+    "zip": "023",
+    "name": "忠县"
+  },
+  {
+    "initial": "Z",
+    "zip": "0593",
+    "name": "周宁"
+  },
+  {
+    "initial": "Z",
+    "zip": "029",
+    "name": "周至"
+  },
+  {
+    "initial": "Z",
+    "zip": "0411",
+    "name": "庄河"
+  },
+  {
+    "initial": "Z",
+    "zip": "0536",
+    "name": "诸城"
+  },
+  {
+    "initial": "Z",
+    "zip": "0575",
+    "name": "诸暨"
+  },
+  {
+    "initial": "Z",
+    "zip": "0762",
+    "name": "紫金"
+  },
+  {
+    "initial": "Z",
+    "zip": "0794",
+    "name": "资溪"
+  },
+  {
+    "initial": "Z",
+    "zip": "0537",
+    "name": "邹城"
+  },
+  {
+    "initial": "Z",
+    "zip": "0543",
+    "name": "邹平"
+  },
+  {
+    "initial": "Z",
+    "zip": "0315",
+    "name": "遵化"
+  }
+]

@@ -1,0 +1,363 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/bg_header"
+    android:orientation="vertical">
+
+    <TextView
+        style="@style/textStyle.Normal.LightGray"
+        android:layout_width="match_parent"
+        android:layout_height="31dip"
+        android:background="@color/bg_view"
+        android:gravity="left|center_vertical"
+        android:paddingLeft="@dimen/margin_space"
+        android:text="基本信息" />
+
+    <View
+        style="@style/separator_line"
+        android:layout_marginLeft="@dimen/margin_space"
+        android:layout_marginRight="@dimen/margin_space" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/bg_view">
+
+        <TextView
+            android:id="@+id/title_ordersn_txtv"
+            style="@style/textStyle.Normal.Gray"
+            android:layout_width="match_parent"
+            android:layout_height="24dip"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:layout_marginTop="@dimen/margin_space_half"
+            android:gravity="left"
+            android:text="订单编号" />
+
+        <TextView
+            android:id="@+id/fee_ordersn_txtv"
+            style="@style/textStyle.Normal.LightGray"
+            android:layout_width="match_parent"
+            android:layout_height="24dip"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/margin_space"
+            android:layout_marginTop="@dimen/margin_space_half"
+            android:gravity="right" />
+
+        <TextView
+            android:id="@+id/title_addtime_txtv"
+            style="@style/textStyle.Normal.Gray"
+            android:layout_width="match_parent"
+            android:layout_height="24dip"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/title_ordersn_txtv"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:gravity="left"
+            android:text="下单时间" />
+
+        <TextView
+            android:id="@+id/fee_addtime_txtv"
+            style="@style/textStyle.Normal.LightGray"
+            android:layout_width="match_parent"
+            android:layout_height="24dip"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/title_ordersn_txtv"
+            android:layout_marginRight="@dimen/margin_space"
+            android:gravity="right" />
+
+        <TextView
+            android:id="@+id/title_paytype_txtv"
+            style="@style/textStyle.Normal.Gray"
+            android:layout_width="match_parent"
+            android:layout_height="24dip"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/fee_addtime_txtv"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:gravity="left"
+            android:text="支付方式" />
+
+        <TextView
+            android:id="@+id/fee_paytype_txtv"
+            style="@style/textStyle.Normal.LightGray"
+            android:layout_width="match_parent"
+            android:layout_height="24dip"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/fee_addtime_txtv"
+            android:layout_marginRight="@dimen/margin_space"
+            android:gravity="right" />
+
+        <TextView
+            android:id="@+id/title_getpoint_txtv"
+            style="@style/textStyle.Normal.Gray"
+            android:layout_width="match_parent"
+            android:layout_height="24dip"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/fee_paytype_txtv"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:gravity="left"
+            android:text="获得积分" />
+
+        <TextView
+            android:id="@+id/fee_getpoint_txtv"
+            style="@style/textStyle.Normal.lightRed"
+            android:layout_width="match_parent"
+            android:layout_height="24dip"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/fee_paytype_txtv"
+            android:layout_marginRight="@dimen/margin_space"
+            android:gravity="right" />
+
+        <TextView
+            android:id="@+id/title_getphone_txtv"
+            style="@style/textStyle.Normal.Gray"
+            android:layout_width="match_parent"
+            android:layout_height="24dip"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/title_getpoint_txtv"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:gravity="left"
+            android:text="接收手机" />
+
+        <TextView
+            android:id="@+id/phone_number_txtv"
+            style="@style/textStyle.Normal.lightRed"
+            android:layout_width="match_parent"
+            android:layout_height="24dip"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/title_getpoint_txtv"
+            android:layout_marginRight="@dimen/margin_space"
+            android:gravity="right" />
+
+        <LinearLayout
+            android:id="@+id/code_ll"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/phone_number_txtv"
+            android:orientation="vertical" />
+    </RelativeLayout>
+
+    <TextView
+        style="@style/textStyle.Normal.LightGray"
+        android:layout_width="match_parent"
+        android:layout_height="31dip"
+        android:background="@color/bg_view"
+        android:gravity="left|center_vertical"
+        android:paddingLeft="@dimen/margin_space"
+        android:text="价格信息" />
+
+    <View
+        style="@style/separator_line"
+        android:layout_marginLeft="@dimen/margin_space"
+        android:layout_marginRight="@dimen/margin_space" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/bg_view">
+
+        <TextView
+            android:id="@+id/title_goodsfee_txtv"
+            style="@style/textStyle.Normal.Gray"
+            android:layout_width="match_parent"
+            android:layout_height="24dip"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:gravity="left|center_vertical"
+            android:text="商品总额" />
+
+        <TextView
+            android:id="@+id/fee_goodsfee_txtv"
+            style="@style/textStyle.Normal.lightRed"
+            android:layout_width="match_parent"
+            android:layout_height="24dip"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/margin_space"
+            android:gravity="right|center_vertical" />
+
+        <TextView
+            android:id="@+id/title_shopping_txtv"
+            style="@style/textStyle.Normal.Gray"
+            android:layout_width="match_parent"
+            android:layout_height="24dip"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@id/title_goodsfee_txtv"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:gravity="left|center_vertical"
+            android:text="运费" />
+
+        <TextView
+            android:id="@+id/fee_shopping_txtv"
+            style="@style/textStyle.Normal.lightRed"
+            android:layout_width="match_parent"
+            android:layout_height="24dip"
+            android:layout_alignParentRight="true"
+            android:layout_below="@id/title_goodsfee_txtv"
+            android:layout_marginRight="@dimen/margin_space"
+            android:gravity="right|center_vertical" />
+
+        <TextView
+            android:id="@+id/title_coupon_txtv"
+            style="@style/textStyle.Normal.subTitle"
+            android:layout_width="match_parent"
+            android:layout_height="20dip"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@id/fee_shopping_txtv"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:gravity="left|center_vertical"
+            android:text="优惠券抵扣" />
+
+        <TextView
+            android:id="@+id/fee_coupon_txtv"
+            style="@style/textStyle.Normal.lightRed"
+            android:layout_width="match_parent"
+            android:layout_height="24dip"
+            android:layout_alignParentRight="true"
+            android:layout_below="@id/fee_shopping_txtv"
+            android:layout_marginRight="@dimen/margin_space"
+            android:gravity="right|center_vertical" />
+
+        <TextView
+            android:id="@+id/title_point_txtv"
+            style="@style/textStyle.Normal.subTitle"
+            android:layout_width="match_parent"
+            android:layout_height="20dip"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@id/fee_coupon_txtv"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:gravity="left|center_vertical"
+            android:text="积分抵扣" />
+
+        <TextView
+            android:id="@+id/fee_point_txtv"
+            style="@style/textStyle.Normal.lightRed"
+            android:layout_width="match_parent"
+            android:layout_height="20dip"
+            android:layout_alignParentRight="true"
+            android:layout_below="@id/fee_coupon_txtv"
+            android:layout_marginRight="@dimen/margin_space"
+            android:gravity="right|center_vertical" />
+
+        <TextView
+            android:id="@+id/title_prom_txtv"
+            style="@style/textStyle.Normal.subTitle"
+            android:layout_width="match_parent"
+            android:layout_height="20dip"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@id/title_point_txtv"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:gravity="left|center_vertical"
+            android:text="活动优惠" />
+
+        <TextView
+            android:id="@+id/fee_prom_txtv"
+            style="@style/textStyle.Normal.lightRed"
+            android:layout_width="match_parent"
+            android:layout_height="20dip"
+            android:layout_alignParentRight="true"
+            android:layout_below="@id/title_point_txtv"
+            android:layout_marginRight="@dimen/margin_space"
+            android:gravity="right|center_vertical" />
+
+        <TextView
+            android:id="@+id/title_balance_txtv"
+            style="@style/textStyle.Normal.subTitle"
+            android:layout_width="match_parent"
+            android:layout_height="24dip"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@id/title_prom_txtv"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:gravity="left|center_vertical"
+            android:text="余额支付" />
+
+        <TextView
+            android:id="@+id/fee_balance_txtv"
+            style="@style/textStyle.Normal.lightRed"
+            android:layout_width="match_parent"
+            android:layout_height="24dip"
+            android:layout_alignParentRight="true"
+            android:layout_below="@id/title_prom_txtv"
+            android:layout_marginRight="@dimen/margin_space"
+            android:gravity="right|center_vertical" />
+
+        <TextView
+            android:id="@+id/title_amount_txtv"
+            style="@style/textStyle.Normal.subTitle"
+            android:layout_width="match_parent"
+            android:layout_height="24dip"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@id/fee_balance_txtv"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:gravity="left|center_vertical"
+            android:text="实付金额" />
+
+        <TextView
+            android:id="@+id/fee_amount_txtv"
+            style="@style/textStyle.Normal.lightRed"
+            android:layout_width="match_parent"
+            android:layout_height="24dip"
+            android:layout_alignParentRight="true"
+            android:layout_below="@id/fee_balance_txtv"
+            android:layout_marginRight="@dimen/margin_space"
+            android:gravity="right|center_vertical" />
+    </RelativeLayout>
+
+    <TextView
+        style="@style/textStyle.Normal.LightGray"
+        android:layout_width="match_parent"
+        android:layout_height="31dip"
+        android:background="@color/bg_view"
+        android:gravity="left|center_vertical"
+        android:paddingLeft="@dimen/margin_space"
+        android:text="发票信息" />
+
+    <View
+        style="@style/separator_line"
+        android:layout_marginLeft="@dimen/margin_space"
+        android:layout_marginRight="@dimen/margin_space" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/bg_view">
+
+        <TextView
+            android:id="@+id/title_invoce_txtv"
+            style="@style/textStyle.Normal.Gray"
+            android:layout_width="match_parent"
+            android:layout_height="24dip"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:gravity="left|center_vertical"
+            android:text="发票抬头" />
+
+        <TextView
+            android:id="@+id/fee_invoce_txtv"
+            style="@style/textStyle.Normal.LightGray"
+            android:layout_width="match_parent"
+            android:layout_height="24dip"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/margin_space"
+            android:gravity="right|center_vertical" />
+
+        <TextView
+            android:id="@+id/title_code_txtv"
+            style="@style/textStyle.Normal.Gray"
+            android:layout_width="match_parent"
+            android:layout_height="24dip"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/title_invoce_txtv"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:gravity="left|center_vertical"
+            android:text="纳税人识别号" />
+
+        <TextView
+            android:id="@+id/fee_code_txtv"
+            style="@style/textStyle.Normal.LightGray"
+            android:layout_width="match_parent"
+            android:layout_height="24dip"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/title_invoce_txtv"
+            android:layout_marginRight="@dimen/margin_space"
+            android:gravity="right|center_vertical" />
+    </RelativeLayout>
+</LinearLayout>

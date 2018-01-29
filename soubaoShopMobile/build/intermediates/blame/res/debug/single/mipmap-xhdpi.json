@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/debug/mipmap-xhdpi/index_white.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/mipmap-xhdpi/index_white.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/debug/mipmap-xhdpi/icon_top.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/mipmap-xhdpi/icon_top.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/debug/mipmap-xhdpi/index_red.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/mipmap-xhdpi/index_red.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/debug/mipmap-xhdpi/icon_down.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/mipmap-xhdpi/icon_down.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/debug/mipmap-xhdpi/right_img.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/mipmap-xhdpi/right_img.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/debug/mipmap-xhdpi/go_top.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/mipmap-xhdpi/go_top.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/debug/mipmap-xhdpi/address_come_back.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/mipmap-xhdpi/address_come_back.png"
+    }
+]

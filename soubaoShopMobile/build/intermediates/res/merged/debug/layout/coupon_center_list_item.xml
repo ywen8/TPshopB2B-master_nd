@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/dp_100"
+    android:background="@color/bg_view">
+
+    <com.tpshop.mall.widget.SPBorderImageView
+        android:id="@+id/coupon_pic_imgv"
+        android:layout_width="80.0dip"
+        android:layout_height="80.0dip"
+        android:layout_marginLeft="@dimen/margin_space"
+        android:layout_marginTop="@dimen/margin_space"
+        android:background="@color/white"
+        android:scaleType="fitCenter"
+        android:src="@drawable/icon_product_null" />
+
+    <TextView
+        android:id="@+id/title_txtv"
+        style="@style/textStyle.Normal.LightGray"
+        android:layout_width="match_parent"
+        android:layout_height="35.0dip"
+        android:layout_marginLeft="@dimen/margin_space"
+        android:layout_marginRight="90dp"
+        android:layout_marginTop="@dimen/margin_space"
+        android:layout_toRightOf="@id/coupon_pic_imgv"
+        android:ellipsize="end"
+        android:gravity="left|center_vertical"
+        android:maxLines="2" />
+
+    <TextView
+        android:id="@+id/money_txtv"
+        style="@style/textStyle.Medium.LightGreenBlue"
+        android:layout_width="wrap_content"
+        android:layout_height="35.0dip"
+        android:layout_alignLeft="@+id/title_txtv"
+        android:layout_alignStart="@+id/title_txtv"
+        android:layout_below="@+id/title_txtv"
+        android:ellipsize="end"
+        android:gravity="left|center_vertical"
+        android:maxEms="6"
+        android:maxLines="1"
+        android:minWidth="20dp" />
+
+    <TextView
+        android:id="@+id/condition_txtv"
+        style="@style/textStyle.Normal.LightGreenBlue"
+        android:layout_width="match_parent"
+        android:layout_height="35.0dip"
+        android:layout_below="@+id/title_txtv"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="25dp"
+        android:layout_toLeftOf="@+id/coupon_progress_rlayout"
+        android:layout_toRightOf="@id/money_txtv"
+        android:ellipsize="end"
+        android:gravity="left|center_vertical"
+        android:maxEms="6"
+        android:maxLines="2" />
+
+    <!-- 还未领取 -->
+    <RelativeLayout
+        android:id="@+id/coupon_progress_rlayout"
+        android:layout_width="80dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:background="@color/green_blue">
+
+        <com.shinelw.library.ColorArcProgressBar
+            android:id="@+id/arc_bar"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="-15dp"
+            app:back_color="#48b3b5"
+            app:back_width="5dp"
+            app:front_color1="#ffffff"
+            app:front_color2="#ffffff"
+            app:front_color3="#ffffff"
+            app:front_width="5dp"
+            app:is_need_content="true"
+            app:is_need_title="true"
+            app:is_need_unit="true"
+            app:max_value="100"
+            app:string_title="已抢"
+            app:string_unit=""
+            app:total_engle="270" />
+
+        <ImageView
+            android:id="@+id/integral_buy_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="@dimen/margin_space_half"
+            android:background="@drawable/btn_greenblue_bg"
+            android:src="@drawable/icon_btn_coupon_get" />
+    </RelativeLayout>
+
+    <!-- 已经领取 -->
+    <RelativeLayout
+        android:id="@+id/coupon_use_rlayout"
+        android:layout_width="80dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:background="#e23435">
+
+        <ImageView
+            android:id="@+id/use_coupon_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="@dimen/margin_space_half"
+            android:background="@drawable/btn_greenblue_bg"
+            android:src="@drawable/icon_btn_coupon_use" />
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/obtain_imgv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="25dp"
+        android:src="@drawable/icon_coupon_gobain" />
+</RelativeLayout>

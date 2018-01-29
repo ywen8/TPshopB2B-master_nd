@@ -1,0 +1,63 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/bg_view">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="90dp">
+
+        <ImageView
+            android:id="@+id/product_pic_imgv"
+            android:layout_width="80.0dip"
+            android:layout_height="80.0dip"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:layout_marginTop="@dimen/margin_space_half"
+            android:background="@color/white"
+            android:scaleType="fitCenter"
+            android:src="@drawable/icon_product_null" />
+
+        <TextView
+            android:id="@+id/product_name_txtv"
+            style="@style/textStyle.Normal.black"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin_space_half"
+            android:layout_marginRight="@dimen/margin_space"
+            android:layout_marginTop="15dp"
+            android:layout_toLeftOf="@+id/delete_btn"
+            android:layout_toRightOf="@id/product_pic_imgv"
+            android:ellipsize="end"
+            android:gravity="left"
+            android:maxEms="6"
+            android:maxLines="2" />
+
+        <TextView
+            android:id="@+id/product_price_txtv"
+            style="@style/textStyle.Normal.lightRed"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/product_name_txtv"
+            android:layout_marginLeft="@dimen/margin_space_half"
+            android:layout_marginTop="@dimen/margin_space"
+            android:layout_toRightOf="@id/product_pic_imgv"
+            android:ellipsize="end"
+            android:gravity="left|center_vertical"
+            android:maxEms="6"
+            android:maxLines="1" />
+
+        <Button
+            android:id="@+id/delete_btn"
+            android:layout_width="60dip"
+            android:layout_height="30dip"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginBottom="10dip"
+            android:layout_marginRight="@dimen/margin_space"
+            android:background="@drawable/button_border_w_selector"
+            android:focusable="false"
+            android:text="@string/delete"
+            android:textColor="@color/black" />
+    </RelativeLayout>
+</RelativeLayout>

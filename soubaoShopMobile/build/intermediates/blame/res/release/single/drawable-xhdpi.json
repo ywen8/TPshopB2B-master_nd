@@ -1,0 +1,1286 @@
+[
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/success.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/success.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/my_card.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/my_card.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/order_center_shopping_title.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/order_center_shopping_title.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_home_youlike_title.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_home_youlike_title.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/order_center_message.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/order_center_message.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_titlebar_shopcart_press.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_titlebar_shopcart_press.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/pay_cod.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/pay_cod.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/item_goods_ensure.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/item_goods_ensure.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_address_divison.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_address_divison.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_home_searbox_bg_w.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_home_searbox_bg_w.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_coupon_used.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_coupon_used.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/common_title_back_selected.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/common_title_back_selected.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/end_time.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/end_time.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/search_bar_edit_pressed.9.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/search_bar_edit_pressed.9.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/w3.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/w3.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/capital_withdraw.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/capital_withdraw.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_home_search_w.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_home_search_w.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/gender_male_normal.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/gender_male_normal.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_seven_day.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_seven_day.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/virtual_order.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/virtual_order.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_pay_success.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_pay_success.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/job_hunting_press.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/job_hunting_press.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/my_balance.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/my_balance.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_attention_checked.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_attention_checked.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_marka.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_marka.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/fight_groups.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/fight_groups.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/my_about_us.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/my_about_us.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/guanzhu2.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/guanzhu2.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/job_hunting.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/job_hunting.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_move_line.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_move_line.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_coupon_blue_btn_normal.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_coupon_blue_btn_normal.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/ic_home_arrows_focus.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/ic_home_arrows_focus.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_coupon_gray_btn_normal.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_coupon_gray_btn_normal.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/btn_bg_normal.9.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/btn_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/umeng_socialize_copy.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/umeng_socialize_copy.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/personal_icon_account_manager_arrow.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/personal_icon_account_manager_arrow.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_search_edit.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_search_edit.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_logion_qq_normal.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_logion_qq_normal.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/bg_left_white_normal.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/bg_left_white_normal.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/loading4.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/loading4.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/view_shop.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/view_shop.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/merchants_shop3_gray.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/merchants_shop3_gray.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/personal_order_mine_icon.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/personal_order_mine_icon.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_arrow_detail.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_arrow_detail.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/loading8.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/loading8.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/ic_indicators_now.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/ic_indicators_now.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/order_center_btn_background.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/order_center_btn_background.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/time_count_promote.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/time_count_promote.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/h_line.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/h_line.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_menu_brand_street.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_menu_brand_street.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/appicon.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/appicon.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/photo.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/photo.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/loading2.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/loading2.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_product_null.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_product_null.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/bg_right_red_select.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/bg_right_red_select.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_titlebar_shopcart_normal.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_titlebar_shopcart_normal.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/search_bar_icon_normal.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/search_bar_icon_normal.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_menu_store_street.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_menu_store_street.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/list_check_p.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/list_check_p.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_flash_sale.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_flash_sale.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_shopcart.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_shopcart.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_menu_user_center.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_menu_user_center.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/xuanze_w.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/xuanze_w.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_open_pwd.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_open_pwd.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_home_menu_first.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_home_menu_first.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_attention_normal.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_attention_normal.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/radio_checked.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/radio_checked.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/w1.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/w1.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_store_attention_check.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_store_attention_check.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/personal_order_send_icon.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/personal_order_send_icon.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/bg_mid_white_normal.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/bg_mid_white_normal.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/bg_edit_transparent.9.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/bg_edit_transparent.9.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/refresh1.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/refresh1.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/titlebar_background.9.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/titlebar_background.9.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_edit.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_edit.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/merchants_examine.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/merchants_examine.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/input_collect.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/input_collect.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/bg_line_write.9.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/bg_line_write.9.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/local_mall_press.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/local_mall_press.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_logion_qq_press.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_logion_qq_press.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_store_attention_normal.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_store_attention_normal.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_logion_wx_normal.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_logion_wx_normal.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/distribution_order.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/distribution_order.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_home_menu_sec.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_home_menu_sec.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/commission.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/commission.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/address_edit.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/address_edit.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/product_like.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/product_like.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_brand_null.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_brand_null.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/pay_wechat.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/pay_wechat.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_clear_input.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_clear_input.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/btn_small_normal.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/btn_small_normal.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_more.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_more.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_home_msg.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_home_msg.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_order_store_section.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_order_store_section.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/search_clear_normal.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/search_clear_normal.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/merchants_shop2_red.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/merchants_shop2_red.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/umeng_socialize_title_back_bt_selected.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/umeng_socialize_title_back_bt_selected.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/umeng_socialize_share_web.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/umeng_socialize_share_web.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_search_bg.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_search_bg.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_close.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_close.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/merchants_shop3_red.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/merchants_shop3_red.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/local_mall.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/local_mall.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_checkno.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_checkno.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_category_title_ad_default.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_category_title_ad_default.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/merchants_shop2_gray.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/merchants_shop2_gray.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_attention.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_attention.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_detail_comment_checked.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_detail_comment_checked.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/btn_bg_disable.9.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/btn_bg_disable.9.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/shop_icon_price_asc.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/shop_icon_price_asc.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_menu_good_promote.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_menu_good_promote.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_top_btn.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_top_btn.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_detail_comment_normal.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_detail_comment_normal.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/product_unlike.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/product_unlike.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_menu_category.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_menu_category.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/new_distribution.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/new_distribution.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_coupon_center.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_coupon_center.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_level_two.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_level_two.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_shopcart_empty.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_shopcart_empty.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/distribution_right.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/distribution_right.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/refresh2.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/refresh2.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_flash_title_bg.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_flash_title_bg.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/search_clear_pressed.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/search_clear_pressed.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_message.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_message.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/distribution_detail.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/distribution_detail.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/navi_guide_turn.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/navi_guide_turn.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_home_hot_title.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_home_hot_title.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_cart_count.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_cart_count.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/arrow_right.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/arrow_right.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/guanzhu1.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/guanzhu1.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/my_team.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/my_team.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/personal_order_purchased_icon.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/personal_order_purchased_icon.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_cart_cart_top.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_cart_cart_top.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/msg_center_asset.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/msg_center_asset.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_filter_sort_checked.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_filter_sort_checked.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/bg_loading_circle.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/bg_loading_circle.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/to_down.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/to_down.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/product_cart.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/product_cart.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/capital_topup.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/capital_topup.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/hot_cat.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/hot_cat.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_scan_press.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_scan_press.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/refresh3.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/refresh3.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_search_close_normal.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_search_close_normal.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/receivingcompleted.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/receivingcompleted.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/fail.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/fail.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/distributionbg.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/distributionbg.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_store_section_more.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_store_section_more.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_up_small.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_up_small.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/loading3.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/loading3.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/local_news.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/local_news.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/bg_right_white_normal.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/bg_right_white_normal.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_customer.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_customer.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/distribution_setting.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/distribution_setting.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/msg_number_background.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/msg_number_background.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/merchants_btn_close.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/merchants_btn_close.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/personal_icon_order_notify_bg.9.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/personal_icon_order_notify_bg.9.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_filter_sort_normal.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_filter_sort_normal.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/category_default.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/category_default.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/umeng_socialize_alipay.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/umeng_socialize_alipay.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_store_right.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_store_right.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/xxtm_logo.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/xxtm_logo.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_home_new_title.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_home_new_title.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/umeng_socialize_fav.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/umeng_socialize_fav.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_markb.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_markb.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/dianpusell.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/dianpusell.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/umeng_socialize_share_music.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/umeng_socialize_share_music.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_start_checked_normal.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_start_checked_normal.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/distribution_sort.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/distribution_sort.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/msg_center_logistics.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/msg_center_logistics.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_contact_customer.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_contact_customer.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_secrecy_pwd.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_secrecy_pwd.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/w2.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/w2.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/msg_center_shop.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/msg_center_shop.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_distribution.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_distribution.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_shop.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_shop.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/umeng_socialize_title_right_bt_normal.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/umeng_socialize_title_right_bt_normal.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/national_mall_press.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/national_mall_press.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/umeng_socialize_wechat.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/umeng_socialize_wechat.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/bg_edit_write.9.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/bg_edit_write.9.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_location.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_location.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/loading5.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/loading5.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/umeng_socialize_title_back_bt_normal.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/umeng_socialize_title_back_bt_normal.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/my_feedback.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/my_feedback.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/shop_icon_price_normal.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/shop_icon_price_normal.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/bd0.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/bd0.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/splash.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/splash.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_msg.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_msg.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/topbar_message.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/topbar_message.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/umeng_socialize_qq.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/umeng_socialize_qq.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/share.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/share.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_store_section_right.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_store_section_right.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/personal_order_all_icon.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/personal_order_all_icon.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/umeng_socialize_x_button.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/umeng_socialize_x_button.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/title_back_normal.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/title_back_normal.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/umeng_socialize_share_pic.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/umeng_socialize_share_pic.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_order_status_seprator.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_order_status_seprator.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/dianputel.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/dianputel.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/msg_center_sale.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/msg_center_sale.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/shop_icon_price_desc.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/shop_icon_price_desc.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/ic_indicators_default.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/ic_indicators_default.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_enter_store.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_enter_store.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_order_empty.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_order_empty.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/loading7.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/loading7.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_flash_sale_empty.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_flash_sale_empty.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/personal_order_returned_icon.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/personal_order_returned_icon.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/xuanze.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/xuanze.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_visit_history.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_visit_history.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_del_normal.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_del_normal.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/umeng_socialize_title_right_bt_selected.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/umeng_socialize_title_right_bt_selected.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/ic_launcher.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/title_back_selected.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/title_back_selected.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/coupon_center_press.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/coupon_center_press.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/person_head_bg.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/person_head_bg.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_coupon_gobain.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_coupon_gobain.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_menu_integral_mall.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_menu_integral_mall.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/umeng_socialize_wxcircle.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/umeng_socialize_wxcircle.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/my_system_setting.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/my_system_setting.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_own_shop.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_own_shop.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/bd7.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/bd7.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/dianpucode.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/dianpucode.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/w4.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/w4.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_search_close_press.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_search_close_press.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/ic_into_arrow.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/ic_into_arrow.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/flight_text_cancel_pressed.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/flight_text_cancel_pressed.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_collect.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_collect.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/merchants_close.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/merchants_close.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/umeng_socialize_sina.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/umeng_socialize_sina.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/pay_alipay.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/pay_alipay.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_minus_normal.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_minus_normal.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/umeng_socialize_share_video.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/umeng_socialize_share_video.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/title_close_normal.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/title_close_normal.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/b_input.9.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/b_input.9.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/umeng_socialize_qzone.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/umeng_socialize_qzone.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/flowing.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/flowing.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/refresh4.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/refresh4.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/umeng_socialize_menu_default.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/umeng_socialize_menu_default.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_menu_group_buy.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_menu_group_buy.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_store_class.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_store_class.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/serviceonline.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/serviceonline.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/msg_center_alert.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/msg_center_alert.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/title_back_white_normal.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/title_back_white_normal.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_start_checked_small.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_start_checked_small.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/msg_center_settings.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/msg_center_settings.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/smartbar_background.9.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/smartbar_background.9.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_track_oepn.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_track_oepn.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/voice_close.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/voice_close.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_menu_coupon_center.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_menu_coupon_center.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/gender_female_normal.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/gender_female_normal.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/product_list_top_grid_normal.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/product_list_top_grid_normal.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/jshop_searchbar_search.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/jshop_searchbar_search.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/merchants_btn_open.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/merchants_btn_open.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_btn_coupon_use.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_btn_coupon_use.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/personal_arrow_right.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/personal_arrow_right.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_address.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_address.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/fight_groups_press.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/fight_groups_press.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/my_coupon.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/my_coupon.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_plus_press.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_plus_press.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/store_type_img.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/store_type_img.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/local_news_press.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/local_news_press.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_msg_normal.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_msg_normal.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/umeng_socialize_copyurl.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/umeng_socialize_copyurl.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_collect_checked.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_collect_checked.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/add.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/add.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/bg_left_red_select.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/bg_left_red_select.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_home_menu_third.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_home_menu_third.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_checked.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_checked.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_level_one.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_level_one.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/commod_carmera.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/commod_carmera.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_msg_press.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_msg_press.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/radio_nocheck.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/radio_nocheck.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/my_address.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/my_address.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_level_three.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_level_three.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_search.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_search.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/common_title_back_normal.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/common_title_back_normal.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/dianpuservice.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/dianpuservice.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_collect_normal.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_collect_normal.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/loading1.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/loading1.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/coupon_center.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/coupon_center.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_home_menu_fourth.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_home_menu_fourth.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_track_close.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_track_close.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_coupon_unuse.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_coupon_unuse.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/promote.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/promote.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/national_mall.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/national_mall.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/product_list_top_grid_selected.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/product_list_top_grid_selected.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/btn_bg_press.9.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/btn_bg_press.9.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_start_uncheck_small.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_start_uncheck_small.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_no_data.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_no_data.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/change_w.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/change_w.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/gender_male_checked.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/gender_male_checked.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/merchants_shop4_red.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/merchants_shop4_red.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/umeng_socialize_more.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/umeng_socialize_more.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/logistics_service.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/logistics_service.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/bg_mid_red_select.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/bg_mid_red_select.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_logion_wx_press.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_logion_wx_press.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/dianpugoods.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/dianpugoods.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/bcy.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/bcy.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/msg_serverice.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/msg_serverice.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/loading6.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/loading6.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/qrcode_scan_line.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/qrcode_scan_line.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_plus_normal.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_plus_normal.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_start_uncheck_normal.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_start_uncheck_normal.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_btn_coupon_get.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_btn_coupon_get.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_setting.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_setting.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/xxtm_circle.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/xxtm_circle.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_greenblue_normal.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_greenblue_normal.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/wuhuo.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/wuhuo.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/member_center.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/member_center.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/merchants_shop4_gray.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/merchants_shop4_gray.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/umeng_socialize_back_icon.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/umeng_socialize_back_icon.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/personal_icon_default_avatar.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/personal_icon_default_avatar.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/search_bar_edit_normal.9.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/search_bar_edit_normal.9.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/person_default_head.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/person_default_head.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/personal_order_comment_icon.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/personal_order_comment_icon.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_minus_press.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_minus_press.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/gender_female_checked.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/gender_female_checked.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/voice_open.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/voice_open.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/merchants_shop1_red.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/merchants_shop1_red.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/umeng_socialize_delete.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/umeng_socialize_delete.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/order_center_look.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/order_center_look.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/ic_home_arrows_normal.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/ic_home_arrows_normal.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/personal_order_accepted_icon.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/personal_order_accepted_icon.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/drawable-xhdpi/icon_title_close.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xhdpi/icon_title_close.png"
+    }
+]

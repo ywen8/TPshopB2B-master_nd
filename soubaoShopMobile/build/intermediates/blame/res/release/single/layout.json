@@ -1,0 +1,1130 @@
+[
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/distribution_order_header.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/distribution_order_header.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/home_middle_product_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/home_middle_product_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/order_invoce.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/order_invoce.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/activity_spmy_shop.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/activity_spmy_shop.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/fragment_goods_info.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/fragment_goods_info.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/activity_spbrowsing_history.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/activity_spbrowsing_history.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/store_street_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/store_street_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/design_layout_snackbar.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/person_fragment.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/person_fragment.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/common_search_key_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/common_search_key_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/message_center.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/message_center.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/activity_spmy_team.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/activity_spmy_team.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/activity_associated_account.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/activity_associated_account.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/category_grid_ad_title_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/category_grid_ad_title_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/wx_pay_result.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/wx_pay_result.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/product_scrollview.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/product_scrollview.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/star_view.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/star_view.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/activity_spditribute_list.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/activity_spditribute_list.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/activity_spreceiving_completed.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/activity_spreceiving_completed.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/shopcart_empty_footer.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/shopcart_empty_footer.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/virtual_order_vrorder.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/virtual_order_vrorder.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/seriver_pic.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/seriver_pic.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/jpush_webview_layout.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/res/layout/jpush_webview_layout.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/store_about.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/store_about.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/abc_action_menu_layout.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/home_sec_menu_navigation_slice.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/home_sec_menu_navigation_slice.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/home_menu_navigation_slice.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/home_menu_navigation_slice.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/dialog_keyboard.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/dialog_keyboard.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/goods_item_head_img.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/goods_item_head_img.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/person_coupon_main_view.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/person_coupon_main_view.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/abc_screen_simple.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/loading_small_dialog.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/loading_small_dialog.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/common_search.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/common_search.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/store_about_score_slice.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/store_about_score_slice.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/distribution_order_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/distribution_order_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/product_list_recy_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/product_list_recy_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/design_layout_tab_text.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/layout_super_refresh_recycler.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/layout_super_refresh_recycler.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/person_coupon_list_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/person_coupon_list_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/activity_spvirtual_order.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/activity_spvirtual_order.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/push_message_list_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/push_message_list_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/top_popup_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/top_popup_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/jpush_popwin_layout.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/cn.jiguang.sdk/jpush/3.0.5/res/layout/jpush_popwin_layout.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/find_password_activity.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/find_password_activity.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/view_header.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.truizlop.sectionedrecyclerview/library/1.2.0/res/layout/view_header.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/activity_spmy_shopsetting.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/activity_spmy_shopsetting.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/message_list_item_asset.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/message_list_item_asset.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/order_confirm_order_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/order_confirm_order_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/shopcart_empty.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/shopcart_empty.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/person_address_list.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/person_address_list.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/consignee_address_edit.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/consignee_address_edit.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/layout_footer_loading.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/layout_footer_loading.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/commodity_evaluation.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/commodity_evaluation.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/customer_title.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/customer_title.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/person_order_fragment_view.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/person_order_fragment_view.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/person_head_slice.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/person_head_slice.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/include_viewpager.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.bigkoo/convenientbanner/2.0.5/res/layout/include_viewpager.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/distribute_list_product_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/distribute_list_product_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/text_area.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/text_area.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/message_list_item_time_header.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/message_list_item_time_header.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/message_list_item_logistics.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/message_list_item_logistics.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/product_recy_home_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/product_recy_home_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/spdistribute_list_tab_view.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/spdistribute_list_tab_view.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/activity_order_center.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/activity_order_center.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/person_address_list_item_new.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/person_address_list_item_new.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/person_setting_list.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/person_setting_list.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/design_navigation_item_separator.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/brand_street_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/brand_street_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/toast.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/toast.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/webview_titlebar.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/webview_titlebar.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/flash_sale.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/flash_sale.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/order_coupon_list_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/order_coupon_list_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/activity_index_gallery_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/activity_index_gallery_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/order_confirm_order_productlist_slice.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/order_confirm_order_productlist_slice.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/order_confirm_virtual_order.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/order_confirm_virtual_order.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/parent_layout.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/parent_layout.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/order_confirm_order.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/order_confirm_order.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/category_fragment.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/category_fragment.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/abc_screen_content_include.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/home_sec_header_view.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/home_sec_header_view.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/design_navigation_item_header.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/group_list_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/group_list_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/activity_user_gender.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/activity_user_gender.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/register_forget.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/register_forget.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/person_store_collect_list_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/person_store_collect_list_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/order_list_item_service_details.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/order_list_item_service_details.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/activity_spchange_email.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/activity_spchange_email.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/message_list_item_content_item2.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/message_list_item_content_item2.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/person_coupon_center_fragment_view.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/person_coupon_center_fragment_view.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/titlebar_more.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/titlebar_more.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/shopcart_list_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/shopcart_list_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/message_notice_fragment.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/message_notice_fragment.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/coupon_center_list_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/coupon_center_list_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/store_product_list.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/store_product_list.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/activity_sprecharge_completed.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/activity_sprecharge_completed.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/design_navigation_menu.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/pinyin_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/pinyin_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/flash_sale_header.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/flash_sale_header.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/distribution_order_footer.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/distribution_order_footer.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/category_grid_title_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/category_grid_title_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/activity_pin_yin.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/activity_pin_yin.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/activity_spmerchants_shop.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/activity_spmerchants_shop.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/titlebar.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/titlebar.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/category_left_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/category_left_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/activity_capture.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/activity_capture.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/browing_header.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/browing_header.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/city_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/city_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/list_three_filter_view.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/list_three_filter_view.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/store_goods_class.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/store_goods_class.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/include_search_box.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/include_search_box.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/search_heard_view.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/search_heard_view.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/activity_spuser_details.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/activity_spuser_details.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/message_notice_fragment_activity.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/message_notice_fragment_activity.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/order_confirm_order_footer.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/order_confirm_order_footer.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/person_collect_list.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/person_collect_list.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/spmy_shop_header.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/spmy_shop_header.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/design_navigation_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/pager_navigator_layout.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/TPshopB2B-master_nd/magicindicator_library/unspecified/res/layout/pager_navigator_layout.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/consignee_select_citiy.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/consignee_select_citiy.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/shopcart_fragment.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/shopcart_fragment.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/store_goods_class_grid_title_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/store_goods_class_grid_title_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/store_home_footer.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/store_home_footer.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/item_recommend_goods_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/item_recommend_goods_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/order_list_item_footer.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/order_list_item_footer.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/product_details_sec.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/product_details_sec.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/order_coupon_list.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/order_coupon_list.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/design_navigation_menu_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/product_details_comment_list_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/product_details_comment_list_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/category_titlebar.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/category_titlebar.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/activity_top_up.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/activity_top_up.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/brand_street.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/brand_street.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/include_item_tab.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/include_item_tab.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/message_settings_list_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/message_settings_list_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/store_home.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/store_home.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/list_store_section_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/list_store_section_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/activity_spoffline_alliance.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/activity_spoffline_alliance.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/umeng_socialize_shareboard_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/umeng_socialize_shareboard_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/abc_search_view.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/category_right_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/category_right_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/separator_line_margin_slice.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/separator_line_margin_slice.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/umeng_socialize_oauth_dialog.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/umeng_socialize_oauth_dialog.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/layout_refresh_header.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/layout_refresh_header.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/common_search_hotkey_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/common_search_hotkey_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/top_popup.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/top_popup.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/shopcart_empty_header.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/shopcart_empty_header.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/activity_apply.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/activity_apply.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/activity_spmerchants_settled.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/activity_spmerchants_settled.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/integral_mall.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/integral_mall.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/include_product_list_header_sort.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/include_product_list_header_sort.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/warm_dialog.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/warm_dialog.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/distribution_team_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/distribution_team_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/message_settings.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/message_settings.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/order_detail_product_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/order_detail_product_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/notification_template_big_media.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/select_dialog_item_material.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/activity_spcapital_manage.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/activity_spcapital_manage.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/abc_screen_toolbar.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/push_message.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/push_message.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/confirm_dialog_layout.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/confirm_dialog_layout.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/order_list_store_section_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/order_list_store_section_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/browing_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/browing_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/person_order_category_slice.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/person_order_category_slice.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/product_details_bottom_operator.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/product_details_bottom_operator.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/activity_welcome.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/person_settings_list_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/person_settings_list_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/message_list_item_service.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/message_list_item_service.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/order_list_item_service_header.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/order_list_item_service_header.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/order_details.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/order_details.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/right_arrow_row_view.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/right_arrow_row_view.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/text_gallery_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/text_gallery_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/order_list.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/order_list.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/image_preview.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/image_preview.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/activity_sppay_pwd.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/activity_sppay_pwd.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/good_promote_list.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/good_promote_list.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/notification_template_lines.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/coupon_center.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/coupon_center.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/product_details_bottom_operator2.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/product_details_bottom_operator2.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/store_home_header.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/store_home_header.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/tag.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/tag.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/store_street_list.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/store_street_list.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/activity_spchange_nickname.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/activity_spchange_nickname.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/city_list_header.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/city_list_header.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/product_spec_cart_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/product_spec_cart_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/common_webview_main.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/common_webview_main.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/activity_title.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/activity_title.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/fragment_spdistribute_list_filter.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/fragment_spdistribute_list_filter.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/order_invoce_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/order_invoce_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/fragment_spproduct_list_filter_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/fragment_spproduct_list_filter_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/activity_bind_account.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/activity_bind_account.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/person_goods_collect_list.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/person_goods_collect_list.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/order_confirm_order_header.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/order_confirm_order_header.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/abc_dialog_title_material.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/order_center_list_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/order_center_list_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/notification_media_cancel_action.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/star_small_view.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/star_small_view.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/design_layout_tab_icon.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/spproduct_list_tab_view.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/spproduct_list_tab_view.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/activity_splash.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/integral_mall_header.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/integral_mall_header.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/brand_street_header.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/brand_street_header.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/design_menu_item_action_area.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/notification_media_action.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/group_list.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/group_list.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/abc_select_dialog_material.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/activity_splogin.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/activity_splogin.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/activity_withdraw.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/activity_withdraw.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/message_list_item_content.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/message_list_item_content.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/order_list_item_service_footer.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/order_list_item_service_footer.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/person_coupon_fragment_view.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/person_coupon_fragment_view.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/socialize_share_menu_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/socialize_share_menu_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/home_flash_sale.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/home_flash_sale.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/group_buy_header.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/group_buy_header.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/flash_sale_list_fragment_view.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/flash_sale_list_fragment_view.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/saller_info_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/saller_info_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/person_integrate_row_slice.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/person_integrate_row_slice.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/product_list.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/product_list.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/distribute_store_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/distribute_store_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/integral_list_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/integral_list_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/person_collect_main_view.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/person_collect_main_view.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/item_recommend.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/item_recommend.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/store_street.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/store_street.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/child_layout.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/child_layout.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/product_details_spec.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/product_details_spec.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/message_center_list_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/message_center_list_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/fragment_spproduct_list_filter.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/fragment_spproduct_list_filter.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/order_list_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/order_list_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/consignee_select_citiy_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/consignee_select_citiy_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/order_detail_footer.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/order_detail_footer.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/flash_sale_list_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/flash_sale_list_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/activity_spditribution_center.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/activity_spditribution_center.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/home_sec_fragment.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/home_sec_fragment.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/message_list_item_time_header_empty.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/message_list_item_time_header_empty.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/order_confirm_order_product_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/order_confirm_order_product_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/store_map.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/store_map.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/activity_spdistribution_center.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/activity_spdistribution_center.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/pay_list.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/pay_list.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/type_select_citiy.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/type_select_citiy.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/store_goods_class_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/store_goods_class_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/product_show_list_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/product_show_list_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/webview_main.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/webview_main.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/cart_section_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/cart_section_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/person_collect_list_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/person_collect_list_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/notification_template_media.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/product_list_header.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/product_list_header.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/store_about_info_slice.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/store_about_info_slice.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/activity_spchange_mobile.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/activity_spchange_mobile.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/pager_navigator_layout_no_scroll.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/TPshopB2B-master_nd/magicindicator_library/unspecified/res/layout/pager_navigator_layout_no_scroll.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/product_spec_list_footer.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/product_spec_list_footer.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/abc_action_mode_bar.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/product_details_comment_list.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/product_details_comment_list.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/main.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/modify_password.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/modify_password.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/update_view.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/update_view.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/product_recy_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/product_recy_item.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/product_show_list.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/product_show_list.xml"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/release/layout/order_button_gallery_item.xml",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/layout/order_button_gallery_item.xml"
+    }
+]

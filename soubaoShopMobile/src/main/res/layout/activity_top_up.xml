@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white">
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/height_row"
+        android:gravity="center_vertical"
+        android:paddingLeft="20dp"
+        android:text="@string/top_up_money"
+        android:textColor="@color/person_info_text" />
+
+    <EditText
+        android:id="@+id/txt_top_up_money"
+        style="@style/edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_row"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/textView6"
+        android:numeric="integer"
+        android:paddingLeft="20dp" />
+
+    <View
+        android:id="@+id/line"
+        style="@style/separator_line"
+        android:layout_below="@+id/txt_top_up_money" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_row"
+        android:layout_below="@+id/line"
+        android:background="@android:color/white"
+        android:gravity="center_vertical"
+        android:paddingLeft="20dp"
+        android:text="@string/top_up_remark"
+        android:textColor="@color/person_info_text" />
+
+    <EditText
+        android:id="@+id/top_up_remark"
+        style="@style/edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_100"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView7"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/bg_line_write"
+        android:gravity="left"
+        android:hint="@string/top_up_remark_hint"
+        android:inputType="text"
+        android:lines="3"
+        android:maxLength="50"
+        android:textColorHint="#666" />
+
+    <Button
+        android:id="@+id/btn_submit"
+        style="@style/button_style"
+        android:layout_width="match_parent"
+        android:layout_below="@+id/top_up_remark"
+        android:layout_margin="30dp"
+        android:layout_marginTop="40dp"
+        android:enabled="false"
+        android:onClick="onSubmitClick"
+        android:text="@string/top_up_submit" />
+</RelativeLayout>

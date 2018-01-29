@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="190dip"
+    android:background="@color/bg_view"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.tpshop.mall.widget.SPPageView
+            android:id="@+id/pagev"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:scrollbars="none">
+
+            <LinearLayout
+                android:id="@+id/content_lyaout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_vertical"
+                android:orientation="horizontal"/>
+        </com.tpshop.mall.widget.SPPageView>
+
+        <LinearLayout
+            android:id="@+id/pointer_layout"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/height_pointer"
+            android:layout_alignParentBottom="true"
+            android:gravity="center_horizontal|center_vertical"
+            android:orientation="horizontal" />
+
+        <ImageView
+            android:id="@+id/page_empty_imgv"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/icon_flash_sale_empty"
+            android:visibility="gone" />
+    </RelativeLayout>
+</LinearLayout>

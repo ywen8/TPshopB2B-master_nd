@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/confirm_rl"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_activity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/commit_rl"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="20dp"
+            android:text="购物信息 (请仔细填写手机号，以确保电子兑换码准确发到您的手机。)" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="5dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/bg_left"
+                android:gravity="center"
+                android:text="手机号码"
+                android:textSize="@dimen/textSizeNormal" />
+
+            <EditText
+                android:id="@+id/phone_edtv"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="4"
+                android:background="@drawable/bg_right2"
+                android:hint="请输入您的手机号码"
+                android:inputType="phone"
+                android:textSize="@dimen/textSizeNormal" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="5dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/bg_left"
+                android:gravity="center"
+                android:text="买家留言"
+                android:textSize="@dimen/textSizeNormal" />
+
+            <EditText
+                android:id="@+id/message_edtv"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="4"
+                android:background="@drawable/bg_right2"
+                android:hint="选填:对本次交易的说明（建议填写已经和商家达成一致的说明）"
+                android:textSize="@dimen/textSizeNormal" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="5dp"
+            android:text="注意：虚拟服务类商品订单凭借电子兑换码验证消费"
+            android:textColor="@color/light_red"
+            android:textSize="@dimen/textSizeNormal" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="5dp"
+            android:text="说明：您本次购买的商品不需要收货地址，请正确输入接收手机号码，确保及时获得“电子兑换码”。可使用您已经绑定的手机或重新输入其它手机号码。"
+            android:textColor="@color/light_red"
+            android:textSize="@dimen/textSizeNormal" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp">
+
+            <ImageView
+                android:id="@+id/goodImg"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/icon_product_null" />
+
+            <TextView
+                android:id="@+id/goodName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignTop="@+id/goodImg"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_toRightOf="@+id/goodImg"
+                android:ellipsize="end"
+                android:lines="1"
+                android:textSize="@dimen/textSizeMedium" />
+
+            <TextView
+                android:id="@+id/goodPrice"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/goodName"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_toRightOf="@+id/goodImg"
+                android:textColor="@color/light_red"
+                android:textSize="@dimen/textSizeMedium" />
+
+            <TextView
+                android:id="@+id/goodNum"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_alignTop="@+id/goodPrice"
+                android:textColor="@color/light_red"
+                android:textSize="@dimen/textSizeMedium" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/commit_rl"
+        android:layout_width="match_parent"
+        android:layout_height="45dip"
+        android:layout_alignParentBottom="true"
+        android:background="@color/white">
+
+        <View style="@style/separator_line" />
+
+        <TextView
+            android:id="@+id/totalFee"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginRight="10dp"
+            android:layout_toLeftOf="@+id/pay_btn"
+            android:gravity="center"
+            android:textSize="@dimen/textSizeMedium" />
+
+        <Button
+            android:id="@+id/pay_btn"
+            android:layout_width="120dip"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/button_selector"
+            android:text="@string/order_pay"
+            android:textColor="@color/white" />
+    </RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:background="@drawable/view_bg_clickable_selector"
+        android:orientation="horizontal">
+
+        <RelativeLayout
+            android:layout_width="70dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="3dp">
+
+            <ImageView
+                android:id="@+id/mall_dongdong_iv"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:layout_centerInParent="true" />
+
+            <RelativeLayout
+                android:id="@+id/mall_dongdong_rl"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:layout_alignParentRight="true" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="3dp"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/mall_dongdong_title"
+                    style="@style/textStyle.Medium.black"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="2"
+                    android:ellipsize="end"
+                    android:gravity="bottom" />
+
+                <TextView
+                    android:id="@+id/mall_dongdong_time"
+                    style="textStyle.Medium.subTitle"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginRight="8dp"
+                    android:layout_weight="3"
+                    android:gravity="bottom|right" />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/mall_dongdong_info"
+                style="textStyle.Medium.subTitle"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:ellipsize="end"
+                android:gravity="center_vertical"
+                android:singleLine="true" />
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

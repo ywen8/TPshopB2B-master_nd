@@ -1,0 +1,124 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/titlebar_layout"
+    android:layout_width="fill_parent"
+    android:layout_height="50dip"
+    android:background="@color/bg_view">
+
+    <FrameLayout
+        android:id="@+id/titlebar_normal_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/titlebar_back_imgv"
+            android:layout_width="12dp"
+            android:layout_height="22dp"
+            android:layout_gravity="left|center_vertical"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:background="@drawable/title_back_selector"
+            android:gravity="center" />
+
+        <Button
+            android:id="@+id/titlebar_back_btn"
+            android:layout_width="50dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="left|center_vertical"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:background="#00000000" />
+
+        <TextView
+            android:id="@+id/titlebar_title_txtv"
+            style="@style/textStyle.Big.black"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="商品详情" />
+    </FrameLayout>
+
+    <LinearLayout
+        android:id="@+id/titlebar_home_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/transparent"
+        android:orientation="horizontal"
+        android:visibility="invisible">
+
+        <Button
+            android:id="@+id/titlebar_scan_btn"
+            style="@style/textStyle.Small.black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left|center_vertical"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:background="@color/transparent"
+            android:drawableTop="@drawable/icon_scan_press"
+            android:text="@string/home_title_scan" />
+
+        <SearchView
+            android:id="@+id/titlebar_home_seach_view"
+            style="@style/textStyle.Normal.black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/transparent"
+            android:iconifiedByDefault="false"
+            android:queryHint="@string/hint_search"
+            android:searchIcon="@drawable/icon_search" />
+
+        <Button
+            android:id="@+id/titlebar_msg_btn"
+            style="@style/textStyle.Small.white"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right|center_vertical"
+            android:layout_marginRight="@dimen/margin_space"
+            android:background="@color/transparent"
+            android:drawableTop="@drawable/icon_msg"
+            android:text="@string/home_title_msg" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/titlebar_category_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:visibility="invisible">
+
+        <Button
+            android:id="@+id/titlebar_cate_back_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left|center_vertical"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:background="@drawable/title_back_selector" />
+
+        <SearchView
+            android:id="@+id/titlebar_category_seach_view"
+            style="@style/textStyle.Normal.subTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/transparent"
+            android:iconifiedByDefault="false"
+            android:queryHint="@string/hint_search"
+            android:searchIcon="@drawable/icon_search" />
+
+        <Button
+            android:id="@+id/titlebar_shopcart_btn"
+            style="@style/textStyle.Small.white"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right|center_vertical"
+            android:layout_marginRight="@dimen/margin_space"
+            android:background="@drawable/icon_titlebar_shopcart" />
+    </LinearLayout>
+
+    <View
+        android:id="@+id/titlebar_line"
+        style="@style/separator_line"
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:layout_gravity="bottom"
+        android:focusable="true"
+        android:focusableInTouchMode="true" />
+</FrameLayout>

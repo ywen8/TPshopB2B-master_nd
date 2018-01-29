@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/debug/drawable-xxhdpi/icon_tab_person_checked.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xxhdpi/icon_tab_person_checked.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/debug/drawable-xxhdpi/icon_tab_cart_normal.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xxhdpi/icon_tab_cart_normal.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/debug/drawable-xxhdpi/icon_tab_category_normal.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xxhdpi/icon_tab_category_normal.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/debug/drawable-xxhdpi/icon_home_msg_w.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xxhdpi/icon_home_msg_w.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/debug/drawable-xxhdpi/icon_tab_home_normal.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xxhdpi/icon_tab_home_normal.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/debug/drawable-xxhdpi/icon_tab_cart_checked.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xxhdpi/icon_tab_cart_checked.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/debug/drawable-xxhdpi/icon_tab_category_checked.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xxhdpi/icon_tab_category_checked.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/debug/drawable-xxhdpi/icon_tab_home_checked.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xxhdpi/icon_tab_home_checked.png"
+    },
+    {
+        "merged": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/build/intermediates/res/merged/debug/drawable-xxhdpi/icon_tab_person_normal.png",
+        "source": "/Users/yw/git/TPshopB2B-master_nd/soubaoShopMobile/src/main/res/drawable-xxhdpi/icon_tab_person_normal.png"
+    }
+]

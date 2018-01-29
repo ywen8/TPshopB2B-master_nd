@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scrollbars="none">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="666dip"
+        android:background="@color/bg_view"
+        android:orientation="vertical">
+
+        <com.bigkoo.convenientbanner.ConvenientBanner
+            android:id="@+id/home_banner_cbanner"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:background="#ffffff"
+            app:canLoop="true" />
+
+        <include
+            layout="@layout/home_sec_menu_navigation_slice"
+            android:visibility="visible" />
+
+        <include
+            android:id="@+id/flash_layout"
+            layout="@layout/home_flash_sale"
+            android:visibility="gone" />
+
+        <ImageView
+            android:id="@+id/icon_ad_middle_top_imgv"
+            android:layout_width="match_parent"
+            android:layout_height="130dip"
+            android:scaleType="fitCenter"
+            android:src="@drawable/icon_product_null" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="220dip"
+            android:orientation="horizontal"
+            android:visibility="visible">
+
+            <LinearLayout
+                android:layout_width="0dip"
+                android:layout_height="220dip"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <com.tpshop.mall.widget.SPBorderImageView
+                    android:id="@+id/icon_ad_middle_left1_imgv"
+                    android:layout_width="match_parent"
+                    android:layout_height="110dip"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/icon_product_null"
+                    app:borderBottomShow="true"
+                    app:borderRightShow="true" />
+
+                <com.tpshop.mall.widget.SPBorderImageView
+                    android:id="@+id/icon_ad_middle_left2_imgv"
+                    android:layout_width="match_parent"
+                    android:layout_height="110dip"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/icon_product_null"
+                    app:borderRightShow="true" />
+            </LinearLayout>
+
+            <com.tpshop.mall.widget.SPBorderImageView
+                android:id="@+id/icon_ad_middle_right_imgv"
+                android:layout_width="0dip"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:scaleType="fitCenter"
+                android:src="@drawable/icon_product_null" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="214dip"
+            android:orientation="vertical"
+            android:visibility="visible">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="40dip"
+                android:src="@drawable/icon_home_new_title" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="174dip"
+                android:orientation="horizontal">
+
+                <com.tpshop.mall.widget.SPBorderImageView
+                    android:id="@+id/icon_ad_new_right_imgv"
+                    android:layout_width="0dip"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/icon_product_null" />
+
+                <LinearLayout
+                    android:layout_width="0dip"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <com.tpshop.mall.widget.SPBorderImageView
+                        android:id="@+id/icon_ad_new_right1_imgv"
+                        android:layout_width="match_parent"
+                        android:layout_height="87dip"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/icon_product_null"
+                        app:borderBottomShow="true"
+                        app:borderRightShow="true" />
+
+                    <com.tpshop.mall.widget.SPBorderImageView
+                        android:id="@+id/icon_ad_new_right2_imgv"
+                        android:layout_width="match_parent"
+                        android:layout_height="87dip"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/icon_product_null"
+                        app:borderRightShow="true" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="276dip"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="40dip"
+                android:src="@drawable/icon_home_hot_title" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="246dip"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="113dip"
+                    android:orientation="horizontal">
+
+                    <com.tpshop.mall.widget.SPBorderImageView
+                        android:id="@+id/icon_ad_hot_top_right_imgv"
+                        android:layout_width="0dip"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/icon_product_null"
+                        app:borderBottomShow="true"
+                        app:borderRightShow="true" />
+
+                    <com.tpshop.mall.widget.SPBorderImageView
+                        android:id="@+id/icon_ad_hot_top_left_imgv"
+                        android:layout_width="0dip"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/icon_product_null"
+                        app:borderBottomShow="true" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="123dip"
+                    android:orientation="horizontal">
+
+                    <com.tpshop.mall.widget.SPBorderImageView
+                        android:id="@+id/icon_ad_hot_bottom1_imgv"
+                        android:layout_width="0dip"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/icon_product_null"
+                        app:borderRightShow="true" />
+
+                    <com.tpshop.mall.widget.SPBorderImageView
+                        android:id="@+id/icon_ad_hot_bottom2_imgv"
+                        android:layout_width="0dip"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/icon_product_null"
+                        app:borderRightShow="true" />
+
+                    <com.tpshop.mall.widget.SPBorderImageView
+                        android:id="@+id/icon_ad_hot_bottom3_imgv"
+                        android:layout_width="0dip"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/icon_product_null"
+                        app:borderRightShow="true" />
+
+                    <com.tpshop.mall.widget.SPBorderImageView
+                        android:id="@+id/icon_ad_hot_bottom4_imgv"
+                        android:layout_width="0dip"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/icon_product_null"
+                        app:borderRightShow="true" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="40dip"
+            android:src="@drawable/icon_home_youlike_title" />
+    </LinearLayout>
+</ScrollView>

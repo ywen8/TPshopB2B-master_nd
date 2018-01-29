@@ -1,0 +1,35 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/order_button_layout"
+    android:layout_width="match_parent"
+    android:layout_height="80dp"
+    android:background="@color/order_center_item_background"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:weightSum="1">
+
+    <com.tpshop.mall.widget.SPBorderImageView
+        android:id="@+id/product_pic_imgv"
+        android:layout_width="70.0dip"
+        android:layout_height="70.0dip"
+        android:layout_alignParentLeft="true"
+        android:layout_marginBottom="@dimen/margin_space_half"
+        android:layout_marginLeft="@dimen/margin_space"
+        android:layout_marginTop="@dimen/margin_space_half"
+        android:background="@color/white"
+        android:scaleType="fitCenter"
+        android:src="@drawable/icon_product_null" />
+
+    <TextView
+        android:id="@+id/product_name_txtv"
+        style="@style/textStyle.Normal.black"
+        android:layout_width="match_parent"
+        android:layout_height="51dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="40dip"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@id/product_pic_imgv"
+        android:ellipsize="end"
+        android:gravity="left"
+        android:maxEms="6"
+        android:maxLines="2" />
+</LinearLayout>

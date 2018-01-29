@@ -1,0 +1,80 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_activity"
+    android:orientation="vertical">
+
+    <include layout="@layout/category_titlebar" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="50dp">
+
+        <ListView
+            android:id="@+id/category_left_lstv"
+            android:layout_width="83dp"
+            android:layout_height="fill_parent"
+            android:background="@color/bg_view"
+            android:choiceMode="singleChoice"
+            android:divider="@color/separator_line"
+            android:dividerHeight="2px"
+            android:listSelector="#00000000"
+            android:scrollbars="none" />
+
+        <com.tonicartos.widget.stickygridheaders.StickyGridHeadersGridView
+            android:id="@+id/category_right_gdvv"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:layout_marginRight="@dimen/margin_space"
+            android:layout_toRightOf="@id/category_left_lstv"
+            android:background="@color/bg_activity"
+            android:listSelector="@android:color/transparent"
+            android:numColumns="3"
+            android:scrollbars="none" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/empty_rlayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="50dp"
+        android:background="@color/bg_view"
+        android:padding="10.0dip"
+        android:visibility="visible">
+
+        <ImageView
+            android:id="@+id/empty_imgv"
+            android:layout_width="100dip"
+            android:layout_height="80dip"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="50dip"
+            android:scaleType="fitCenter"
+            android:src="@drawable/icon_no_data" />
+
+        <TextView
+            android:id="@+id/empty_txtv"
+            style="@style/textStyle.Normal.subTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/empty_imgv"
+            android:layout_marginTop="20dip"
+            android:gravity="center_horizontal"
+            android:singleLine="true"
+            android:text="没有任何数据" />
+
+        <Button
+            android:id="@+id/refresh_btn"
+            android:layout_width="60dp"
+            android:layout_height="32dp"
+            android:layout_below="@id/empty_txtv"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center_vertical"
+            android:layout_marginTop="10dip"
+            android:background="@drawable/button_border_w_selector"
+            android:clickable="true"
+            android:text="@string/click_refresh"
+            android:textSize="12sp" />
+    </RelativeLayout>
+</FrameLayout>

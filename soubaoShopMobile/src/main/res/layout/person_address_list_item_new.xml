@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/bg_view"
+    android:paddingBottom="@dimen/margin_space"
+    android:paddingRight="@dimen/margin_space"
+    android:paddingTop="@dimen/margin_space">
+
+    <TextView
+        android:id="@+id/address_consignee_txtv"
+        style="@style/textStyle.Medium.LightGray"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="@dimen/margin_space"
+        android:maxWidth="150dp" />
+
+    <TextView
+        android:id="@+id/address_default_txtv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/address_consignee_txtv"
+        android:layout_marginLeft="@dimen/margin_space"
+        android:layout_marginTop="@dimen/margin_space"
+        android:background="@color/light_red"
+        android:padding="@dimen/dp_5"
+        android:text="默认"
+        android:textColor="@color/white"
+        android:textSize="11sp" />
+
+    <TextView
+        android:id="@+id/address_mobile_txtv"
+        style="@style/textStyle.Medium.LightGray"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/init_float_margin"
+        android:layout_toRightOf="@+id/address_consignee_txtv"
+        android:lines="1" />
+
+    <ImageView
+        android:id="@+id/address_edit_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:paddingBottom="20dp"
+        android:paddingLeft="20dp"
+        android:paddingTop="20dp"
+        android:src="@drawable/address_edit" />
+
+    <TextView
+        android:id="@+id/address_detail_txtv"
+        style="@style/textStyle.Medium.LightGray"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/address_consignee_txtv"
+        android:layout_marginLeft="@dimen/margin_space"
+        android:layout_marginRight="@dimen/dp_40"
+        android:layout_marginTop="@dimen/margin_space"
+        android:layout_toRightOf="@+id/address_default_txtv"
+        android:ellipsize="end"
+        android:maxLines="2" />
+</RelativeLayout>

@@ -1,0 +1,198 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/bg_activity"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/store_head_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="112dip"
+            android:background="@drawable/icon_store_head">
+
+            <ImageView
+                android:id="@+id/store_logo_imgv"
+                android:layout_width="60.0dip"
+                android:layout_height="60.0dip"
+                android:layout_alignParentBottom="true"
+                android:layout_gravity="center"
+                android:layout_marginBottom="20dip"
+                android:layout_marginLeft="20dip"
+                android:background="@color/white"
+                android:scaleType="fitCenter"
+                android:src="@drawable/category_default" />
+
+            <TextView
+                android:id="@+id/store_name_txtv"
+                style="@style/textStyle.Medium.white"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignTop="@+id/store_logo_imgv"
+                android:layout_marginLeft="@dimen/margin_space"
+                android:layout_marginTop="10dp"
+                android:layout_toRightOf="@id/store_logo_imgv"
+                android:drawablePadding="@dimen/margin_space"
+                android:ellipsize="end"
+                android:gravity="left|center_vertical"
+                android:maxEms="10"
+                android:maxLines="1"
+                android:minWidth="100dip"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/store_attention_txtv"
+                style="@style/textStyle.Normal.white"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/store_name_txtv"
+                android:layout_marginLeft="@dimen/margin_space"
+                android:layout_marginTop="10dp"
+                android:layout_toRightOf="@id/store_logo_imgv"
+                android:ellipsize="end"
+                android:gravity="left|center_vertical"
+                android:maxEms="6"
+                android:maxLines="1"
+                android:minWidth="100dip" />
+
+            <com.tpshop.mall.widget.SPDrawableHorizontalButton
+                android:id="@+id/attention_dhbtn1"
+                android:layout_width="60dip"
+                android:layout_height="25dip"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginBottom="@dimen/margin_space"
+                android:layout_marginRight="@dimen/margin_space_half"
+                android:alpha="0.6"
+                android:background="@drawable/button_border_w_selector"
+                android:drawableLeft="@drawable/icon_store_attention_normal"
+                android:drawablePadding="@dimen/margin_space_half"
+                android:gravity="center"
+                android:text="关注"
+                android:textColor="@color/black"
+                android:textSize="@dimen/textSizeSmall" />
+
+            <com.tpshop.mall.widget.SPDrawableHorizontalButton
+                android:id="@+id/attention_dhbtn2"
+                android:layout_width="60dip"
+                android:layout_height="25dip"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginBottom="@dimen/margin_space"
+                android:layout_marginRight="@dimen/margin_space_half"
+                android:alpha="0.6"
+                android:background="@drawable/button_border_w_selector"
+                android:drawableLeft="@drawable/icon_store_attention_check"
+                android:gravity="center"
+                android:text="已关注"
+                android:textColor="@color/black"
+                android:textSize="@dimen/textSizeSmall"
+                android:visibility="gone" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="57dip"
+            android:background="@color/bg_view"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1.0">
+
+                <TextView
+                    android:id="@+id/store_count_txtv"
+                    style="@style/textStyle.Normal.LightGray"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:clickable="true"
+                    android:ellipsize="end"
+                    android:focusable="true"
+                    android:gravity="center_horizontal|center_vertical"
+                    android:maxEms="6"
+                    android:maxLines="2"
+                    android:minWidth="80dip" />
+            </LinearLayout>
+
+            <View style="@style/separator_line_vertical" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1.0">
+
+                <TextView
+                    android:id="@+id/new_txtv"
+                    style="@style/textStyle.Normal.LightGray"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:ellipsize="end"
+                    android:gravity="center_horizontal|center_vertical"
+                    android:maxEms="6"
+                    android:maxLines="2"
+                    android:minWidth="80dip" />
+            </LinearLayout>
+
+            <View style="@style/separator_line_vertical" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1.0">
+
+                <TextView
+                    android:id="@+id/hot_txtv"
+                    style="@style/textStyle.Normal.LightGray"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:ellipsize="end"
+                    android:gravity="center_horizontal|center_vertical"
+                    android:maxEms="6"
+                    android:maxLines="2"
+                    android:minWidth="80dip" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <RelativeLayout
+            android:id="@+id/banner_lyaout"
+            android:layout_width="match_parent"
+            android:layout_height="136dip"
+            android:layout_marginTop="@dimen/margin_space_half"
+            android:background="@color/bg_view"
+            android:visibility="gone">
+
+            <!-- 自动轮播的第三方控件 -->
+            <com.bigkoo.convenientbanner.ConvenientBanner
+                android:id="@+id/store_banner_cbanner"
+                android:layout_width="fill_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="@dimen/margin_space_half"
+                android:layout_marginTop="@dimen/margin_space_half"
+                android:background="#ffffff"
+                app:canLoop="true" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/title_rl"
+        android:layout_width="match_parent"
+        android:layout_height="44dp"
+        android:layout_marginTop="@dimen/margin_space_half"
+        android:background="@color/bg_view"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/section_title_txtv"
+            style="@style/textStyle.Normal.LightGray"
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical|left"
+            android:paddingLeft="10dp" />
+    </RelativeLayout>
+</LinearLayout>

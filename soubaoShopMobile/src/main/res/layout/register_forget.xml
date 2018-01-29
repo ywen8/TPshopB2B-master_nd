@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin">
+
+    <LinearLayout
+        android:id="@+id/check_code_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="6">
+
+        <EditText
+            android:id="@+id/phone_num_edtv"
+            style="@style/edit_text"
+            android:layout_width="wrap_content"
+            android:layout_weight="4"
+            android:hint="@string/hint_input_phone"
+            android:inputType="phone" />
+
+        <Button
+            android:id="@+id/send_code_btn"
+            style="@style/button_style"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_weight="2"
+            android:enabled="true"
+            android:text="@string/register_btn_re_code_done" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_row"
+        android:layout_marginTop="10dp">
+
+        <EditText
+            android:id="@+id/validate_code_edtv"
+            style="@style/edit_text"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:hint="@string/edit_code_null"
+            android:inputType="textVisiblePassword"
+            android:maxLength="@integer/random_code_length" />
+
+        <ImageView
+            android:id="@+id/txt_rand_code"
+            android:layout_width="100dip"
+            android:layout_height="match_parent"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:onClick="onRandomCodeClick" />
+
+        <ImageView
+            android:id="@+id/img_clear_input"
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="5dp"
+            android:layout_toLeftOf="@+id/txt_rand_code"
+            android:background="@color/black" />
+    </RelativeLayout>
+
+    <EditText
+        android:id="@+id/check_code_edtv"
+        style="@style/edit_text"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:ems="6"
+        android:hint="@string/hint_input_check_code"
+        android:inputType="number"
+        android:maxLength="@integer/sms_check_code_length" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_row"
+        android:layout_marginTop="10dp">
+
+        <EditText
+            android:id="@+id/password_edtv"
+            style="@style/edit_text"
+            android:layout_width="match_parent"
+            android:digits="@string/register_edit_digits"
+            android:hint="@string/hint_input_password"
+            android:inputType="textPassword"
+            android:maxLength="20" />
+
+        <ImageButton
+            android:id="@+id/img_view_pwd"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/bg_edit_write"
+            android:onClick="onPasswordVisiableClick"
+            android:src="@drawable/icon_secrecy_pwd" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_row"
+        android:layout_marginTop="10dp">
+
+        <EditText
+            android:id="@+id/repassword_edtv"
+            style="@style/edit_text"
+            android:layout_width="match_parent"
+            android:digits="@string/register_edit_digits"
+            android:hint="@string/hint_input_repassword"
+            android:inputType="textPassword"
+            android:maxLength="20" />
+
+        <ImageButton
+            android:id="@+id/img_view_repwd"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/bg_edit_write"
+            android:onClick="onPasswordReVisiableClick"
+            android:src="@drawable/icon_secrecy_pwd" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/txt_error_info"
+        style="@style/textStyle.Normal.lightRed"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_space_half"
+        android:text="@string/register_error_info" />
+
+    <Button
+        android:id="@+id/submit_btn"
+        style="@style/button_style"
+        android:layout_width="match_parent"
+        android:layout_margin="15dp"
+        android:enabled="false"
+        android:text="@string/register_button" />
+
+    <TextView
+        android:id="@+id/txt_law_info"
+        style="@style/textStyle.Medium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:text="@string/register_law_info" />
+</LinearLayout>

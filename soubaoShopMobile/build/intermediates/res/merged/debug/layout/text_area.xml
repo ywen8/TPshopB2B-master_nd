@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_view">
+
+    <EditText
+        android:id="@+id/value_edtv"
+        style="@style/textStyle.Normal.LightGray"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:layout_marginLeft="@dimen/margin_space"
+        android:layout_marginRight="@dimen/margin_space"
+        android:layout_marginTop="@dimen/margin_space"
+        android:background="@drawable/text_area"
+        android:gravity="left|top"
+        android:hint="@string/hint_content"
+        android:inputType="textMultiLine" />
+
+    <TextView
+        android:id="@+id/limit_txtv"
+        style="@style/textStyle.Normal.LightGray"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_text"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/value_edtv"
+        android:layout_marginRight="@dimen/margin_space"
+        android:layout_marginTop="@dimen/margin_space"
+        android:gravity="right"
+        android:text="1/50" />
+
+    <Button
+        android:id="@+id/ok_btn"
+        style="@style/button_style"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_button"
+        android:layout_below="@+id/limit_txtv"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:text="@string/ok"
+        android:textColor="@color/white" />
+</RelativeLayout>

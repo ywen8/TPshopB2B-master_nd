@@ -1,0 +1,49 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.tpshop.mall.widget.swipetoloadlayout.SwipeToLoadLayout
+        android:id="@+id/swipe_to_load"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <com.tpshop.mall.widget.swipetoloadlayout.RefreshHeaderView
+            android:id="@+id/swipe_refresh_header"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@id/swipe_target"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scrollbars="none" />
+
+        <com.tpshop.mall.widget.swipetoloadlayout.SwipeLoadMoreFooterLayout
+            android:id="@+id/swipe_load_more_footer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </com.tpshop.mall.widget.swipetoloadlayout.SwipeToLoadLayout>
+
+    <View
+        android:id="@+id/layout_empty"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone" />
+
+    <RelativeLayout
+        android:id="@+id/layout_error"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/tv_error"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="请求失败"
+            android:textSize="20sp" />
+    </RelativeLayout>
+</FrameLayout>
+
+

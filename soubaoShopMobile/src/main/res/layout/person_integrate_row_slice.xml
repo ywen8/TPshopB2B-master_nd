@@ -1,0 +1,124 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="60dip"
+    android:background="@drawable/view_bg_clickable_selector"
+    android:clickable="true"
+    android:focusable="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_toEndOf="@+id/linearLayout2"
+        android:layout_toRightOf="@+id/linearLayout2"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:id="@+id/my_balance"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginTop="@dimen/margin_space"
+            android:layout_weight="1.0"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/person_balance_txtv"
+                style="@style/textStyle.Normal.black"
+                android:layout_width="match_parent"
+                android:layout_height="20dip"
+                android:gravity="center"
+                android:text="0"
+                android:textColor="#E23435"
+                android:textStyle="bold" />
+
+            <TextView
+                style="@style/textStyle.Normal.black"
+                android:layout_width="match_parent"
+                android:layout_height="20dip"
+                android:gravity="center"
+                android:text="余额"
+                android:textColor="#4c4c4c" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/my_coupon"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginTop="@dimen/margin_space"
+            android:layout_weight="1.0"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/person_coupon_txtv"
+                style="@style/textStyle.Normal.black"
+                android:layout_width="match_parent"
+                android:layout_height="20dip"
+                android:gravity="center"
+                android:text="0"
+                android:textColor="#E23435"
+                android:textStyle="bold" />
+
+            <TextView
+                style="@style/textStyle.Normal.black"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="优惠券"
+                android:textColor="#4c4c4c" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/my_points"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginTop="@dimen/margin_space"
+            android:layout_weight="1.0"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/person_point_txtv"
+                style="@style/textStyle.Normal.black"
+                android:layout_width="match_parent"
+                android:layout_height="20dip"
+                android:gravity="center"
+                android:text="0"
+                android:textColor="#E23435"
+                android:textStyle="bold" />
+
+            <TextView
+                style="@style/textStyle.Normal.black"
+                android:layout_width="match_parent"
+                android:layout_height="20dip"
+                android:gravity="center"
+                android:text="积分"
+                android:textColor="#4c4c4c" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="120dip"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="@dimen/margin_space"
+        android:gravity="center_vertical|right"
+        android:minWidth="120dip"
+        android:orientation="horizontal"
+        android:visibility="gone">
+
+        <TextView
+            style="@style/textStyle.Normal.subTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dip"
+            android:text="积分明细" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="5dip"
+            android:src="@drawable/personal_arrow_right" />
+    </LinearLayout>
+</RelativeLayout>

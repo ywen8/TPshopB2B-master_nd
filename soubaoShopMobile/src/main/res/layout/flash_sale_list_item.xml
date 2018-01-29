@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/bg_view"
+        android:paddingBottom="@dimen/margin_space_half"
+        android:paddingTop="@dimen/margin_space_half">
+
+        <com.tpshop.mall.widget.SPBorderImageView
+            android:id="@+id/product_pic_imgv"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="@dimen/margin_space"
+            android:background="@color/white"
+            android:scaleType="fitCenter"
+            android:src="@drawable/icon_product_null" />
+
+        <TextView
+            android:id="@+id/product_name_txtv"
+            style="@style/textStyle.Normal.black"
+            android:layout_width="match_parent"
+            android:layout_height="35.0dip"
+            android:layout_marginLeft="@dimen/margin_space_half"
+            android:layout_marginRight="@dimen/margin_space"
+            android:layout_marginTop="@dimen/margin_space_half"
+            android:layout_toRightOf="@id/product_pic_imgv"
+            android:ellipsize="end"
+            android:gravity="left"
+            android:maxEms="6"
+            android:maxLines="2" />
+
+        <TextView
+            android:id="@+id/price_txtv"
+            style="@style/textStyle.Normal.lightRed"
+            android:layout_width="80dip"
+            android:layout_height="20.0dip"
+            android:layout_below="@id/product_name_txtv"
+            android:layout_marginLeft="@dimen/margin_space_half"
+            android:layout_toRightOf="@id/product_pic_imgv"
+            android:ellipsize="end"
+            android:gravity="left|center_vertical"
+            android:maxEms="6"
+            android:maxLines="1" />
+
+        <TextView
+            android:id="@+id/goods_price_txtv"
+            style="@style/textStyle.Normal.subTitle"
+            android:layout_width="80dip"
+            android:layout_height="20.0dip"
+            android:layout_below="@id/price_txtv"
+            android:layout_marginLeft="@dimen/margin_space_half"
+            android:layout_toRightOf="@id/product_pic_imgv"
+            android:ellipsize="end"
+            android:gravity="left|center_vertical"
+            android:maxEms="6"
+            android:maxLines="1" />
+
+        <TextView
+            android:id="@+id/buy_txtv"
+            style="@style/textStyle.Small.white"
+            android:layout_width="50dip"
+            android:layout_height="20.0dip"
+            android:layout_alignParentRight="true"
+            android:layout_alignTop="@+id/price_txtv"
+            android:layout_marginLeft="@dimen/margin_space_half"
+            android:layout_marginRight="@dimen/margin_space"
+            android:background="@color/light_red"
+            android:ellipsize="end"
+            android:gravity="center"
+            android:maxEms="6"
+            android:maxLines="1"
+            android:text="去抢购" />
+
+        <TextView
+            android:id="@+id/percent_txtv"
+            style="@style/textStyle.Normal.subTitle"
+            android:layout_width="80dip"
+            android:layout_height="20.0dip"
+            android:layout_alignParentRight="true"
+            android:layout_below="@id/buy_txtv"
+            android:layout_marginLeft="@dimen/margin_space_half"
+            android:layout_marginRight="@dimen/margin_space"
+            android:ellipsize="end"
+            android:gravity="right|center_vertical"
+            android:maxEms="6"
+            android:maxLines="1" />
+    </RelativeLayout>
+</RelativeLayout>

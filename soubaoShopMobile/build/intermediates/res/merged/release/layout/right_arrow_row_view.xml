@@ -1,0 +1,59 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/view_bg_clickable_selector">
+
+    <ImageView
+        android:id="@+id/image_imgv"
+        android:layout_width="@dimen/arrow_image_size"
+        android:layout_height="@dimen/arrow_image_size"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="@dimen/margin_space" />
+
+    <TextView
+        android:id="@+id/title_txtv"
+        style="@style/textStyle.Normal.Gray"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:gravity="center_vertical|left" />
+
+    <TextView
+        android:id="@+id/sec_title_txtv"
+        style="@style/textStyle.Small.white"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="@dimen/margin_space_half"
+        android:layout_toRightOf="@+id/title_txtv"
+        android:background="@color/light_red"
+        android:gravity="center_vertical|left"
+        android:paddingLeft="3dp"
+        android:paddingRight="3dp"
+        android:visibility="invisible" />
+
+    <ImageView
+        android:id="@+id/arrow_imgv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="@dimen/margin_space"
+        android:src="@drawable/personal_arrow_right" />
+
+    <TextView
+        android:id="@+id/sub_title_txtv"
+        style="@style/textStyle.Normal.LightGray"
+        android:layout_width="150dp"
+        android:layout_height="match_parent"
+        android:layout_toLeftOf="@id/arrow_imgv"
+        android:ellipsize="end"
+        android:gravity="center_vertical|right"
+        android:maxLines="1" />
+
+    <View
+        android:id="@+id/line"
+        style="@style/separator_line"
+        android:layout_alignParentBottom="true" />
+</RelativeLayout>

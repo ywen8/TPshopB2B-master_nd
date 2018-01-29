@@ -1,0 +1,91 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fresco="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/bg_view"
+    android:descendantFocusability="blocksDescendants"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/user_ll"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <com.facebook.drawee.view.SimpleDraweeView
+            android:id="@+id/head_mimgv"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_marginLeft="10dp"
+            fresco:actualImageScaleType="centerInside"
+            fresco:placeholderImage="@drawable/person_default_head"
+            fresco:roundAsCircle="true"
+            fresco:roundingBorderColor="@color/white" />
+
+        <TextView
+            android:id="@+id/comment_username_txtv"
+            style="@style/textStyle.Normal.black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:paddingRight="@dimen/margin_space" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/star_rlayout"
+        android:layout_width="match_parent"
+        android:layout_height="30dip"
+        android:layout_marginTop="@dimen/margin_space_half">
+
+        <com.tpshop.mall.widget.SPStarSmallView
+            android:id="@+id/comment_star_layout"
+            android:layout_width="match_parent"
+            android:layout_height="25dip"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:orientation="horizontal" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/comment_content_txtv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/margin_space"
+        android:layout_marginRight="@dimen/margin_space"
+        android:gravity="left|center_vertical"
+        android:textColor="#333"
+        android:textSize="@dimen/textSizeNormal" />
+
+    <HorizontalScrollView
+        android:id="@+id/comment_product_scrollv"
+        android:layout_width="match_parent"
+        android:layout_height="80dip"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="@dimen/margin_space"
+        android:layout_marginRight="@dimen/margin_space"
+        android:scrollbars="none"
+        android:visibility="gone">
+
+        <LinearLayout
+            android:id="@+id/comment_gallery_lyaout"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:orientation="horizontal" />
+    </HorizontalScrollView>
+
+    <TextView
+        android:id="@+id/comment_addtime_txtv"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:layout_alignParentRight="true"
+        android:ellipsize="end"
+        android:gravity="left|center_vertical"
+        android:maxLines="1"
+        android:paddingLeft="@dimen/margin_space"
+        android:textColor="@color/color_font_666"
+        android:textSize="@dimen/textSizeNormal" />
+</LinearLayout>

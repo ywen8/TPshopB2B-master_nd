@@ -1,0 +1,14 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ListView
+        android:id="@+id/store_street_lstv"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:choiceMode="singleChoice"
+        android:divider="@color/bg_header"
+        android:dividerHeight="@dimen/margin_space"
+        android:listSelector="#00000000"
+        android:scrollbars="none" />
+</LinearLayout>

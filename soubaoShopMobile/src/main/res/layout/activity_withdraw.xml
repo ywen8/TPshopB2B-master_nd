@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/card_number"
+        android:layout_width="@dimen/withdraw_text_width"
+        android:layout_height="@dimen/withdraw_height_row"
+        android:background="@android:color/white"
+        android:gravity="center_vertical"
+        android:paddingLeft="15dp"
+        android:text="@string/withdraw_card_num" />
+
+    <EditText
+        android:id="@+id/txt_withdraw_card_number"
+        style="@style/edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/card_number"
+        android:layout_alignParentTop="true"
+        android:layout_toEndOf="@+id/card_number"
+        android:layout_toRightOf="@+id/card_number"
+        android:ems="10"
+        android:hint="@string/withdraw_card_num_hint"
+        android:inputType="number"
+        android:paddingLeft="20dp" />
+
+    <View
+        android:id="@+id/line"
+        style="@style/separator_line"
+        android:layout_below="@+id/card_number" />
+
+
+    <TextView
+        android:id="@+id/withdraw_card_ower"
+        android:layout_width="@dimen/withdraw_text_width"
+        android:layout_height="@dimen/withdraw_height_row"
+        android:layout_below="@+id/line"
+        android:background="@android:color/white"
+        android:gravity="center_vertical"
+        android:paddingLeft="15dp"
+        android:text="@string/withdraw_card_ower" />
+
+    <EditText
+        android:id="@+id/txt_withdraw_card_ower"
+        style="@style/edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/withdraw_card_ower"
+        android:layout_alignTop="@+id/withdraw_card_ower"
+        android:layout_toEndOf="@+id/withdraw_card_ower"
+        android:layout_toRightOf="@+id/withdraw_card_ower"
+        android:ems="10"
+        android:hint="@string/withdraw_card_ower_hint"
+        android:paddingLeft="20dp" />
+
+    <View
+        android:id="@+id/line2"
+        style="@style/separator_line"
+        android:layout_below="@+id/withdraw_card_ower" />
+
+
+    <TextView
+        android:id="@+id/withdraw_bank"
+        android:layout_width="@dimen/withdraw_text_width"
+        android:layout_height="@dimen/withdraw_height_row"
+        android:layout_below="@+id/line2"
+        android:background="@android:color/white"
+        android:gravity="center_vertical"
+        android:paddingLeft="15dp"
+        android:text="@string/withdraw_bank_name" />
+
+    <EditText
+        android:id="@+id/txt_withdraw_bank"
+        style="@style/edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/withdraw_bank"
+        android:layout_alignTop="@+id/withdraw_bank"
+        android:layout_toEndOf="@+id/withdraw_bank"
+        android:layout_toRightOf="@+id/withdraw_bank"
+        android:ems="10"
+        android:hint="@string/withdraw_bank_name_hint"
+        android:paddingLeft="20dp" />
+
+    <View
+        android:id="@+id/line3"
+        style="@style/separator_line"
+        android:layout_below="@+id/withdraw_bank" />
+
+    <TextView
+        android:id="@+id/withdraw_bank_balance"
+        android:layout_width="@dimen/withdraw_text_width"
+        android:layout_height="@dimen/withdraw_height_row"
+        android:layout_below="@+id/line3"
+        android:background="@android:color/white"
+        android:gravity="center_vertical"
+        android:paddingLeft="15dp"
+        android:text="@string/withdraw_bank_balance" />
+
+    <EditText
+        android:id="@+id/txt_withdraw_bank_balance"
+        style="@style/edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/withdraw_bank_balance"
+        android:layout_alignTop="@+id/withdraw_bank_balance"
+        android:layout_toEndOf="@+id/withdraw_bank_balance"
+        android:layout_toRightOf="@+id/withdraw_bank_balance"
+        android:ems="10"
+        android:hint="@string/withdraw_bank_balance_hint"
+        android:inputType="number"
+        android:paddingLeft="20dp" />
+
+    <View
+        android:id="@+id/line4"
+        style="@style/separator_line"
+        android:layout_below="@+id/withdraw_bank_balance" />
+
+    <TextView
+        android:id="@+id/withdraw_bank_code"
+        android:layout_width="@dimen/withdraw_text_width"
+        android:layout_height="@dimen/withdraw_height_row"
+        android:layout_below="@+id/line4"
+        android:background="@android:color/white"
+        android:gravity="center_vertical"
+        android:paddingLeft="15dp"
+        android:text="@string/withdraw_bank_code" />
+
+    <EditText
+        android:id="@+id/txt_withdraw_code"
+        style="@style/edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/withdraw_bank_code"
+        android:layout_alignTop="@+id/withdraw_bank_code"
+        android:layout_toEndOf="@+id/withdraw_bank_code"
+        android:layout_toRightOf="@+id/withdraw_bank_code"
+        android:ems="10"
+        android:hint="@string/withdraw_bank_code_hint"
+        android:inputType="textVisiblePassword"
+        android:maxLength="4"
+        android:paddingLeft="20dp" />
+
+    <ImageView
+        android:id="@+id/txt_rand_code"
+        android:layout_width="100dip"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/withdraw_bank_code"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/withdraw_bank_code"
+        android:onClick="onRandomCodeClick" />
+
+    <View
+        android:id="@+id/line5"
+        style="@style/separator_line"
+        android:layout_below="@+id/txt_withdraw_code" />
+
+    <Button
+        android:id="@+id/btn_submit"
+        style="@style/button_style"
+        android:layout_width="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="20dp"
+        android:layout_marginTop="40dp"
+        android:enabled="false"
+        android:onClick="onSubmitClick"
+        android:text="@string/withdraw_submit" />
+</RelativeLayout>

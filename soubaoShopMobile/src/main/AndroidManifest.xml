@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.tpshop.mall"
+    android:versionCode="2"
+    android:versionName="2.0.1">
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="21" />
+
+    <!-- Required -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+    <!-- Required -->
+    <uses-permission android:name="android.permission.RECEIVE_USER_PRESENT" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <!-- Optional Required for location feature -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_LOGS" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.SET_DEBUG_APP" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.USE_CREDENTIALS" />
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS" />
+    <!-- 手机震动权限 -->
+    <uses-permission android:name="android.permission.BODY_SENSORS" />
+    <uses-permission android:name="android.permission.BAIDU_LOCATION_SERVICE" />
+    <uses-permission android:name="android.permission.ACCES_MOCK_LOCATION" />
+    <uses-permission android:name="com.android.launcher.permission.READ_SETTINGS" />
+    <uses-permission android:name="android.permission.ACCESS_GPS" />
+    <!-- SDK1.5需要android.permission.GET_TASKS权限判断本程序是否为当前运行的应用? -->
+    <uses-permission android:name="android.permission.BROADCAST_STICKY" />
+    <!-- 来电消音 -->
+    <uses-permission android:name="android.permission.PROCESS_OUTGOING_CALLS" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+
+    <application
+        android:name="com.tpshop.mall.global.SPMobileApplication"
+        android:allowBackup="true"
+        android:hardwareAccelerated="true"
+        android:icon="@drawable/appicon"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".SPMainActivity"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name=".WelcomeActivity"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+        <activity
+            android:name=".SplashActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <provider
+            android:name="android.support.v4.content.FileProvider"
+            android:authorities="com.tpshop.mall.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" />
+        </provider>
+
+        <activity
+            android:name=".activity.person.address.SPConsigneeAddressEditActivity_"
+            android:label="@string/app_name" />
+        <activity
+            android:name=".activity.person.address.SPCitySelectActivity_"
+            android:label="@string/app_name" />
+        <activity
+            android:name=".activity.shop.SPProductListActivity"
+            android:label="@string/app_name" />
+        <activity android:name=".activity.shop.SPProductListSearchResultActivity" />
+        <activity
+            android:name=".activity.shop.SPProductDetailActivity_"
+            android:label="@string/title_product_detail"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name=".activity.shop.SPConfirmOrderActivity_"
+            android:label="@string/title_activity_spconfirm_order"
+            android:windowSoftInputMode="stateAlwaysHidden|adjustPan" />
+        <activity
+            android:name=".activity.shop.SPConfirmVirtualOrderActivity_"
+            android:windowSoftInputMode="adjustPan|stateHidden" />
+        <activity
+            android:name=".activity.person.address.SPConsigneeAddressListActivity_"
+            android:label="@string/title_consignee_list" />
+        <activity android:name=".activity.common.SPTextAreaViewActivity_" />
+        <activity android:name=".activity.common.SPPayListActivity_" />
+        <activity android:name=".activity.person.order.SPOrderListActivity_" />
+        <activity android:name=".activity.person.order.SPOrderDetailActivity_" />
+        <activity android:name=".activity.shop.SPProductShowListActivity_" />
+        <activity android:name=".activity.person.SPCollectListActivity_" />
+        <activity android:name=".activity.person.SPSettingListActivity_" />
+        <activity android:name=".activity.person.SPTypeSelectActivity_" />
+        <activity android:name=".activity.person.order.SPCommentCenterActivity_" />
+        <activity
+            android:name=".activity.common.SPSearchCommonActivity_"
+            android:noHistory="true" />
+        <activity android:name="com.soubao.spmobile.SPMobileActivity" />
+        <activity
+            android:name=".activity.common.SPCommonWebActivity"
+            android:windowSoftInputMode="adjustPan|stateHidden" />
+        <activity android:name=".activity.shop.SPCommodityEvaluationActivity_" />
+        <activity android:name=".activity.person.SPCouponListActivity_" />
+        <activity android:name=".activity.person.SPCouponCenterActivity_" />
+        <activity android:name=".activity.shop.SPStoreAboutActivity_" />
+        <activity android:name=".activity.shop.SPStoreHomeActivity_" />
+        <activity android:name=".activity.shop.SPStoreGoodsClassActivity_" />
+        <activity android:name=".activity.shop.SPStoreProductListActivity" />
+        <activity android:name=".activity.shop.SPBrandStreetActivity_" />
+        <activity android:name=".activity.shop.SPStoreStreetActivity_" />
+        <activity android:name=".activity.shop.SPStoreMapActivity_" />
+        <activity android:name=".activity.shop.SPStoreGuideActivity" />
+        <activity android:name=".activity.shop.SPGroupListActivity_" />
+        <activity android:name=".activity.shop.SPFlashSaleActivity_" />
+        <activity android:name=".activity.shop.SPGoodsPromoteActivity_" />
+        <activity
+            android:name=".activity.shop.SPOrderInvoceActivity_"
+            android:windowSoftInputMode="adjustPan|stateHidden" />
+        <activity
+            android:name=".activity.common.SPImagePreviewActivity_"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <!-- 百度地图 START -->
+        <service
+            android:name="com.baidu.location.f"
+            android:enabled="true"
+            android:process=":remote" />
+
+        <meta-data
+            android:name="BaiduMobAd_STAT_ID"
+            android:value="48ae76de3f" />
+        <meta-data
+            android:name="com.baidu.lbsapi.API_KEY"
+            android:value="wflS14quYqFGzLMmNHdTLfUZgD5xOiat" />
+        <!--key:开发者申请的Key-->
+        <!-- wechat callback -->
+        <activity
+            android:name=".wxapi.WXEntryActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <!-- QQ callback -->
+        <activity
+            android:name="com.umeng.qq.tencent.AuthActivity"
+            android:launchMode="singleTask"
+            android:noHistory="true">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.umeng.qq.tencent.AssistActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <!-- alipay sdk begin -->
+        <activity
+            android:name="com.alipay.sdk.app.H5PayActivity"
+            android:configChanges="orientation|keyboardHidden|navigation|screenSize"
+            android:exported="false"
+            android:screenOrientation="behind"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <!-- alipay sdk end -->
+        <activity
+            android:name=".activity.person.user.SPLoginActivity_"
+            android:launchMode="singleTask" />
+        <activity android:name=".activity.person.user.SPUserDetailsActivity_" />
+        <activity android:name=".activity.person.user.SPModifyPasswordActivity_" />
+        <activity android:name=".activity.common.SPPushMessageListActivity_" />
+        <activity android:name=".activity.person.user.SPRegisterActivity_" />
+        <activity android:name=".activity.person.user.SPMessageSettingsActivity_" />
+        <activity android:name=".activity.person.user.SPMessageCenterActivity_" />
+        <activity android:name=".activity.person.user.SPPayPwdActivity_" />
+        <activity android:name=".activity.person.user.SPBindAccountActivity_" />
+        <activity android:name=".activity.person.user.SPAssociatedAccountActivity_" />
+        <activity
+            android:name=".activity.person.user.SPMessageNoticeFragmentActivity_"
+            android:excludeFromRecents="true"
+            android:launchMode="singleTask"
+            android:taskAffinity="" />
+        <activity android:name=".activity.shop.SPIntegralMallActivity_" />
+        <activity
+            android:name=".zxing.MipcaActivityCapture"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+
+        <receiver android:name=".AppRegister">
+            <intent-filter>
+                <action android:name="com.tencent.mm.plugin.openapi.Intent.ACTION_REFRESH_WXAPP" />
+            </intent-filter>
+        </receiver>
+        <!-- User defined.For test only 用户自定义的广播接收器 -->
+        <receiver
+            android:name=".push.jPushReceiver"
+            android:enabled="true"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="cn.jpush.android.intent.REGISTRATION" /> <!-- Required  用户注册SDK的intent -->
+                <action android:name="cn.jpush.android.intent.MESSAGE_RECEIVED" /> <!-- Required  用户接收SDK消息的intent -->
+                <action android:name="cn.jpush.android.intent.NOTIFICATION_RECEIVED" /> <!-- Required  用户接收SDK通知栏信息的intent -->
+                <action android:name="cn.jpush.android.intent.NOTIFICATION_OPENED" /> <!-- Required  用户打开自定义通知栏的intent -->
+                <action android:name="cn.jpush.android.intent.CONNECTION" /> <!-- 接收网络变化 连接/断开 since 1.6.3 -->
+                <category android:name="com.tpshop.mall" />
+            </intent-filter>
+        </receiver>
+        <activity
+            android:name=".wxapi.WXPayEntryActivity"
+            android:exported="true"
+            android:launchMode="singleTop"
+            android:theme="@android:style/Theme.Translucent" />
+
+        <meta-data
+            android:name="UMENG_APPKEY"
+            android:value="57ee0c7e67e58e6d6e000962" />
+        <meta-data
+            android:name="UMENG_CHANNEL"
+            android:value="Shop" />
+
+        <activity
+            android:name=".activity.common.PinYinActivity_"
+            android:label="@string/title_activity_pin_yin" />
+        <!-- 资金管理 -->
+        <activity android:name=".activity.person.catipal.SPCapitalManageActivity_" />
+        <!-- 充值 -->
+        <activity android:name=".activity.person.catipal.SPTopUpActivity_" />
+        <!-- 提现 -->
+        <activity android:name=".activity.person.catipal.SPWithdrawActivity_" />
+        <!-- 找回密码 -->
+        <activity android:name=".activity.person.user.SPFindPasswordActivity_" />
+        <!-- 性别选择 -->
+        <activity android:name=".activity.person.user.SPUserGenderActivity_" />
+        <!-- 修改手机 -->
+        <activity android:name=".activity.person.user.SPChangeMobileActivity_" />
+        <!-- 修改邮箱 -->
+        <activity android:name=".activity.person.user.SPChangeEmailActivity_" />
+        <!-- 修改昵称 -->
+        <activity android:name=".activity.person.user.SPChangeNickNameActivity_" />
+        <!-- 实名认证 -->
+        <activity android:name=".activity.person.SPBrowsingHistoryActivity_" />
+        <activity android:name=".activity.person.SPOfflineAllianceActivity_" />
+        <activity android:name=".activity.person.SPMerchantsSettledActivity_" />
+        <activity
+            android:name=".activity.person.SPMerchantsShopActivity_"
+            android:windowSoftInputMode="adjustPan|stateHidden" />
+        <activity android:name=".activity.person.order.SPOrderCouponListActivity_" />
+        <activity android:name=".activity.person.order.SPVirtualOrderActivity_" />
+        <activity
+            android:name=".activity.common.SPPayCompletedSecActivity_"
+            android:noHistory="true" />
+        <activity
+            android:name=".activity.person.order.SPApplySeriverActivity_"
+            android:windowSoftInputMode="adjustPan|stateHidden" />
+        <activity android:name=".activity.common.SPRechargeCompletedSecActivity_" />
+
+        <activity
+            android:name=".WBShareActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".apshare.ShareEntryActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+    </application>
+</manifest>

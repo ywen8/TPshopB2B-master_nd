@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_view"
+    android:padding="20dp">
+
+    <TextView
+        android:id="@+id/textView6"
+        style="@style/textStyle.Normal.LightGray"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/height_row"
+        android:background="@android:color/white"
+        android:gravity="center_vertical"
+        android:text="@string/change_email_title" />
+
+    <EditText
+        android:id="@+id/txt_email_address"
+        style="@style/edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_row"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/textView6"
+        android:ems="10"
+        android:hint="@string/change_email_title_hint"
+        android:inputType="textEmailAddress"
+        android:paddingLeft="20dp" />
+
+    <View
+        android:id="@+id/line"
+        style="@style/separator_line"
+        android:layout_below="@+id/txt_email_address" />
+
+    <Button
+        android:id="@+id/ok_btn"
+        style="@style/button_style"
+        android:layout_width="match_parent"
+        android:layout_below="@+id/txt_email_address"
+        android:layout_marginTop="40dp"
+        android:enabled="false"
+        android:onClick="onResultOkClick"
+        android:text="@string/change_mobile_submit" />
+</RelativeLayout>
